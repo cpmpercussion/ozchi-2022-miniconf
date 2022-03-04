@@ -1,20 +1,20 @@
-name: MiniConf
-tagline: MINICONF <br> CONFERENCE <br> MANAGEMENT
-date: May 2020
-citation_date: May 2020
-proceedings_title: Proceedings of the First MiniCon Conference
+name: OzCHI 2022
+tagline: OzCHI 2022 <br> connected creativity
+date: 28 Nov - 2 Dec, 2022
+citation_date: Nov 2022
+proceedings_title: Proceedings of the 34th Australian Conference on Human-Computer Interaction (HCI)
 analytics: UA-
 logo:
-  image: static/images/MiniConf.png
+  image: static/images/ozchi-logo.png
   width: 180px
   height: auto
 # uncomment the following line to show the site title next to the logo image
-# site_title: MiniConf
+# site_title: OzCHI
 page_title:
-  prefix: 'MiniConf 2020'
+  prefix: 'OzCHI 2022'
   separator: ': '
-background_image: static/images/main.jpg
-organization: MiniConf Organization Committee
+background_image: static/images/kambri.jpg
+organization: OzCHI and HFESA
 
 # Remove or change to your chat server.
 chat_server: miniconf.sloppy.zone
