@@ -1,12 +1,16 @@
 name: OzCHI 2022
-tagline: OzCHI 2022 <br> connected creativity
+tagline: "OzCHI 2022: connected creativity"
 date: 28 Nov - 2 Dec, 2022
 citation_date: Nov 2022
 proceedings_title: Proceedings of the 34th Australian Conference on Human-Computer Interaction (HCI)
 analytics: UA-
 logo:
-  image: static/images/ozchi-logo.png
+  image: static/images/ozchi-logo-text-black.png
   width: 180px
+  height: auto
+biglogo:
+  image: static/images/ozchi-logo-white.png
+  width: 500px
   height: auto
 # uncomment the following line to show the site title next to the logo image
 # site_title: OzCHI
