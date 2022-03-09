@@ -1,15 +1,30 @@
+/*
+#25151E
+#4B335C
+#8B80D4
+#685398
+#5B60B8
+#7a4b2f
+#8D6267
+#DB9F7B
+#F6D4AE
+
+
+*/
+
 body a {
-  color: #2294e0;
+  color: #DB9F7B;
 }
 
 body a:hover {
-  color: #2294e0;
+  color: #8D6267;
   text-decoration: none;
 }
 
 h2,
 h3 {
   font-family: "Public Sans";
+/*  color:  #4B335C;*/
 }
 
 label:text-muted,
@@ -32,11 +47,11 @@ body {
 }
 
 .btn-group {
-  background-color: white;
+  background-color: #F6D4AE;
 }
 
 .btn {
-  background-color: white;
+  background-color: #F6D4AE;
 }
 
 #main-nav {
@@ -88,7 +103,7 @@ body {
 }
 
 body .nav-pills .nav-link.active {
-  background-color: #bed972;
+  background-color: #8B80D4;
 }
 
 .container {
@@ -140,7 +155,7 @@ h3.card-subtitle.text-muted {
 
 .main-title {
   font-weight: 700;
-  color: #2294e0;
+  color: #7a4b2f;
   font-family: "Montserrat";
 }
 
