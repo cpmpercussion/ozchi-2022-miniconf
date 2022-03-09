@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
   font-family: "PublicSans";
   font-style: italic;
   font-display: swap;
@@ -11,4 +11,6 @@
   font-display: swap;
   src: local("Public Sans"), local("PublicSans"),
     url(PublicSans-VariableFont_wght.ttf) format("truetype");
-}
+}*/
+
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
