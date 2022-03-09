@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "PublicSans";
+  font-style: italic;
+  font-display: swap;
+  src: local("Public Sans Italic"), local("PublicSans-Italic"),
+    url(PublicSans-Italic-VariableFont_wght.ttf) format("truetype");
+}
+@font-face {
+  font-family: "PublicSans";
+  font-style: normal;
+  font-display: swap;
+  src: local("Public Sans"), local("PublicSans"),
+    url(PublicSans-VariableFont_wght.ttf) format("truetype");
+}
