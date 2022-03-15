@@ -1,0 +1,37 @@
+name: Deploys to FTP Site
+
+on:
+  push:
+    tags:        
+      - '*'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [3.8]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: build
+      run: |
+        python main.py sitedata/ --build
+    - name: 📂 Deploy files via ftp
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
+      with:
+        server: ozchi.org
+        username: ${{ secrets.ftp_username }}
+        password: ${{ secrets.ftp_password }}
+        local-dir: ./build/
+        server-dir: 2022/
+        dry-run: true
