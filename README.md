@@ -1,16 +1,7 @@
-## OzCHI 2022 Webpage using MiniConf
+OzCHI 2022 will take place in Canberra, Australia in November/December 2022 and will be hosted by the Australian National University.
 
-This is the website to the 2022 OzCHI Conference.
+A call for papers and other submissions will be announced soon.
 
-The website uses the <a href='https://github.com/Mini-Conf/Mini-Conf'>"miniconf"</a> system. Go look there to see miniconf specific documentation.
+## About OzCHI
 
-This readme is the documentation from Miniconf for how to configure tand develop the page.
-
-## How to serve locally:
-
-<pre>
-> python3 -m pip install -r requirements.txt
-> make run
-</pre>
-
-When you are ready to deploy run `make freeze` to get a static version of the site in the `build` folder. 
+OzCHI is the annual non-profit conference for the Computer-Human Interaction Special Interest Group (CHISIG) and Australia's leading forum for the latest in HCI research and practice. OzCHI attracts a broad international community of researchers, industry practitioners, academics and students. Participants come from a range of backgrounds and include interaction designers, user experience (UX) practitioners, information architects, software engineers, human factors experts, information systems analysts and social scientists.
