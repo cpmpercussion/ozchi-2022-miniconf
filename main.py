@@ -9,6 +9,8 @@ import yaml
 from flask import Flask, jsonify, redirect, render_template, send_from_directory
 from flask_frozen import Freezer
 from flaskext.markdown import Markdown
+from flask_flatpages import FlatPages
+
 
 site_data = {}
 by_uid = {}
@@ -39,10 +41,16 @@ def main(site_data_path):
 
 # ------------- SERVER CODE -------------------->
 
+DEBUG = True
+FLATPAGES_AUTO_RELOAD = DEBUG
+FLATPAGES_EXTENSION = '.md'
+FLATPAGES_ROOT = 'pages'
+
 app = Flask(__name__)
 app.config.from_object(__name__)
 freezer = Freezer(app)
 markdown = Markdown(app)
+pages = FlatPages(app)
 
 
 # MAIN PAGES
@@ -66,14 +74,13 @@ def favicon():
 
 # TOP LEVEL PAGES
 
-
 @app.route("/index.html")
 def home():
     data = _data()
     data["readme"] = open("README.md").read()
     data["committee"] = site_data["committee"]["committee"]
+    # data["pages"] = [p for p in pages]
     return render_template("index.html", **data)
-
 
 @app.route("/help.html")
 def about():
@@ -81,6 +88,12 @@ def about():
     data["FAQ"] = site_data["faq"]["FAQ"]
     return render_template("help.html", **data)
 
+@app.route('/<name>.html')
+def post(name):
+    print("help!")
+    data = _data()
+    page = pages.get_or_404(name)
+    return render_template("flatpage.html", page=page, **data)
 
 @app.route("/papers.html")
 def papers():

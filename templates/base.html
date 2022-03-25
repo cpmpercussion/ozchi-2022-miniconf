@@ -87,12 +87,17 @@
 {% block header %}
 {% set navigation_bar = [
 ('index.html', 'Home'),
-('calendar.html', 'Schedule'),
-('papers.html', 'Papers'),
-('workshops.html', 'Workshops'),
-('chat.html', 'Chat'),
+('call.html', 'Call'),
+('submission.html', 'Submission'),
 ('help.html', 'Help'),
 ] -%}
+
+<!-- Extra NAV entries for conference -->
+{# ('calendar.html', 'Schedule'), #}
+{# ('papers.html', 'Papers'), #}
+{# ('workshops.html', 'Workshops'), #}
+{# ('chat.html', 'Chat'), #}
+
 
 <nav
         class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"

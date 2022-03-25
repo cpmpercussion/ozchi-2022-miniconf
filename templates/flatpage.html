@@ -1,4 +1,4 @@
-{% set active_page = "Home" %}
+{% set active_page = page.title %}
 {% extends "base.html" %}
 
 {% block top %}
@@ -22,9 +22,7 @@
      width={{config.biglogo.width | default("auto") | tojson}}
      />
       <h2>
-        {{config.tagline|safe}}<br />
-        {{config.date|safe}}<br />
-        Canberra | Ngunnawal and Ngambri Country
+        {{ page.title }}
       </h2>
     </div>
   </div>
@@ -32,26 +30,5 @@
 {% endblock %}
 
 {% block content %}
-
-{{ readme | markdown }}
-
-
-
-<!-- Organisers -->
-{{ components.section("Organisers") }}
-{{ components.organizergroup(committee) }}
-
+{{ page.html|safe }}
 {% endblock %}
-
-{# commented code #}
-{#
-<ul>
-  {% for page in pages %}
-      <li>
-          <a href="{{ url_for("page", path=page.path) }}">{{ page.title }}</a>
-      </li>
-  {% else %}
-      <li>No pages so far</li>
-  {% endfor %}
-  </ul>
-#}

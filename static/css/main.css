@@ -103,7 +103,7 @@ body {
 }
 
 body .nav-pills .nav-link.active {
-  background-color: #8B80D4;
+  background-color: #df6b29;
 }
 
 .container {
@@ -307,7 +307,7 @@ body .carousel-control-prev {
 
 .checkbox-bookmark.selected {
   opacity: 1;
-  color: #bed972;
+  color: #df6b29;
 }
 
 /*@supports (-webkit-text-stroke: 1px gray) {*/
