@@ -1,1 +1,25 @@
-{"committee":[{"aff":"Australian National University","im":"https://comp.anu.edu.au/assets/images/people/penny-kyburz.jpg","name":"Penny Kyburz","role":"General Chair","tw":"DrKyburz"},{"aff":"Australian National University","im":"https://comp.anu.edu.au/assets/images/people/jennyfer-taylor.jpg","name":"Jennyfer Lawrence Taylor","role":"General Chair","tw":"jlawtay"},{"aff":"Australian National University","im":"https://comp.anu.edu.au/assets/images/people/charles-martin.jpg","name":"Charles Martin","role":"General Chair","tw":"cpmpercussion"}]}
+{
+  "committee": [
+    {
+      "aff": "Australian National University", 
+      "im": "https://comp.anu.edu.au/assets/images/people/penny-kyburz.jpg", 
+      "name": "Penny Kyburz", 
+      "role": "General Chair", 
+      "tw": "DrKyburz"
+    }, 
+    {
+      "aff": "Australian National University", 
+      "im": "https://comp.anu.edu.au/assets/images/people/jennyfer-taylor.jpg", 
+      "name": "Jennyfer Lawrence Taylor", 
+      "role": "General Chair", 
+      "tw": "jlawtay"
+    }, 
+    {
+      "aff": "Australian National University", 
+      "im": "https://comp.anu.edu.au/assets/images/people/charles-martin.jpg", 
+      "name": "Charles Martin", 
+      "role": "General Chair", 
+      "tw": "cpmpercussion"
+    }
+  ]
+}
