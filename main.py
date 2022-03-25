@@ -90,7 +90,6 @@ def about():
 
 @app.route('/<name>.html')
 def post(name):
-    print("help!")
     data = _data()
     page = pages.get_or_404(name)
     return render_template("flatpage.html", page=page, **data)
@@ -243,7 +242,8 @@ def generator():
         yield "speaker", {"speaker": str(speaker["UID"])}
     for workshop in site_data["workshops"]:
         yield "workshop", {"workshop": str(workshop["UID"])}
-
+    for page in pages:
+        yield "post", {"name": page.path}
     for key in site_data:
         yield "serve", {"path": key}
 
