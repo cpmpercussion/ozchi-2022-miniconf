@@ -1,16 +1,217 @@
 committee:
-  - role: General Chair
-    name: Penny Kyburz
-    aff: Australian National University
+  - aff: Australian National University
+    im: ""
+    name: Yichen Wang
+    role: Accessibility Chair
+    tw: ""
+    url: ""
+  - aff: Australian National University
+    im: ""
+    name: Lauren Bartsch
+    role: Below Zero Chair
+    tw: ""
+    url: ""
+  - aff: University of Wollongong
+    im: ""
+    name: Holly Tootell
+    role: Below Zero Chair
+    tw: ""
+    url: ""
+  - aff: ANU School of Cybernetics
+    im: ""
+    name: Ben Swift
+    role: Creative Computing Chair
+    tw: ""
+    url: ""
+  - aff: Australian National University
+    im: ""
+    name: Bernardo Nunes
+    role: Doctoral Consortium Chair
+    tw: ""
+    url: ""
+  - aff: Australian National University
+    im: ""
+    name: Sabrina Caldwell
+    role: Doctoral Consortium Chair
+    tw: ""
+    url: ""
+  - aff: Queensland University of Technology
+    im: ""
+    name: Nicole Vickery
+    role: Doctoral Consortium Chair
+    tw: ""
+    url: ""
+  - aff: Australian National University
+    im: ""
+    name: Michelle Adiwangsa
+    role: Experience Chair
+    tw: ""
+    url: ""
+  - aff: Australian National University
+    im: ""
+    name: Yufei Cao
+    role: Experience Chair
+    tw: ""
+    url: ""
+  - aff: The University of Sydney
+    im: ""
+    name: Kristina Mah
+    role: Experience Chair
+    tw: ""
+    url: ""
+  - aff: Monash University
+    im: ""
+    name: Zeinab Ghaemi
+    role: Hybrid Chair
+    tw: ""
+    url: ""
+  - aff: UniSA
+    im: ""
+    name: Chenkai Zhang
+    role: Hybrid Chair
+    tw: ""
+    url: ""
+  - aff: Australian National University
+    im: ""
+    name: Priscilla Kan John
+    role: Industry Chair
+    tw: ""
+    url: ""
+  - aff: Mobile Experience & Sydney Uni
+    im: ""
+    name: Oliver Weidlich
+    role: Industry Chair
+    tw: ""
+    url: ""
+  - aff: CSIRO
+    im: ""
+    name: Mingze Xi
+    role: Late-Breaking Work & Case Studies Chair
+    tw: ""
+    url: ""
+  - aff: Google
+    im: ""
+    name: 'Jess Tsimeris '
+    role: Late-Breaking Work & Case Studies Chair
+    tw: ""
+    url: ""
+  - aff: Queensland University of Technology
+    im: ""
+    name: Jane Turner
+    role: Late-Breaking Work & Case Studies Chair
+    tw: ""
+    url: ""
+  - aff: UCL
+    im: ""
+    name: Soojeong Yoo
+    role: Late-Breaking Work & Case Studies Chair
+    tw: ""
+    url: ""
+  - aff: Australian National University
+    im: ""
+    name: Xuanying Zhu
+    role: Logistics Chair
+    tw: ""
+    url: ""
+  - aff: Australian National University
+    im: ""
+    name: Ushini Attanayake
+    role: Logistics Chair
+    tw: ""
+    url: ""
+  - aff: Melbourne
+    im: ""
+    name: Melissa Rogerson
+    role: Papers Chair
+    tw: ""
+    url: ""
+  - aff: Monash University
+    im: ""
+    name: Bronwyn Cumbo
+    role: Papers Chair
+    tw: ""
+    url: ""
+  - aff: The University of Melbourne
+    im: ""
+    name: Greg Wadley
+    role: Papers Chair
+    tw: ""
+    url: ""
+  - aff: The University of Sydney
+    im: ""
+    name: Luke Hespanhol
+    role: Papers Chair
+    tw: ""
+    url: ""
+  - aff: ANU School of Cybernetics
+    im: ""
+    name: Ned Cooper
+    role: Proceedings Chair
+    tw: ""
+    url: ""
+  - aff: CSIRO & Australian National University
+    im: ""
+    name: Jessica Sharmin Rahman
+    role: Proceedings Chair
+    tw: ""
+    url: ""
+  - aff: RMIT
+    im: ""
+    name: Dana Mckay
+    role: Program Chair
+    tw: ""
+    url: ""
+  - aff: University of South Australia
+    im: ""
+    name: Andrew Cunningham
+    role: Program Chair
+    tw: ""
+    url: ""
+  - aff: The University of Sydney
+    im: ""
+    name: Brittany Klaassens
+    role: Social Media Chair
+    tw: ""
+    url: ""
+  - aff: 'The University of Sydney, Design Lab'
+    im: ""
+    name: Senuri Wijenayake
+    role: Web Chair
+    tw: ""
+    url: ""
+  - aff: ANU School of Cybernetics
+    im: ""
+    name: Josh Andres
+    role: Workshops Chair
+    tw: ""
+    url: ""
+  - aff: Charles Darwin University
+    im: ""
+    name: Cat Kutay
+    role: Workshops Chair
+    tw: ""
+    url: ""
+  - aff: The University of Sydney
+    im: ""
+    name: Ajit G. Pillai
+    role: Workshops Chair
+    tw: ""
+    url: ""
+  - aff: Australian National University
     im: https://comp.anu.edu.au/assets/images/people/penny-kyburz.jpg
-    tw: DrKyburz
-  - role: General Chair
-    name: Jennyfer Lawrence Taylor
-    aff: Australian National University
-    tw: jlawtay
+    name: Penny Kyburz
+    role: General Chair
+    tw: drkyburz
+    url: ""
+  - aff: Australian National University
     im: https://comp.anu.edu.au/assets/images/people/jennyfer-taylor.jpg
-  - role: General Chair
-    name: Charles Martin
-    aff: Australian National University
-    tw: cpmpercussion
+    name: Jennyfer Lawrence Taylor
+    role: General Chair
+    tw: jlawtay
+    url: ""
+  - aff: Australian National University
     im: https://comp.anu.edu.au/assets/images/people/charles-martin.jpg
+    name: Charles Martin
+    role: General Chair
+    tw: cpmpercussion
+    url: https://charlesmartin.com.au
