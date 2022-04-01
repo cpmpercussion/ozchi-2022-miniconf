@@ -1,4 +1,4 @@
-{% set active_page = "Home" %}
+{% set active_page = "Organisers" %}
 {% extends "base.html" %}
 
 {% block top %}
@@ -16,16 +16,7 @@
 <div class="jumbotron jumbotron-fluid back" style="padding-bottom: 20px;">
   <div class="row header p-6 m-5">
     <div class="p-1 mx-auto text-center text-white col-md-9 col-sm-12">
-     <img
-     class="logo" src="{{config.biglogo.image}}"
-     height={{config.biglogo.height | default("auto") | tojson}}
-     width={{config.biglogo.width | default("auto") | tojson}}
-     />
-      <h2>
-        {{config.tagline|safe}}<br />
-        {{config.date|safe}}<br />
-        Canberra | Ngunnawal and Ngambri Country
-      </h2>
+      <h2>Organisers</h2>
     </div>
   </div>
 </div>
@@ -33,28 +24,9 @@
 
 {% block content %}
 
-{{ readme | markdown }}
-
-
-{% endblock %}
-
-
-{#
 <!-- Organisers -->
 {{ components.section("Organisers") }}
 {{ components.organizergroup(committee) }}
-#}
 
+{% endblock %}
 
-{# commented code #}
-{#
-<ul>
-  {% for page in pages %}
-      <li>
-          <a href="{{ url_for("page", path=page.path) }}">{{ page.title }}</a>
-      </li>
-  {% else %}
-      <li>No pages so far</li>
-  {% endfor %}
-  </ul>
-#}

@@ -82,6 +82,12 @@ def home():
     # data["pages"] = [p for p in pages]
     return render_template("index.html", **data)
 
+@app.route("/organisers.html")
+def organisers():
+    data = _data()
+    data["committee"] = site_data["committee"]["committee"]
+    return render_template("organisers.html", **data)
+
 @app.route("/help.html")
 def about():
     data = _data()
