@@ -1,6 +1,6 @@
 OzCHI 2022 will take place in Canberra, Australia in November/December 2022 and will be hosted by the Australian National University.
 
-A call for papers and other submissions will be announced soon.
+The [call for papers and submission information](call.html) are available ([link](call.html)).
 
 ## About OzCHI
 
