@@ -46,41 +46,70 @@ presentations in person or online. Accepted submissions will be
 published in the ACM International Conference Proceedings Series
 available from the ACM Digital Library.
 
+### Workshops
+
+Workshops aim to bring together researchers in the field of HCI to 
+discuss and interact on specific topics of interest. Organisers of 
+accepted workshops will be required to solicit position papers and 
+accept responsibility for conducting the workshop.
+
+Workshops are intended to foster discussion and exchange of ideas. 
+Because focused interaction among participants is important, participants 
+should have informed positions based on prior experience. This is typically
+expressed in position papers submitted by workshop attendees. Workshops 
+should not be miniature paper presentation sessions or panels, but focus 
+on community building and communal knowledge creation through discussion 
+and collective synthesis work. Workshop proposals can include different 
+modes of conducting the workshops, i.e. remote only, hybrid or in-person only.
+
+Here are a few examples of accepted workshops from previous years:
+
+- [Animal-Computer Interaction (ACI) & Designing for Animal Interaction (AXD): OzACI, an Australian chapter](https://dl.acm.org/doi/10.1145/3292147.3293453)
+- [Challenges of Emerging Technologies for Human-Centred Design: Bridging the Gap between Inquiry and Invention](https://dl.acm.org/doi/10.1145/3292147.3293451)
+- [Interaction Design for Explainable AI](https://dl.acm.org/doi/10.1145/3292147.3293450)
+- [Educational Virtuality: cognitive benefits, design processes and new frontiers](https://dl.acm.org/doi/10.1145/3292147.3295498)
+- [On and Off the Table: Re-Imagining Food and Wine Interactions (in the wild)](https://dl.acm.org/doi/abs/10.1145/3292147.3293452)
+
+
 ### Important dates
 
--   **17 June 2022:** Papers due
--   **8 August 2022**: Papers notifications
--   **12 August 2022:** LBW and Case Studies due
--   **2 September 2022:** Papers publication ready
--   **26 September 2022:** LBW and Case Studies notifications
--   **10 October 2022:** LBW and Case Studies publication ready
+- **17 June 2022:** Papers due
+- **15 July 2022:** Workshop proposals due
+- **8 August 2022**: Papers notifications
+- **12 August 2022:** LBW and Case Studies due
+- **12 August 2022:** Workshop proposals notifications
+- **2 September 2022:** Papers publication ready
+- **26 September 2022:** LBW and Case Studies notifications
+- **10 October 2022:** LBW and Case Studies publication ready
 
 ### Submission details
 
--   **Template:** Papers and Late-Breaking Work submissions must follow
+- **Template:** Papers, Late-Breaking Work submissions and Workshop proposals must follow
     the new [Word/LaTeX Master Article template](https://www.acm.org/publications/taps/word-template-workflow).
-    -   For Word users:
-	-   Use the [Word submission template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
-	    available from <https://www.acm.org/publications/taps/word-template-workflow>
-    -   LaTeX Users can choose to download the template or use Overleaf:
+    - For Word users: Use the [Word submission template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
+        available from <https://www.acm.org/publications/taps/word-template-workflow>
+    - LaTeX Users can choose to download the template or use Overleaf:
         -   Download the [LaTex master article template](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip)
             available from <https://www.acm.org/publications/taps/word-template-workflow>
         -   If you use Overleaf, you can find the master template on
             <https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ>
         -   For an anonymous submission use: `\documentclass[manuscript,review,anonymous]{acmart}`
-    -   For further information and examples you can refer to the [CHI 2022 instructions for formatting papers](https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/)
--   **Page length:** Papers should be between 9 and 18 pages (excluding
+    - For further information and examples you can refer to the [CHI 2022 instructions for formatting papers](https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/)
+- **Page length:** Papers should be between 9 and 18 pages (excluding
     references), contribution relative to length. LBW and Case Studies
     can be up to 8 pages long (excluding references). Reviewers will be
     instructed to weigh the contribution of a submission relative to its
     length. Shorter, more focused submissions are encouraged and will be
-    reviewed like any other paper.
--   **Anonymisation:** Submissions must be anonymised for peer review.
+    reviewed like any other paper. Workshop papers should be no more than
+    10 pages, including Background, Organisers, Link to website, Pre-workshop
+    plans, Workshop structure, Post workshop plans, Remote/Hybrid/In-person 
+    plans, 250-word call for participation and References.
+- **Anonymisation:** Submissions must be anonymised for peer review.
     Citations of own work and general anonymisation standards should
     follow the [CHI anonymisation policy](https://chi2022.acm.org/for-authors/presenting/papers/chi-anonymization-policy/).
--   **Submission format:** single column format in PDF using Word or
+- **Submission format:** single column format in PDF using Word or
     LaTeX, including source files.
--   **Submission system:** Made to [Precision Conference](https://new.precisionconference.com/OzCHI).
+- **Submission system:** Made to [Precision Conference](https://new.precisionconference.com/OzCHI).
 
 ### Selection process
 
@@ -100,11 +129,21 @@ Papers should:
 
 LBW and Case Study submissions should:
 
--   address a question of **significance** to the OzCHI community and
+- address a question of **significance** to the OzCHI community and
     stimulate interesting, novel conversations around the issue;
--   demonstrate sufficient **technical quality** in the framing of the
+- demonstrate sufficient **technical quality** in the framing of the
     problem, related work, or methods;
--   and demonstrate **clarity of writing** at a level ready for
+- and demonstrate **clarity of writing** at a level ready for
+    publication in the ACM digital library.
+
+Workshops will be selected through evaluation by the Workshops chair. 
+The chairs will consider fit and contribution to HCI community as well as 
+relation to other submitted workshops. Workshop proposals should:
+
+- consider potential of the topic of the workshop to **engage** with OzCHI 
+community, generate stimulating discussion;
+- have a **focused and well-organised** plan for the workshop;
+- and demonstrate **clarity of writing** at a level ready for
     publication in the ACM digital library.
 
 ### Advice for new reviewers
@@ -161,4 +200,10 @@ presentation format will be published on the OzCHI website.
 
 [**lbw.chairs@ozchi.org**](mailto:lbw.chairs@ozchi.org)
 
+**Workshop Chairs**
 
+- Josh Andres, Australian National University
+- Cat Kutay, Charles Darwin University
+- Ajit G. Pillai, The University of Sydney
+
+[**ajit.pillai@sydney.edu.au**](mailto:ajit.pillai@sydney.edu.au)
