@@ -173,12 +173,12 @@ committee:
     role: Social Media Chair
     tw: ""
     url: ""
-  - aff: 'The University of Sydney, Design Lab'
-    im: ""
+  - aff: 'The University of Sydney'
+    im: "https://www.sydney.edu.au/AcademicProfiles/profile/resource?urlid=senuri.wijenayake"
     name: Senuri Wijenayake
     role: Web Chair
-    tw: ""
-    url: ""
+    tw: "SenuriW"
+    url: "https://www.senuriwijenayake.com/"
   - aff: ANU School of Cybernetics
     im: ""
     name: Josh Andres
