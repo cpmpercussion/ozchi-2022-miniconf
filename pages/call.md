@@ -189,7 +189,7 @@ presentation format will be published on the OzCHI website.
 - Greg Wadley, The University of Melbourne
 - Luke Hespanhol, The University of Sydney
 
-[**paper.chairs@ozchi.org**](mailto:paper.chairs@ozchi.org)
+[**luke.hespanhol@sydney.edu.au**](mailto:luke.hespanhol@sydney.edu.au)
 
 **Late-Breaking Work Chairs**
 
