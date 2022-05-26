@@ -78,7 +78,7 @@ conference). Submissions for each will be curated and selected selected by the
 conference organisers.
 
 Creativity submissions may be related to submissions in another track or standalone.
-For creativity submission information see the [creativity page](http://www.ozchi.org/2022/creativity.html)
+For creativity submission information see the [creativity page](http://www.ozchi.org/2022/creativity.html).
 
 ### Important dates
 
