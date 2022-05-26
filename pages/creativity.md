@@ -2,13 +2,18 @@
 title: Creativity Track
 ---
 
-In 2022 the OzCHI creativity track has two parts: the *gig* (a live event on
-Thursday night) and the *room* (an installation space which will be open
-throughout the conference). Submissions for each will be curated and selected
-through a single-blind peer-review process with at least two reviewers. selected
-by the conference organisers.
+OzCHI 2022's theme is "connected creativity" and emphasise this we are
+presenting works from community related to creative computing, games,
+interactive art, music and more. 
 
-*** The *gig* (Algorave)
+The creativity track has two parts: the *gig* (a live event on Thursday night)
+and the *room* (an installation space which will be open throughout the
+conference). Submissions for each will be curated and selected selected by the
+conference organisers.
+
+Creativity submissions may be related to submissions in another track or standalone.
+
+### The *gig* (Algorave)
 
 These days just about all electronic music is made using computers, but with
 artificial barriers between the people creating the software algorithms and the
@@ -36,7 +41,7 @@ To get on the bill for the *gig* track, send us:
 - a tech rider describing your required AV setup (we will have a stereo PA and
   HD data projector)
 
-*** The *room*
+### The *room*
 
 Some examples of HCI practice are better experienced than talked about on a
 bunch of PPT slides. If you've got an interactive system exploring sculpture,
@@ -51,3 +56,8 @@ To submit a work to the *room* track, send us:
 - a one-paragraph description of the work
 - a tech rider describing your setup (size, required power/data/AV connectivity,
   any other sound/lighting requirements)
+
+### Submission
+
+Send your submission following the above formats to [ben.swift@anu.edu.au](mailto:ben.swift@anu.edu.au?subject=ozchi-creativity) by 12 August 2022.
+

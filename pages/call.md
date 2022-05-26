@@ -70,13 +70,22 @@ Here are a few examples of accepted workshops from previous years:
 - [Educational Virtuality: cognitive benefits, design processes and new frontiers](https://dl.acm.org/doi/10.1145/3292147.3295498)
 - [On and Off the Table: Re-Imagining Food and Wine Interactions (in the wild)](https://dl.acm.org/doi/abs/10.1145/3292147.3293452)
 
+### Creativity Track
+
+In 2022 the OzCHI creativity track has two parts: the *gig* (a live event) and
+the *room* (an installation space which will be open throughout the
+conference). Submissions for each will be curated and selected selected by the
+conference organisers.
+
+Creativity submissions may be related to submissions in another track or standalone.
+For creativity submission information see the [creativity page](http://www.ozchi.org/2022/creativity.html)
 
 ### Important dates
 
 - **17 June 2022:** Papers due
 - **15 July 2022:** Workshop proposals due
 - **8 August 2022**: Papers notifications
-- **12 August 2022:** LBW and Case Studies due
+- **12 August 2022:** LBW, Case Studies and Creativity Track due
 - **12 August 2022:** Workshop proposals notifications
 - **2 September 2022:** Papers publication ready
 - **26 September 2022:** LBW and Case Studies notifications
