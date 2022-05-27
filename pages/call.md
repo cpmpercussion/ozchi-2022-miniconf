@@ -95,15 +95,17 @@ Here are a few examples of accepted workshops from previous years:
             <https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ>
         -   For an anonymous submission use: `\documentclass[manuscript,review,anonymous]{acmart}`
     - For further information and examples you can refer to the [CHI 2022 instructions for formatting papers](https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/)
-- **Page length:** Papers should be between 9 and 18 pages (excluding
-    references), contribution relative to length. LBW and Case Studies
-    can be up to 8 pages long (excluding references). Reviewers will be
-    instructed to weigh the contribution of a submission relative to its
-    length. Shorter, more focused submissions are encouraged and will be
-    reviewed like any other paper. Workshop papers should be no more than
-    10 pages, including Background, Organisers, Link to website, Pre-workshop
-    plans, Workshop structure, Post workshop plans, Remote/Hybrid/In-person 
-    plans, 250-word call for participation and References.
+- **Page length:**
+    - Papers should be between 9 and 18 pages (excluding
+     references), contribution relative to length. 
+    - LBW and Case Studies can be up to 8 pages long (excluding references). Reviewers will be
+   instructed to weigh the contribution of a submission relative to its
+   length. Shorter, more focused submissions are encouraged and will be
+   reviewed like any other paper. 
+    - Workshop papers should be no more than
+   10 pages, including Background, Organisers, Link to website, Pre-workshop
+   plans, Workshop structure, Post workshop plans, Remote/Hybrid/In-person 
+   plans, 250-word call for participation and References.
 - **Anonymisation:** Submissions must be anonymised for peer review.
     Citations of own work and general anonymisation standards should
     follow the [CHI anonymisation policy](https://chi2022.acm.org/for-authors/presenting/papers/chi-anonymization-policy/).
