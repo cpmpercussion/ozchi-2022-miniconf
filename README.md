@@ -10,15 +10,23 @@ OzCHI is the annual non-profit conference for the Computer-Human Interaction Spe
 
 The theme of OzCHI 2022 is "connected creativity", this year we want to acknowledge the value of connections between researchers, technologies, society and country and the creative expressions of these connections. To emphasise this theme we are introducing a special [creativity track](creativity.html) for OzCHI 2022 to present creative computing works including art, games, media and music that connect with and extend human-computer interaction. 
 
-## Important Dates
+### Important dates
 
+###### Papers
 - **17 June 2022:** Papers due
-- **15 July 2022:** Workshop proposals due
 - **8 August 2022**: Papers notifications
-- **12 August 2022:** LBW, Case Studies and Creativity Track due
-- **12 August 2022:** Workshop proposals notifications
 - **2 September 2022:** Papers publication ready
+
+###### LBW, Case Studies and Creativity Track
+- **12 August 2022:** LBW, Case Studies and Creativity Track due
 - **26 September 2022:** LBW and Case Studies notifications
 - **10 October 2022:** LBW and Case Studies publication ready
+
+###### Workshops
+- **15 July 2022:** Workshop proposals due
+- **12 August 2022:** Workshop proposals notifications
+- **2 September 2022:** Workshop website to be published
+- **10 October 2022:** Workshop position papers due
+- **31 October 2022:** Notification to participants on acceptance to workshop <br/> (Organisers must notify participants of acceptance at least seven days before the conference Early Registration Deadline)
 
 
