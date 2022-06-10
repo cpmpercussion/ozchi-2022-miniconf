@@ -165,7 +165,7 @@ community, generate stimulating discussion;
 - and demonstrate **clarity of writing** at a level ready for
     publication in the ACM digital library.
 
-### Attending or submitting OzCHI 2022? Please volunteer to review!
+### Attending or submitting at OzCHI 2022? Please volunteer to review!
 
 1. click on link "Volunteer to Review" [https://new.precisionconference.com/review_volunteering](https://new.precisionconference.com/review_volunteering)
 2. select OzCHI from dropdown at top of page
