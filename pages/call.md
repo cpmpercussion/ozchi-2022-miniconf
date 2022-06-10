@@ -165,24 +165,24 @@ community, generate stimulating discussion;
 - and demonstrate **clarity of writing** at a level ready for
     publication in the ACM digital library.
 
-### Advice for new reviewers
+### Attending or submitting OzCHI 2022? Please volunteer to review!
 
-Please consider volunteering to sign up as a reviewer via PCS.
+1. click on link "Volunteer to Review" [https://new.precisionconference.com/review_volunteering](https://new.precisionconference.com/review_volunteering)
+2. select OzCHI from dropdown at top of page
+3. using the dropdown that appears, tell us how many papers you can review
 
-If you are new to reviewing for an academic conference, we suggest that
-you discuss this with your supervisor and/or to seek advice from
-experienced colleagues. There are also great resources on how to write a
-good review available online, e.g. [Ken Hickley's advice on excellence in reviews](http://mobilehci.acm.org/2015/download/ExcellenceInReviewsforHCICommunity.pdf)
-(PDF) and the [RICELab's guide to writing reviews for HCI research.](https://ricelab.github.io/blog/2018/writing-reviews-for-hci/)
+If you have not reviewed for OzCHI before, you also need to:
 
-Keep in mind that your role as a reviewer is to help the authors to
-bring their paper to the next level. When you write your review, imagine
-the kind of review you'd like to receive if it was your paper. If you
-have any questions, feel free to contact our Paper and LBW Case Study
-chairs.
+1. go to [https://new.precisionconference.com/reviews](https://new.precisionconference.com/reviews)
+2. You've filled in the 1st link already. Now fill in the 2nd and 3rd links. You will need to provide at least 8 sample publications (PDF format) that illustrate your areas of expertise. These can be your own articles or relevant articles of other authors.
 
-Paper reviews need to be completed by 22 July and LBW and Case Study
-reviews by 09 September.
+If you are new to reviewing for an academic conference, we suggest that you discuss this with your supervisor and/or to seek advice from experienced colleagues. 
+There are also great resources on how to write a good review available online, e.g. [Ken Hickley's advice on excellence in reviews (PDF)](https://kenhinckley.wordpress.com/2015/10/15/commentary-on-excellence-in-reviews-thoughts-for-the-hci-community/)
+and the [RICELab's guide to writing reviews for HCI research](https://ricelab.github.io/blog/2018/writing-reviews-for-hci/). 
+Keep in mind that your role as a reviewer is to help the authors to bring their paper to the next level. 
+When you write your review, imagine the kind of review you'd like to receive if it was your paper. 
+If you have any questions, feel free to contact our Paper and LBW Case Study chairs. 
+Paper reviews need to be completed by 22 July and LBW and Case Study reviews by 09 September.
 
 ### Awards
 
