@@ -83,7 +83,7 @@ For creativity submission information see the [creativity page](http://www.ozchi
 ### Important dates
 
 ###### Papers
-- **17 June 2022:** Papers due
+- <strike>17 June 2022</strike> **24 June 2022:** Papers due
 - **8 August 2022**: Papers notifications
 - **2 September 2022:** Papers publication ready
 

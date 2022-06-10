@@ -13,7 +13,7 @@ The theme of OzCHI 2022 is "connected creativity", this year we want to acknowle
 ### Important dates
 
 ###### Papers
-- **17 June 2022:** Papers due
+- <strike>17 June 2022</strike> **24 June 2022:** Papers due
 - **8 August 2022**: Papers notifications
 - **2 September 2022:** Papers publication ready
 
