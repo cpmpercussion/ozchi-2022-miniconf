@@ -82,6 +82,9 @@ For creativity submission information see the [creativity page](http://www.ozchi
 
 ### Important dates
 
+All times are in Anywhere on Earth (AoE) time zone. When the deadline is day D, the last time to submit is when D ends AoE. 
+<br/>[Check your local time in AoE.](https://time.is/Anywhere_on_Earth)
+
 ###### Papers
 - <strike>17 June 2022</strike> **24 June 2022:** Papers due
 - **8 August 2022**: Papers notifications
