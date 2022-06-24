@@ -177,7 +177,7 @@ community, generate stimulating discussion;
 If you have not reviewed for OzCHI before, you also need to:
 
 1. go to [https://new.precisionconference.com/reviews](https://new.precisionconference.com/reviews)
-2. You've filled in the 1st link already. Now fill in the 2nd and 3rd links. You will need to provide at least 8 sample publications (PDF format) that illustrate your areas of expertise. These can be your own articles or relevant articles of other authors.
+2. You've filled in the 1st link already. Now fill in the 3rd link. You will need to provide at least 8 sample publications (PDF format) that illustrate your areas of expertise. These can be your own articles or relevant articles of other authors.
 
 If you are new to reviewing for an academic conference, we suggest that you discuss this with your supervisor and/or to seek advice from experienced colleagues. 
 There are also great resources on how to write a good review available online, e.g. [Ken Hickley's advice on excellence in reviews (PDF)](https://kenhinckley.wordpress.com/2015/10/15/commentary-on-excellence-in-reviews-thoughts-for-the-hci-community/)
