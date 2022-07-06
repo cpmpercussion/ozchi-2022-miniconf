@@ -220,7 +220,7 @@ presentation format will be published on the OzCHI website.
 - Soojeong Yoo, University College London
 - Truna Aka J. Turner, Queensland University of Technology 
 
-[**lbw.chairs@ozchi.org**](mailto:lbw.chairs@ozchi.org)
+[**ozchi22b@precisionconference.com**](mailto:ozchi22b@precisionconference.com)
 
 **Workshop Chairs**
 
