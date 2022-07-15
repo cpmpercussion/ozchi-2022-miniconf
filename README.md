@@ -26,7 +26,7 @@ All times are in Anywhere on Earth (AoE) time zone. When the deadline is day D, 
 - **10 October 2022:** LBW and Case Studies publication ready
 
 ###### Workshops
-- **15 July 2022:** Workshop proposals due
+- <strike>15 July 2022</strike> **22 July 2022:** Workshop proposals due
 - **12 August 2022:** Workshop proposals notifications
 - **2 September 2022:** Workshop website to be published
 - **10 October 2022:** Workshop position papers due
