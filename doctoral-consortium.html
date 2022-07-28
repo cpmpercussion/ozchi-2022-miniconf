@@ -1,0 +1,392 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8"/>
+    <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+     <meta property="og:image" content="http://www.ozchi.org/2022/static/images/ozchi-og.png" />
+
+    <!-- External Javascript libs_ext  -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@5/dist/d3.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/handlebars@4.7.3/dist/handlebars.min.js"
+            integrity="sha256-/PJBs6QWvXijOFIX04kZpLb6ZtSQckdOIavLWKKOgXU="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+
+    <script
+            src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"
+    ></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js"
+            integrity="sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.24.0/min/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ="
+            crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment-timezone@0.5.28/builds/moment-timezone-with-data.min.js"
+            integrity="sha256-IWYg4uIC8/erItNXYvLtyYHioRi2zT1TFva8qaAU/ww="
+            crossorigin="anonymous"></script>
+
+
+    <!-- Library libs_ext -->
+    <script src="static/js/libs_ext/typeahead.bundle.js"></script>
+
+
+    <!--    Internal Libs -->
+    <script src="static/js/data/api.js"></script>
+
+    
+
+    <!-- External CSS -->
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
+          integrity="sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY="
+          crossorigin="anonymous">
+
+    <!-- External Fonts (no google for china) -->
+    <link
+        href="static/css/PublicSans.css"
+        rel="stylesheet"
+    />
+    <link 
+        href="static/css/Montserrat.css" 
+        rel="stylesheet"
+    />
+    <link rel="stylesheet" href="static/css/main.css"/>
+<!--    <link rel="stylesheet" href="static/css/fa_regular.css"/>-->
+    <link rel="stylesheet" href="static/css/fa_solid.css"/>
+    <link rel="stylesheet" href="static/css/lazy_load.css"/>
+    <link rel="stylesheet" href="static/css/typeahead.css"/>
+
+    <title>OzCHI 2022</title>
+    
+</head>
+
+<body>
+<!-- NAV -->
+
+<!-- Extra NAV entries for conference -->
+
+
+
+
+
+
+<nav
+        class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
+        id="main-nav"
+>
+    <div class="container">
+        <a class="navbar-brand" href="index.html">
+            <img
+                    class="logo" src="static/images/ozchi-logo-text-black.png"
+                    height="auto"
+            width="180px"
+            />
+        </a>
+        
+        <button
+                class="navbar-toggler"
+                type="button"
+                data-toggle="collapse"
+                data-target="#navbarNav"
+                aria-controls="navbarNav"
+                aria-expanded="false"
+                aria-label="Toggle navigation"
+        >
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div
+                class="collapse navbar-collapse text-right flex-grow-1"
+                id="navbarNav"
+        >
+            <ul class="navbar-nav ml-auto">
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="call.html">Call for Submissions</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="creativity.html">Creativity Track</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="organisers.html">Organisers</a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- User Overrides -->
+
+<style>
+  .back {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url("static/images/kambri.jpg") no-repeat center;
+    background-size: cover;
+  }
+  .back h2 {
+    font-family: "Public Sans", sans-serif;
+    font-weight: 700;
+  }
+</style>
+
+<div class="jumbotron jumbotron-fluid back" style="padding-bottom: 20px;">
+  <div class="row header p-6 m-5">
+    <div class="p-1 mx-auto text-center text-white col-md-9 col-sm-12">
+     <!-- <img
+     class="logo" src="static/images/ozchi-logo-white.png"
+     height="auto"
+     width="500px"
+     /> -->
+      <h2>
+        Doctoral Consortium
+      </h2>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+    <!-- Tabs -->
+    <div class="tabs">
+         
+    </div>
+    <!-- Content -->
+    <div class="content">
+        
+<h2>Call for participation</h2>
+<p>The OzCHI Doctoral Consortium (DC) aims to provide a collegial and
+inspiring environment to support doctoral students in successfully
+completing their doctoral dissertations. The OzCHI DC is an opportunity
+for PhD students to receive valuable feedback from experienced
+researchers and colleagues, share and discuss their ongoing research,
+and explore new research avenues.</p>
+<p>We encourage all PhD students who have made concrete progress in their
+research to apply. Ideal candidates for DC should have chosen a clear
+research topic, reviewed the literature, and selected a research
+methodology. DC candidates are expected to have sufficient time
+remaining in their programs (typically 6-12 months) to incorporate
+feedback provided during the event. The selection of the candidates is
+based on the quality and maturity of the proposals, relevance to the
+field and OzCHI audience as well as the potential level of contribution
+of the DC to the PhD candidate's dissertation.</p>
+<p>Note that there is <strong>no fee</strong> to attend the consortium.
+However, you must register for at least one day of the OzCHI conference.</p>
+<h3>Structure of the OzCHI Doctoral Consortium</h3>
+<p>The doctoral consortium event is open to all OzCHI participants and
+consists of three different sessions. The first session will be given by
+an invited keynote speaker who will focus on <strong>common challenges
+students face during their PhDs</strong>. The second session consists of the
+presentation of research proposals by accepted DC candidates, followed
+by an interactive Q&amp;A session with DC Chairs and the general public.
+Finally, the third session consists of a 30-min individual mentoring
+with an experienced member of our community who will provide more
+detailed and focused feedback. The individual mentoring session is an
+opportunity for students to discuss specific aspects of their research,
+including research goals, methodology, experiments, etc. Students who
+participated in the mentoring session will be invited to share their
+experience with their peers, the audience and DC chairs.</p>
+<h3>Keynote Speaker Professor Inger Mewburn, SFHEA, VRDSF</h3>
+<p>Director of Researcher Development</p>
+<p>Office of the Dean of Higher Degree by Research</p>
+<p>The Australian National University, Canberra, Australia</p>
+<p><img alt="Head shot of Professor Inger Mewburn" src="static/images/inger-mewburn.jpg" width="100%"></p>
+<p>Professor Inger Mewburn (better known as @thesiswhisperer) was born on
+Nuenonne country, which is now known as Tasmania, Australia (always was,
+always will be, Aboriginal land). She has a background as a designer and
+a researcher, which was nurtured at the University of Melbourne and RMIT
+University.</p>
+<p>Since 2006, she has worked exclusively with PhD students and early
+career academics, helping them finish complex research projects with
+(sometimes very) demanding stakeholders. She's passionate about helping
+people reach their potential as researchers and helping to create a
+kinder, more inclusive academy.</p>
+<p>Inger is currently the Director of Researcher Development at The
+Australian National University, where she oversees professional
+development workshops and programs for all ANU researchers. Aside from
+creating new posts on the Thesis Whisperer blog, she writes scholarly
+papers, books and book chapters about research education, with a special
+interest in post PhD employability.</p>
+<p><strong>Keynote Topic: Academic writing after Covid</strong></p>
+<p><em>Academics often struggle with the question of relevance. With the world in such turmoil, it can be hard to focus on the research and writing tasks at hand. In this keynote, Inger will talk about the common blocks to successful writing and some strategies to overcome them. At the end of the session, she will ask bigger questions about the place of academic writing in the future. All writing is a political act, even if the politics are beneath the surface and hard to see. If academia wants to stay relevant and continue to have the social license to seek support from our community, some academic practices must change.</em></p>
+<h3>Submission Details</h3>
+<p>Students wishing to attend the consortium should submit a 4-page
+research proposal, including references, as detailed below. Acceptance
+into the Doctoral Consortium will be offered based on a review of the
+submitted proposals.</p>
+<p>Please include the following in your submission:</p>
+<ul>
+<li>
+<p>Title of the PhD Research</p>
+</li>
+<li>
+<p>The name of the student and Advisor(s) along with their affiliations</p>
+</li>
+<li>
+<p>Abstract (max 300 words)</p>
+</li>
+<li>
+<p>Context/Background</p>
+<ul>
+<li>What is the research about? What is its scope? Why is it important?</li>
+</ul>
+</li>
+<li>
+<p>Prior Work and Potential Contributions</p>
+<ul>
+<li>What do the experts in this field say about your area of research? What similar work has been conducted? What is the gap in prior work that needs addressing?</li>
+</ul>
+</li>
+<li>
+<p>Research Question(s)</p>
+<ul>
+<li>What research question(s) will your project answer?</li>
+</ul>
+</li>
+<li>
+<p>Research Method and Rationale</p>
+<ul>
+<li>How do you propose to answer your question? Justify your method How long will each stage take? (include timeline with dates)</li>
+</ul>
+</li>
+<li>
+<p>Experiments and Ongoing Results (if applicable)</p>
+<ul>
+<li>How do you expect to evaluate/validate your work?</li>
+</ul>
+</li>
+<li>
+<p>Conclusion and Future works</p>
+<ul>
+<li>
+<p>Current Situation</p>
+<ul>
+<li>
+<p>How far have you progressed? (include a summary of data/results if appropriate); What are your key concerns and obstacles at the moment?</p>
+</li>
+<li>
+<p>Discussion of the expected contributions of the PhD research</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Future Works</p>
+<ul>
+<li>Next steps and long-term goals</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4>Formatting Details</h4>
+<ul>
+<li>
+<p>Template: <a href="https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/">ACM Master Article Submission Templates</a> (Word and LaTeX versions)</p>
+</li>
+<li>
+<p>Page length: Paper submissions should be up to 4 pages (including references).</p>
+</li>
+<li>
+<p>Anonymisation: Submissions should <strong>not</strong> be anonymised.</p>
+</li>
+<li>
+<p>Submission format: Single column format in PDF.</p>
+</li>
+<li>
+<p>Online Submission: <a href="https://new.precisionconference.com/OzCHI">PCS Submission System</a>.</p>
+</li>
+</ul>
+<h3>Important Dates</h3>
+<p>All times are in Anywhere on Earth
+(<a href="https://www.timeanddate.com/time/zones/aoe">AoE</a>) time
+zone.</p>
+<ul>
+<li>
+<p>Submission deadline: <strong>September 23, 2022</strong></p>
+</li>
+<li>
+<p>Notification date: <strong>October 17, 2022</strong></p>
+</li>
+<li>
+<p>Doctoral Consortium Day: <strong>November 29, 2022</strong></p>
+</li>
+</ul>
+<h3>Doctoral Consortium Chairs</h3>
+<ul>
+<li>Bernardo Pereira Nunes (The Australian National University)</li>
+<li>Sabrina Caldwell (The Australian National University)</li>
+<li>Nicole Vickery (Queensland University of Technology)</li>
+</ul>
+
+    </div>
+</div>
+
+
+
+<!-- Google Analytics -->
+<script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-"
+></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+
+  gtag("js", new Date());
+  gtag("config", "UA-");
+</script>
+
+<!-- Footer -->
+<footer class="footer bg-light p-4">
+    <div class="container">
+        <p class="float-right"><a href="#">Back to Top</a></p>
+        <p class="text-center">© 2022 OzCHI and HFESA</p>
+    </div>
+</footer>
+
+<!-- Code for hash tags -->
+<script type="text/javascript">
+  $(document).ready(function () {
+    if (window.location.hash !== "") {
+      $(`a[href="${window.location.hash}"]`).tab("show");
+    }
+
+    $("a[data-toggle='tab']").on("shown.bs.tab", function (e) {
+      const hash = $(e.target).attr("href");
+      if (hash.substr(0, 1) === "#") {
+        const position = $(window).scrollTop();
+        window.location.replace(`#${hash.substr(1)}`);
+        $(window).scrollTop(position);
+      }
+    });
+  });
+</script>
+<!--    <script src="static/js/modules/lazyLoad.js"></script>-->
+
+</body>
+</html>
