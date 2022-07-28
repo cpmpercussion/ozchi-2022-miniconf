@@ -80,6 +80,15 @@ conference organisers.
 Creativity submissions may be related to submissions in another track or standalone.
 For creativity submission information see the [creativity page](http://www.ozchi.org/2022/creativity.html).
 
+### Doctoral Consortium
+
+OzCHI's Doctoral Consortium is an opportunity
+for PhD students to receive valuable feedback from experienced
+researchers and colleagues, share and discuss their ongoing research,
+and explore new research avenues.
+
+For more information and submission instructions see the [doctoral consortium page](http://www.ozchi.org/2022/doctoral-consortium.html)
+
 ### Important dates
 
 All times are in Anywhere on Earth (AoE) time zone. When the deadline is day D, the last time to submit is when D ends AoE. 
