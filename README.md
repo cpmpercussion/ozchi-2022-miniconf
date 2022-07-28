@@ -32,4 +32,6 @@ All times are in Anywhere on Earth (AoE) time zone. When the deadline is day D, 
 - **10 October 2022:** Workshop position papers due
 - **31 October 2022:** Notification to participants on acceptance to workshop <br/> (Organisers must notify participants of acceptance at least seven days before the conference Early Registration Deadline)
 
+###### Conference Dates Venue
 
+- **29 November -- 2 December**: Shine Dome, Canberra, ACT
