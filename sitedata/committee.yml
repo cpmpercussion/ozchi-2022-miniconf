@@ -1,9 +1,9 @@
 committee:
   - aff: Australian National University
-    im: ""
+    im: "./static/images/committee/yichen-wang.jpg"
     name: Yichen Wang
     role: Accessibility Chair
-    tw: ""
+    tw: "yichenwangs"
     url: ""
   - aff: Australian National University
     im: ""
@@ -12,22 +12,22 @@ committee:
     tw: ""
     url: ""
   - aff: University of Wollongong
-    im: ""
+    im: "./static/images/committee/holly-yootell.jpg"
     name: Holly Tootell
     role: Below Zero Chair
-    tw: ""
+    tw: "drhollyt"
     url: ""
   - aff: ANU School of Cybernetics
-    im: ""
+    im: "./static/images/committee/ben-swift.jpg"
     name: Ben Swift
     role: Creative Computing Chair
-    tw: ""
+    tw: "benswift"
     url: ""
   - aff: Australian National University
-    im: ""
+    im: "./static/images/committee/bernardo-nunes.jpg"
     name: Bernardo Nunes
     role: Doctoral Consortium Chair
-    tw: ""
+    tw: "bernardopnunes"
     url: ""
   - aff: Australian National University
     im: ""
@@ -36,7 +36,7 @@ committee:
     tw: ""
     url: ""
   - aff: Queensland University of Technology
-    im: ""
+    im: "./static/images/committee/nicole-vickery.jpg"
     name: Nicole Vickery
     role: Doctoral Consortium Chair
     tw: ""
@@ -54,19 +54,19 @@ committee:
     tw: ""
     url: ""
   - aff: The University of Sydney
-    im: ""
+    im: "./static/images/committee/kristina-mah.jpg"
     name: Kristina Mah
     role: Experience Chair
-    tw: ""
+    tw: "kristina_mah"
     url: ""
   - aff: Monash University
-    im: ""
+    im: "./static/images/committee/zeinab-ghaemi.jpeg"
     name: Zeinab Ghaemi
     role: Hybrid Chair
     tw: ""
     url: ""
-  - aff: UniSA
-    im: ""
+  - aff: University of South Australia
+    im: "./static/images/committee/chenkai-zhang.JPG"
     name: Chenkai Zhang
     role: Hybrid Chair
     tw: ""
@@ -81,43 +81,43 @@ committee:
     im: ""
     name: Oliver Weidlich
     role: Industry Chair
-    tw: ""
+    tw: "oliverw"
     url: ""
   - aff: CSIRO
-    im: ""
+    im: "./static/images/committee/mingze-xi.jpg"
     name: Mingze Xi
     role: Late-Breaking Work & Case Studies Chair
-    tw: ""
+    tw: "mingzzze"
     url: ""
   - aff: Google
-    im: ""
-    name: 'Jess Tsimeris '
+    im: "./static/images/committee/jess-tsimeris.jpeg"
+    name: 'Jess Tsimeris'
     role: Late-Breaking Work & Case Studies Chair
-    tw: ""
+    tw: "tsimeris"
     url: ""
   - aff: Queensland University of Technology
-    im: ""
+    im: "./static/images/committee/truna.png"
     name: Jane Turner
     role: Late-Breaking Work & Case Studies Chair
     tw: ""
     url: ""
-  - aff: UCL
-    im: ""
+  - aff: University College London
+    im: "./static/images/committee/soojeong-yoo.jpeg"
     name: Soojeong Yoo
     role: Late-Breaking Work & Case Studies Chair
-    tw: ""
+    tw: "YooSoojeong"
     url: ""
   - aff: Australian National University
-    im: ""
+    im: "./static/images/committee/xuanying-zhu.jpg"
     name: Xuanying Zhu
     role: Logistics Chair
     tw: ""
     url: ""
   - aff: Australian National University
-    im: ""
+    im: "./static/images/committee/ushini-attanayake.JPG"
     name: Ushini Attanayake
     role: Logistics Chair
-    tw: ""
+    tw: "ushinis"
     url: ""
   - aff: The University of Melbourne
     im:  "./static/images/committee/melissa-rogerson.jpg"
@@ -132,10 +132,10 @@ committee:
     tw: ""
     url: ""
   - aff: The University of Melbourne
-    im: ""
+    im: "./static/images/committee/greg-wadley.jpg"
     name: Greg Wadley
     role: Papers Chair
-    tw: ""
+    tw: "GregWadley"
     url: ""
   - aff: The University of Sydney
     im: ""
@@ -144,34 +144,34 @@ committee:
     tw: ""
     url: ""
   - aff: ANU School of Cybernetics
-    im: ""
+    im: "./static/images/committee/ned-cooper.jpg"
     name: Ned Cooper
     role: Proceedings Chair
-    tw: ""
+    tw: "nedcpr"
     url: ""
-  - aff: CSIRO & Australian National University
-    im: ""
+  - aff: CSIRO
+    im: "./static/images/committee/jessica-rahman.jpg"
     name: Jessica Sharmin Rahman
     role: Proceedings Chair
-    tw: ""
+    tw: "JessicaSRahman"
     url: ""
   - aff: RMIT
-    im: ""
+    im: "./static/images/committee/dana-mckay.jpg"
     name: Dana Mckay
     role: Program Chair
-    tw: ""
+    tw: "danachatter"
     url: ""
   - aff: University of South Australia
-    im: ""
+    im: "./static/images/committee/andrew-cunningham.jpeg"
     name: Andrew Cunningham
     role: Program Chair
-    tw: ""
+    tw: "atzanteotl"
     url: ""
   - aff: The University of Sydney
-    im: ""
+    im: "./static/images/committee/brittany-klaassens.JPG"
     name: Brittany Klaassens
     role: Social Media Chair
-    tw: ""
+    tw: "Brittanyklaass1"
     url: ""
   - aff: 'The University of Sydney'
     im: "https://www.sydney.edu.au/AcademicProfiles/profile/resource?urlid=senuri.wijenayake"
@@ -186,16 +186,16 @@ committee:
     tw: ""
     url: ""
   - aff: Charles Darwin University
-    im: ""
+    im: "./static/images/committee/cat-kutay.png"
     name: Cat Kutay
     role: Workshops Chair
     tw: ""
     url: ""
   - aff: The University of Sydney
-    im: ""
+    im: "./static/images/committee/ajit-pillai.jpg"
     name: Ajit G. Pillai
     role: Workshops Chair
-    tw: ""
+    tw: "ajplai"
     url: ""
   - aff: Australian National University
     im: https://comp.anu.edu.au/assets/images/people/penny-kyburz.jpg
