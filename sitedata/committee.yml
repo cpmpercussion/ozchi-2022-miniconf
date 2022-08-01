@@ -120,10 +120,10 @@ committee:
     tw: ""
     url: ""
   - aff: Melbourne
-    im:  "../static/images/committee/melissa-rogerson.jpg"
+    im:  "./static/images/committee/melissa-rogerson.jpg"
     name: Melissa Rogerson
     role: Papers Chair
-    tw: "@melissainau"
+    tw: "melissainau"
     url: ""
   - aff: Monash University
     im: ""
