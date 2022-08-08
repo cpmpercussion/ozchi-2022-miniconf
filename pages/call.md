@@ -100,7 +100,7 @@ All times are in Anywhere on Earth (AoE) time zone. When the deadline is day D, 
 - **2 September 2022:** Papers publication ready
 
 ###### LBW, Case Studies and Creativity Track
-- **12 August 2022:** LBW, Case Studies and Creativity Track due
+- <strike>12 August 2022</strike> **19 August 2022:** LBW, Case Studies and Creativity Track due
 - **26 September 2022:** LBW and Case Studies notifications
 - **10 October 2022:** LBW and Case Studies publication ready
 
