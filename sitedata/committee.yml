@@ -138,10 +138,10 @@ committee:
     tw: "GregWadley"
     url: ""
   - aff: The University of Sydney
-    im: ""
+    im: "./static/images/committee/luke-hespanhol.JPG"
     name: Luke Hespanhol
     role: Papers Chair
-    tw: ""
+    tw: "nanoluke"
     url: ""
   - aff: ANU School of Cybernetics
     im: "./static/images/committee/ned-cooper.jpg"
