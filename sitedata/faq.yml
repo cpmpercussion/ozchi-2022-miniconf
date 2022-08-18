@@ -1,5 +1,8 @@
 FAQ:
-  - Section: Conference Advice
-    QA:
-      - Question: What should I put on the paper pages?
-        Answer: "Depending on your conference, you might want to consider having embeded videos, chat rooms, or rendered posters. For ICLR, we used SlidesLive and Rocket.Chat. In another conference we used PDF.js to render posters."
+  - Section: Accessibility FAQ
+    QA: 
+      - Question: Welcome
+        Answer: The page is still under construction and developed with reference to [CHI2023 accessibility requirements](https://chi2023.acm.org/for-attendees/chi2023-accessibility-faq/). More information will be up soon. Please email yichen.wang@anu.edu.au if you have any accessibility enquires about attending OzCHI2022.
+      - Question: Who should I talk to if I have accessibility needs for attending OzCHI2022?
+        Answer: The Accessibility Chair for OzCHI2022 is Yichen Wang. If you have any accessibility needs or enquires such as wheelchair access, requesting transport during the conference, or any concerns related to accessibility, please email yichen.wang@anu.edu.au. We will try our best to see what we can work out with our venue [The Shine Dome](https://www.shinedome.org.au). 
+
