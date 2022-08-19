@@ -91,7 +91,7 @@ def organisers():
 @app.route("/help.html")
 def about():
     data = _data()
-    data["FAQ"] = site_data["faq"]["FAQ"]
+    data["FAQ"] = open("help.md").read()
     return render_template("help.html", **data)
 
 @app.route('/<name>.html')
