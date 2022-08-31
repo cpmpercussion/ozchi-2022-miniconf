@@ -77,8 +77,8 @@ committee:
     role: Industry Chair
     tw: ""
     url: ""
-  - aff: Mobile Experience & Sydney Uni
-    im: ""
+  - aff: Contxtual & The University of Sydney
+    im: "./static/images/committee/oliver-weidlich.png"
     name: Oliver Weidlich
     role: Industry Chair
     tw: "oliverw"
