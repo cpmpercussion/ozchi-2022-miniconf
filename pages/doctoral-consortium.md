@@ -139,7 +139,7 @@ All times are in Anywhere on Earth
 ([AoE](https://www.timeanddate.com/time/zones/aoe)) time
 zone.
 
-- Submission deadline: **September 23, 2022**
+- Submission deadline: **September 30, 2022**
 
 - Notification date: **October 17, 2022**
 
