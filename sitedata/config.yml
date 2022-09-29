@@ -17,7 +17,8 @@ biglogo:
 page_title:
   prefix: 'OzCHI 2022'
   separator: ': '
-background_image: static/images/kambri.jpg
+background_image: static/images/shine-dome.jpg
+background_image_ref: "Photo of the Shine Dome was supplied by The Australian Academy of Science."
 organization: OzCHI and HFESA
 
 # Remove or change to your chat server.
