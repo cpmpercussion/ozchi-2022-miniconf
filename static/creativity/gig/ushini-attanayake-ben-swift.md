@@ -7,7 +7,21 @@ the Extempore livecoding environment.
 
 ### Ushini Attanayake
 
-TODO
+Ushini Attanayake is a live coder, educator and PhD candidate in the School of
+Computing at the Australian National University. Her research interests lie in
+computing education, creative computing and co-creative agents. Her doctoral
+research involves developing a notion of proficiency within creative computing
+education while drawing on existing notions of proficiency in visuals arts,
+music and computing. Focussing on late secondary and early tertiary education,
+she will explore the efficacy of various approaches used to evaluate learning in
+creative computing. She is passionate about developing creative computing
+educational material, particularly for outreach programs aimed at delivering
+computing education to underrepresented demographics.
+
+Her creative practices include live coding performances, which have lately been
+heavily influenced by classical Indian rhythmic structures. As a house dancer
+and music maker, she continues to look for ways to bridge these two interest
+through small projects involving wearable devices in her spare time.
 
 ### Ben Swift
 
