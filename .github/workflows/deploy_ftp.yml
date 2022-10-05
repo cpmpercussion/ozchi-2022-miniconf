@@ -1,9 +1,15 @@
 name: Deploys to FTP Site
 
+# on:
+#   push:
+#     tags:        
+#       - '*'
+#   workflow_dispatch:
+
 on:
   push:
-    tags:        
-      - '*'
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:
