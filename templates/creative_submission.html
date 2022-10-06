@@ -1,0 +1,146 @@
+{% set page_title = paper.title %}
+{% extends "base.html" %}
+
+{% block head %}
+
+{{ super() }}
+<meta name="citation_title" content="{{paper.title}}"/>
+{% for author in paper.authors %}
+<meta name="citation_author" content="{{author}}"/>
+{% endfor %}
+<meta name="citation_publication_date" content="{{config.citation_date}}"/>
+<meta name="citation_conference_title"
+      content="{{config.tagline|striptags|title}}"/>
+<meta name="citation_inbook_title" content="{{config.proceedings_title}}"/>
+<meta name="citation_abstract" content="{{paper.abstract}}"/>
+{% for keyword in paper.keywords %}
+<meta name="citation_keywords" content="{{keyword}}"/>
+{% endfor %}
+<meta name="citation_pdf_url" content="{{paper.pdf_url|default('') }}"/>
+
+{% endblock %}
+
+{% block content %}
+
+<!-- Title Block -->
+<div class="pp-card m-3" style="">
+    <div class="card-header">
+        <!-- Title -->
+        <h2 class="card-title main-title text-center" style="">
+            {{paper.title}}
+        </h2>
+        <!-- Authors -->
+        <h3 class="card-subtitle mb-2 text-muted text-center">
+            {% for author in paper.authors %}
+            <a href="creativity.html?filter=authors&search={{author}}"
+               class="text-muted"
+            >{{author}}</a
+            >{{ "," if not loop.last }}
+            {% endfor %}
+        </h3>
+
+        <!-- Links Info -->
+        <div class="text-center p-3">
+        {% if paper.bandcamp %}<a class="card-link" href="{{paper.bandcamp}}">bandcamp</a>{% endif %}
+        {% if paper.vimeo %}<a class="card-link" href="{{paper.vimeo}}">vimeo</a>{% endif %}
+        {% if paper.soundcloud %}<a class="card-link" href="{{paper.soundcloud}}">soundcloud</a>{% endif %}
+        {% if paper.youtube %}<a class="card-link" href="{{paper.youtube}}">youtube</a>{% endif %}
+        {% if paper.website %}<a class="card-link" href="{{paper.website}}">web</a>{% endif %}
+      </div>
+    </div>
+</div>
+
+<!-- Session Info -->
+<!-- <div class="pp-card m-3" style="">
+    <div class="text-center p-3">
+    {% if paper.session_name %} 
+    <a href="/session_{{session.UID}}.html"><b>Session:</b> {{session.title}} - {{session.date}}</a>
+    {% endif %}
+    </div>
+
+    {% if session.youtube_link %}
+    <div class="text-center p-3">
+    <a href="{{session.youtube_link}}"><b>Stream Link:</b> YouTube</a>
+    </div>
+    {% else %}
+    <div class="text-center p-3">
+    <a href="https://www.youtube.com/channel/UCKK95K68yVuok-qWNS4Z6Jw"><b>Stream Link:</b> See ACMC Youtube Channel</a>
+    </div>
+    {% endif %}
+</div> -->
+
+<!-- Image -->
+{% if paper.image %}<center><img src="static/creative-images/{{paper.id}}.jpg" width="80%" /></center>{% endif %}
+
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Details</h2>
+  </div>
+</div>
+
+<h4>Abstract</h4>
+
+{{paper.abstract | markdown}}
+
+{% if paper.bio %}
+<h4>Bio</h4>
+
+{{paper.bio | markdown}}
+{% endif %}
+
+<!-- Chat -->
+<!-- {{ components.section("Example Chat") }}
+
+<div class="col-md-12 col-xs-12 p-2">
+    <div id="gitter" class="slp">
+        <center>
+            <iframe frameborder="0"
+                    src="https://{{config.chat_server}}/channel/paper_{{paper.UID}}?layout=embedded"
+                    height="700px" width="100%"></iframe>
+        </center>
+    </div>
+</div> -->
+
+<!-- Slides Live-->
+
+<!-- {{ components.section("Example SlidesLive") }}
+
+<div class="col-md-12 col-xs-12 my-auto p-2">
+    <div id="presentation-embed" class="slp my-auto"></div>
+    <script src='https://slideslive.com/embed_presentation.js'></script>
+    <script>
+      embed = new SlidesLiveEmbed("presentation-embed", {
+        presentationId:
+          "{{paper.presentation_id | default(config.default_presentation_id)}}",
+        autoPlay: false, // change to true to autoplay the embedded presentation
+        verticalEnabled: true,
+        verticalWhenWidthLte: 500,
+        allowHiddenControlsWhenPaused: true,
+        hideTitle: true,
+      });
+    </script>
+</div> -->
+
+
+<!-- Chat -->
+
+<!-- {{ components.section("Example Poster") }}
+
+<div role="main" id="pdf_view"></div> -->
+
+
+<!-- <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.3.200/build/pdf.min.js"></script>
+<script src="static/js/modules/pdfRender.js"></script>
+<script>
+  $(document).ready(() => {
+    // render first page of PDF to div
+    // PDF name can be bound to variable -- e.g. paper.content.poster_link
+    const pdfFile =
+      " {{ paper.poster_pdf | default(config.default_poster_pdf) }}";
+    initPDFViewer(pdfFile, "#pdf_view");
+  });
+</script> -->
+
+
+{% endblock %}

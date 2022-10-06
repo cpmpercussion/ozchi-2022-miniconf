@@ -1,0 +1,131 @@
+UID,title,authors,abstract,bio,paper_url,keywords,session_name,session_position,video,slides,image
+1,The Hyperdimensional Resonator,Matthew Walsh,"The body is amassed with electrical signals. These bioelectric signals are tied
+to both the most basic body functions such as the heart beating all the way to
+the highest level of processing in the brain. These signals are often rhythmic
+in nature and provide a means to measure the fundamental rhythms of any
+individual. In this performance we will generate music in real time from
+bioelectric signals that are read from a human subject. The ECG (heart) will set
+the rhythm of the music while other signals including EEG (brain waves) and EMG
+(muscles) will be used by an algorithm to perform melodic and rhythmic choices.
+The subject will participate by dancing and responding to the generated music
+and by virtue of their interaction will change the music produced. Additionally,
+the signals will be sonified and form part of the music. Musician(s) will also
+improvise along with the generated music with their instruments being modulated
+by the captured bioelectric signals.","Matthew Walsh is a musician, software engineer and neuroscientist, obtaining a
+PhD in Computational Neuroscience in 2020. His thesis topic was “Mean Field
+Modelling of Epileptogenic Cortical Lesions Using The Liley Model”. This thesis
+focussed on modelling the effects of cortical lesions on the EEG. Matthew has
+now broadened his research interests to include the sonification and
+musification of biological signals.
+
+Matthew is vocalist, guitarist and songwriter for the Melbourne band “Your Creepy Ex”.",,,gig,,,,
+2,The internet as metaphor for the Sea,Niamh McCool,"The sea is a continuing theme throughout Niamh's work. This piece considers the
+metaphorical link between the internet and the sea, exploring how internet
+artefacts - images, songs, videos, etc- appear to us, washed ashore on the
+coasts of our phones and laptops pushed by the tides of algorithms. Using sound
+samples from the deep depths of the internet, dark places unpopulated by ""likes""
+or ""views"", 'The internet as metaphor for the sea' honours these rare pearls of
+knowledge. The projected visuals of reflective tendrils sway and collide like
+waves. Building seascapes with Pure Data and rhythmic waves of Tidal Cycle code,
+this piece aims to pull the viewer into a synthesized aquatic world.","Niamh is a multi-disciplinary artist currently based in Ngunnal
+Country/Canberra. Art, whatever the form, has always been Niamh's way to make
+sense of the world. Niamh is all about accessibility of education, in particular
+anything related to tech and creativity. By day, Niamh works as a tutor at ANU,
+teaching creative computing to university and high school students; by night,
+she co-runs the DJ collective Vessel, organising workshops and events. She
+strongly believes in shifting computing to have care, empathy and culture at its
+core. Rumour has it that Niamh is about to launch her own label.",,,gig,,,,TRUE
+3,Title goes here,Rodolfo Ocampo,"This performance is a musical improvisation on top of a soundscape generated
+using the System of a Down installation. The System of a Down installation was
+developed as a collaboration between Rodolfo Ocampo, Oliver Bown, Uncanny Valley
+and the School of Cybernetics to showcase the interconnectedness of human,
+technological and environmental systems by turning Earth’s data into a
+generative soundscape.
+
+The installation ingests data from Earth’s complex systems, including CO2
+levels, weather, economic indicators, and passes it as prompts to GPT-3 for it
+to generate descriptions of the data. Via a semantic similarity computation,
+these descriptions are then matched to sounds in a sound library that was tagged
+by people describing each sound. Therefore, the soundscape is intended to ‘feel’
+like the data, by semantically matching AI generated data descriptions of data
+to human generated descriptions of sounds.
+
+Rodolfo uses this soundscape as a base for a real time musical improvisation
+that can be understood as a way to jam with Earth’s data. Throughout history,
+humans have related to the Earth through stories and music. In a time where we
+increasingly relate to the world through data, this performance is a playful
+exploration that repurposes data technologies to relate to these systems in a
+less rational, more emotional and improvisational way through music, assuming
+oneself very as part of nature’s orchestra.","Rodolfo Ocampo is a creative technologist from Mexico City, based in Sydney. He
+is completing a PhD at UNSW School of Art and Design, researching how
+interaction design can enable effective human-AI creative collaboration. He
+originally came to Australia in 2020 to participate in the second cohort at the
+3A Institute, now the School of Cybernetics at ANU. Previous to that, he worked
+at Google for two years. Additionally he is currently working at CSIRO
+developing tools for indigenous rangers to aid in management of Country.
+
+He is interested in the creative intersection between the environment,
+technology and people, and how artificial intelligence can enable new creative
+possibilities. He recently co-developed an installation with music technology
+company Uncanny Valley for the School of Cybernetics Building, which transforms
+data from Earth’s complex systems into a soundscape via semantic matching
+between data descriptions and sound descriptions. His performance at OzChi uses
+this installation soundscape as a base to improvise in real time with keyboards,
+guitar and drums.
+
+Recently, he also developed the viral app Narrative Device which enabled people
+to write short stories with GTP-3. Previous to that, he developed a nationally
+touring art installation in Mexico that repurposed face recognition technologies
+to protest the war on drugs. He works as an independent consultant and developer
+for creative projects that involve interactions between people, technology and
+the environment.",,,gig,,,,
+4,Livecoding in Extempore,Ushini Attanayake|Ben Swift,"This livecoding set explores natural and synthetic sonic textures programmed in
+the Extempore livecoding environment.","### Ushini Attanayake
+
+Ushini Attanayake is a live coder, educator and PhD candidate in the School of
+Computing at the Australian National University. Her research interests lie in
+computing education, creative computing and co-creative agents. Her doctoral
+research involves developing a notion of proficiency within creative computing
+education while drawing on existing notions of proficiency in visuals arts,
+music and computing. Focussing on late secondary and early tertiary education,
+she will explore the efficacy of various approaches used to evaluate learning in
+creative computing. She is passionate about developing creative computing
+educational material, particularly for outreach programs aimed at delivering
+computing education to underrepresented demographics.
+
+Her creative practices include live coding performances, which have lately been
+heavily influenced by classical Indian rhythmic structures. As a house dancer
+and music maker, she continues to look for ways to bridge these two interest
+through small projects involving wearable devices in her spare time.
+
+### Ben Swift
+
+Dr. Ben Swift is an interdisciplinary scholar and artist-programmer with
+interests in computational art & music, cybernetics, AI/machine learning, data
+vis/data science and human-computer interaction. A unifying thread is the
+potential of liveness (human-in-the-loop interactivity with real-time feedback)
+in tools and workflows, especially in open-ended creative tasks.",,,gig,,,,TRUE
+5,Cubing Sound Ensemble,Yichen Wang|Charles Martin,"Head-mounted mixed reality presents new opportunities for natural musical
+control in three dimensions for facilitating musical creativity, yet existing
+works are limited to using hand-held controllers. In OzCHI this year, we present
+a free-improvised performance consisting of a novel 3D musical expression in AR.
+Audiences can see how a NIME (new interface for musical expression) in AR
+activates mobility, space and sound by the performer in musical performance.","### Yichen Wang
+
+Yichen Wang is a PhD candidate in computer science at The Australian National
+University, where she explores the relationship between HCI, art and augmented
+reality. Her recent works focus on augmented reality new interfaces for musical
+expression. You can check out her previous works here:
+<https://yichenwangs.github.io/yichen/work>.
+
+### Charles Martin
+
+Charles Martin is a computer scientist specialising in music technology, musical
+AI and human-computer interaction at The Australian National University,
+Canberra. Charles develops musical apps such as MicroJam, and PhaseRings,
+researches creative AI, and performs music with Ensemble Metatone and Andromeda
+is Coming. At the ANU, Charles teaches creative computing and leads research
+into intelligent musical instruments. His lab's focus is on developing new
+intelligent instruments, performing new music with them, and bringing them to a
+broad audience of musicians and performers.",,,gig,,,,TRUE
+6,Machine Masquerade: An Interactive Explorationof the Limits of Machine Recognition,Glen Berman|Ned Cooper,"This installation allows participants to experiment with ‘fooling’ facial detection models andencourages participants to reflect on the limits of extant surveillance technologies. Physicaladversarial attacks ‘fool’ such models into labelling a face as ‘unknown’ or ignoring a facealtogether, using physical props to alter the visual input to a model. Try out one of the propsto conduct your own adversarial attack on a facial detection model!","Hi! We are Glen and Ned. We are both PhD candidates at the College of Engineering andComputer Science, Australian National University. Glen studies the social implications ofemerging technology practices, and Ned studies the participation of end users in developingAI-enabled systems.",,,room,,,,

@@ -30,11 +30,12 @@ def main(site_data_path):
         elif typ == "yml":
             site_data[name] = yaml.load(open(f).read(), Loader=yaml.SafeLoader)
 
-    for typ in ["papers", "speakers", "workshops"]:
+    for typ in ["papers", "speakers", "workshops", "creativity"]:
         by_uid[typ] = {}
         for p in site_data[typ]:
             by_uid[typ][p["UID"]] = p
 
+    print(site_data["creativity"])
     print("Data Successfully Loaded")
     return extra_files
 
@@ -106,6 +107,12 @@ def papers():
     data["papers"] = site_data["papers"]
     return render_template("papers.html", **data)
 
+@app.route("/creativity.html")
+def creativity():
+    data = _data()
+    data["creativity"] = site_data["creativity"]
+    return render_template("creative.html", **data)
+
 
 @app.route("/paper_vis.html")
 def paper_vis():
@@ -156,6 +163,9 @@ def format_paper(v):
         "keywords": list_fields["keywords"],
         "abstract": v["abstract"],
         "TLDR": v["abstract"],
+        "bio": v["bio"],
+        "id": v["UID"],
+        "image": v["image"],
         "recs": [],
         "sessions": list_fields["sessions"],
         # links to external content per poster
@@ -181,6 +191,13 @@ def format_workshop(v):
 
 # ITEM PAGES
 
+@app.route("/creative_<creative>.html")
+def creative(creative):
+    uid = creative
+    v = by_uid["creativity"][uid]
+    data = _data()
+    data["paper"] = format_paper(v)
+    return render_template("creative_submission.html", **data)
 
 @app.route("/poster_<poster>.html")
 def poster(poster):
