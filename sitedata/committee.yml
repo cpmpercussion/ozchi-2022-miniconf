@@ -60,7 +60,7 @@ committee:
     tw: "kristina_mah"
     url: ""
   - aff: Monash University
-    im: "./static/images/committee/zeinab-ghaemi.jpeg"
+    im: "./static/images/committee/zeinab-ghaemi.jpg"
     name: Zeinab Ghaemi
     role: Hybrid Chair
     tw: ""
@@ -90,7 +90,7 @@ committee:
     tw: "mingzzze"
     url: ""
   - aff: Google
-    im: "./static/images/committee/jess-tsimeris.jpeg"
+    im: "./static/images/committee/jess-tsimeris.jpg"
     name: 'Jess Tsimeris'
     role: Late-Breaking Work & Case Studies Chair
     tw: "tsimeris"
@@ -102,7 +102,7 @@ committee:
     tw: ""
     url: ""
   - aff: University College London
-    im: "./static/images/committee/soojeong-yoo.jpeg"
+    im: "./static/images/committee/soojeong-yoo.jpg"
     name: Soojeong Yoo
     role: Late-Breaking Work & Case Studies Chair
     tw: "YooSoojeong"
@@ -114,7 +114,7 @@ committee:
     tw: ""
     url: ""
   - aff: Australian National University
-    im: "./static/images/committee/ushini-attanayake.JPG"
+    im: "./static/images/committee/ushini-attanayake.jpg"
     name: Ushini Attanayake
     role: Logistics Chair
     tw: "ushinis"
@@ -126,11 +126,11 @@ committee:
     tw: "melissainau"
     url: ""
   - aff: Monash University
-    im: ""
+    im: "./static/images/committee/bronwyn-cumbo.jpg"
     name: Bronwyn Cumbo
     role: Papers Chair
     tw: ""
-    url: ""
+    url: "https://research.monash.edu/en/persons/bronwyn-cumbo"
   - aff: The University of Melbourne
     im: "./static/images/committee/greg-wadley.jpg"
     name: Greg Wadley
@@ -162,7 +162,7 @@ committee:
     tw: "danachatter"
     url: ""
   - aff: University of South Australia
-    im: "./static/images/committee/andrew-cunningham.jpeg"
+    im: "./static/images/committee/andrew-cunningham.jpg"
     name: Andrew Cunningham
     role: Program Chair
     tw: "atzanteotl"
@@ -214,4 +214,4 @@ committee:
     name: Charles Martin
     role: General Chair
     tw: cpmpercussion
-    url: https://charlesmartin.com.au
+    url: https://charlesmartin.au
