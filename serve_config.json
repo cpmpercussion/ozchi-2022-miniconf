@@ -2,8 +2,9 @@
   "analytics": "UA-",
   "auth0_client_id": "JIdr6wi0z27LyLgwkJF0fpk700aj7MNH",
   "auth0_domain": "miniconf.auth0.com",
+  "background_imag_alt": "An image of the Shine Dome at the Australian Academy of Science in Canberra.",
   "background_image": "static/images/shine-dome.jpg",
-  "background_image_ref": "Photo of the Shine Dome was supplied by The Australian Academy of Science.",
+  "background_image_ref": "Image: The Australian Academy of Science.",
   "biglogo": {
     "height": "auto",
     "image": "static/images/ozchi-logo-white.png",
