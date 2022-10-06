@@ -96,6 +96,9 @@ workshopgroup
             {{org.aff}}{% if org.tw %} /
             <a class="text-muted" href="http://twitter.com/{{org.tw}}"
               >@{{org.tw}}</a
+            >{% endif %}{% if org.url %} /
+            <a class="text-muted" href="{{org.url}}"
+              >website</a
             >{% endif %}
           </h6>
         </div>
