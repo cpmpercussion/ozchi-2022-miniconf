@@ -163,15 +163,15 @@ def format_paper(v):
         "keywords": list_fields["keywords"],
         "abstract": v["abstract"],
         "TLDR": v["abstract"],
-        "bio": v["bio"],
-        "id": v["UID"],
-        "image": v["image"],
+        "bio": v.get("bio",""),
+        "id": v.get("UID",""),
+        "image": v.get("image",""),
         "recs": [],
         "sessions": list_fields["sessions"],
         # links to external content per poster
         "pdf_url": v.get("pdf_url", ""),  # render poster from this PDF
-        "code_link": "https://github.com/Mini-Conf/Mini-Conf",  # link to code
-        "link": "https://arxiv.org/abs/2007.12238",  # link to paper
+        "code_link": v.get("code", ""),  # link to code
+        "link": v.get("link",""),  # link to paper
     }
 
 
