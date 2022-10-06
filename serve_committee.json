@@ -82,7 +82,7 @@
     },
     {
       "aff": "Monash University",
-      "im": "./static/images/committee/zeinab-ghaemi.jpeg",
+      "im": "./static/images/committee/zeinab-ghaemi.jpg",
       "name": "Zeinab Ghaemi",
       "role": "Hybrid Chair",
       "tw": "",
@@ -122,7 +122,7 @@
     },
     {
       "aff": "Google",
-      "im": "./static/images/committee/jess-tsimeris.jpeg",
+      "im": "./static/images/committee/jess-tsimeris.jpg",
       "name": "Jess Tsimeris",
       "role": "Late-Breaking Work & Case Studies Chair",
       "tw": "tsimeris",
@@ -138,7 +138,7 @@
     },
     {
       "aff": "University College London",
-      "im": "./static/images/committee/soojeong-yoo.jpeg",
+      "im": "./static/images/committee/soojeong-yoo.jpg",
       "name": "Soojeong Yoo",
       "role": "Late-Breaking Work & Case Studies Chair",
       "tw": "YooSoojeong",
@@ -154,7 +154,7 @@
     },
     {
       "aff": "Australian National University",
-      "im": "./static/images/committee/ushini-attanayake.JPG",
+      "im": "./static/images/committee/ushini-attanayake.jpg",
       "name": "Ushini Attanayake",
       "role": "Logistics Chair",
       "tw": "ushinis",
@@ -170,11 +170,11 @@
     },
     {
       "aff": "Monash University",
-      "im": "",
+      "im": "./static/images/committee/bronwyn-cumbo.jpg",
       "name": "Bronwyn Cumbo",
       "role": "Papers Chair",
       "tw": "",
-      "url": ""
+      "url": "https://research.monash.edu/en/persons/bronwyn-cumbo"
     },
     {
       "aff": "The University of Melbourne",
@@ -218,7 +218,7 @@
     },
     {
       "aff": "University of South Australia",
-      "im": "./static/images/committee/andrew-cunningham.jpeg",
+      "im": "./static/images/committee/andrew-cunningham.jpg",
       "name": "Andrew Cunningham",
       "role": "Program Chair",
       "tw": "atzanteotl",
@@ -286,7 +286,15 @@
       "name": "Charles Martin",
       "role": "General Chair",
       "tw": "cpmpercussion",
-      "url": "https://charlesmartin.com.au"
+      "url": "https://charlesmartin.au"
+    },
+    {
+      "aff": "Queensland University of Technology",
+      "im": "",
+      "name": "Tara Capel",
+      "role": "Logistics Chair",
+      "tw": null,
+      "url": null
     }
   ]
 }
