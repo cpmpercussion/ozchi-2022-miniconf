@@ -4,7 +4,7 @@
     "abstract": "The body is amassed with electrical signals. These bioelectric signals are tied\nto both the most basic body functions such as the heart beating all the way to\nthe highest level of processing in the brain. These signals are often rhythmic\nin nature and provide a means to measure the fundamental rhythms of any\nindividual. In this performance we will generate music in real time from\nbioelectric signals that are read from a human subject. The ECG (heart) will set\nthe rhythm of the music while other signals including EEG (brain waves) and EMG\n(muscles) will be used by an algorithm to perform melodic and rhythmic choices.\nThe subject will participate by dancing and responding to the generated music\nand by virtue of their interaction will change the music produced. Additionally,\nthe signals will be sonified and form part of the music. Musician(s) will also\nimprovise along with the generated music with their instruments being modulated\nby the captured bioelectric signals.",
     "authors": "Matthew Walsh",
     "bio": "Matthew Walsh is a musician, software engineer and neuroscientist, obtaining a\nPhD in Computational Neuroscience in 2020. His thesis topic was \u201cMean Field\nModelling of Epileptogenic Cortical Lesions Using The Liley Model\u201d. This thesis\nfocussed on modelling the effects of cortical lesions on the EEG. Matthew has\nnow broadened his research interests to include the sonification and\nmusification of biological signals.\n\nMatthew is vocalist, guitarist and songwriter for the Melbourne band \u201cYour Creepy Ex\u201d.",
-    "image": "",
+    "image": "TRUE",
     "keywords": "",
     "paper_url": "",
     "session_name": "gig",
