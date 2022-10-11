@@ -43,6 +43,9 @@
               <div class="card-subtitle text-muted">
                 {{ workshop.organizers | join(", ") }}
               </div>
+              <div class="m-1 card-subtitle text-muted">
+                {{ workshop.timedate | safe }}
+              </div>
               <div class="m-3 text-left card-subtitle font-italic">
                 {{workshop.abstract|safe|markdown|truncate(300)}}
               </div>
