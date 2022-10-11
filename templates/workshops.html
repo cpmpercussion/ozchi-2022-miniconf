@@ -2,13 +2,55 @@
 {% set page_title = "Workshops" %}
 {% extends "base.html" %}
 
+{% block top %}
+<style>
+  .back {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url("{{config.background_image}}") no-repeat center;
+    background-size: cover;
+  }
+  .back h2 {
+    font-family: "Public Sans", sans-serif;
+    font-weight: 700;
+  }
+</style>
+
+<div class="jumbotron jumbotron-fluid back" style="padding-bottom: 20px;">
+  <div class="row header p-6 m-5">
+    <div class="p-1 mx-auto text-center text-white col-md-9 col-sm-12">
+      <h2>{{ page_title }}</h2>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
 {% block content %}
 <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
   <div id="day">
-    <!-- Workshops -->
-    {{ components.section("Workshops") }}
     <div class="speakers">
-      {{ components.workshopgroup(workshops) }}
+      <div class="cards row">
+        {% for workshop in workshops %}
+        <div class="col-md-6 col-sm-12 p-3" style="box-sizing: border-box;">
+          <div class="card" style="display: block; overflow: hidden; width: 100%;">
+            <div
+              class="card-header text-center"
+              style="min-height: 200px; width: 100%;"
+            >
+              <a class="text-muted" href="workshop_{{workshop.id}}.html">
+                <h3 class="card-title main-title">
+                  {{workshop.title}}
+                </h3>
+              </a>
+              <div class="card-subtitle text-muted">
+                {{ workshop.organizers | join(", ") }}
+              </div>
+              <div class="m-3 text-left card-subtitle font-italic">
+                {{workshop.abstract|safe|markdown|truncate(300)}}
+              </div>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
     </div>
   </div>
 </div>

@@ -186,6 +186,7 @@ def format_workshop(v):
         "title": v["title"],
         "organizers": list_fields["authors"],
         "abstract": v["abstract"],
+        "timedate": v.get("timedate",""),
     }
 
 

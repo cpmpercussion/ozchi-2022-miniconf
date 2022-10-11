@@ -230,7 +230,7 @@ workshopgroup
           {{ workshop.organizers | join(", ") }}
         </div>
         <div class="m-3 text-left card-subtitle font-italic">
-          {{workshop.abstract|safe}}
+          {{workshop.abstract|safe|markdown}}
         </div>
       </div>
     </div>
