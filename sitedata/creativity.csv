@@ -80,7 +80,7 @@ to protest the war on drugs. He works as an independent consultant and developer
 for creative projects that involve interactions between people, technology and
 the environment.",,,gig,,,,TRUE
 4,Livecoding in Extempore,Ushini Attanayake|Ben Swift,"This livecoding set explores natural and synthetic sonic textures programmed in
-the Extempore livecoding environment.","### Ushini Attanayake
+the Extempore livecoding environment.","#### Ushini Attanayake
 
 Ushini Attanayake is a live coder, educator and PhD candidate in the School of
 Computing at the Australian National University. Her research interests lie in
@@ -98,9 +98,9 @@ heavily influenced by classical Indian rhythmic structures. As a house dancer
 and music maker, she continues to look for ways to bridge these two interest
 through small projects involving wearable devices in her spare time.
 
-### Ben Swift
+#### Ben Swift
 
-Dr. Ben Swift is an interdisciplinary scholar and artist-programmer with
+[Dr. Ben Swift](https://benswift.me) is an interdisciplinary scholar and artist-programmer with
 interests in computational art & music, cybernetics, AI/machine learning, data
 vis/data science and human-computer interaction. A unifying thread is the
 potential of liveness (human-in-the-loop interactivity with real-time feedback)
@@ -110,7 +110,7 @@ control in three dimensions for facilitating musical creativity, yet existing
 works are limited to using hand-held controllers. In OzCHI this year, we present
 a free-improvised performance consisting of a novel 3D musical expression in AR.
 Audiences can see how a NIME (new interface for musical expression) in AR
-activates mobility, space and sound by the performer in musical performance.","### Yichen Wang
+activates mobility, space and sound by the performer in musical performance.","#### Yichen Wang
 
 Yichen Wang is a PhD candidate in computer science at The Australian National
 University, where she explores the relationship between HCI, art and augmented
@@ -118,7 +118,7 @@ reality. Her recent works focus on augmented reality new interfaces for musical
 expression. You can check out her previous works here:
 <https://yichenwangs.github.io/yichen/work>.
 
-### Charles Martin
+#### Charles Martin
 
 Charles Martin is a computer scientist specialising in music technology, musical
 AI and human-computer interaction at The Australian National University,
