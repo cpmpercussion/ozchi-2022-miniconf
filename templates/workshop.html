@@ -11,9 +11,13 @@
     <h3 class="card-subtitle mb-2 text-muted text-center">
       {{ workshop.organizers | join(", ") }}
     </h3>
-    <h4 class="card-subtitle mb-2 text-muted text-center">
-      {{ workshop.timedate | safe}}
-    </h4>
+    <div class="text-center p-1">
+      <p class="card-text">{{ workshop.timedate | safe}}</p>
+    </div>
+    <!-- Links Info -->
+    <div class="text-center p-1">
+      {% if workshop.url %}<a class="card-link" href="{{workshop.url}}">website</a>{% endif %}
+    </div>
   </div>
 </div>
 <div class="pp-card m-3">

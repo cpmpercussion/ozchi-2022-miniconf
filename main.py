@@ -35,7 +35,7 @@ def main(site_data_path):
         for p in site_data[typ]:
             by_uid[typ][p["UID"]] = p
 
-    print(site_data["creativity"])
+    # print(site_data["creativity"])
     print("Data Successfully Loaded")
     return extra_files
 
@@ -187,6 +187,7 @@ def format_workshop(v):
         "organizers": list_fields["authors"],
         "abstract": v["abstract"],
         "timedate": v.get("timedate",""),
+        "url": v.get("url",""),
     }
 
 
