@@ -7,16 +7,36 @@ _Creativity_ track featuring works from community related to creative computing,
 games, interactive art, music and more. This year's creativity chair is [Ben
 Swift](https://benswift.me).
 
-The creativity track has two parts: the *gig* (a live event on Thursday night)
-and the *room* (an installation space which will be open throughout the
-conference). Both are in-person, although we may be able to stream the *gig*,
-but that's TBC. Submissions for each will be curated and selected selected by
-the conference organisers.
+The creativity track has two parts, both in-person: the *gig* (a live event on
+Thursday night Dec 1) and the *room* (an installation space which will be open
+throughout the conference). Submissions for each are curated and selected by the
+conference organisers.
 
 Creativity submissions may be related to submissions in another track, or they
 may be standalone.
 
-### The *gig* (Algorave)
+## The *gig* (Algorave)
+
+The details for the gig are:
+
+- **Date**: Thursday Dec 1
+- **Time**: 7:30pm--9:30pm (doors at 7pm)
+- **Venue**: [Main Hall, **Ainslie** Arts
+  Centre](https://ainslieandgorman.com.au/venue-hire/weddings/ainslie-main-hall/)
+- **Cost**: TBC
+
+The gig is a ticketed event, and ticket sales info will be up here ASAP.
+
+This year's gig lineup is:
+
+| Niamh McCool     |
+| Matt Walsh       |
+| Yichen & Charles |
+| Ben & Ushini     |
+| Bernie Gray      |
+| Rodo Ocampo      |
+
+### About Algoraves
 
 These days just about all electronic music is made using computers, but with
 artificial barriers between the people creating the software algorithms and the
@@ -43,36 +63,13 @@ and beats made through strange, algorithm-aided processes. It’s up to the good
 people on the dancefloor to help the musicians make sense of this and do the
 real creative work in making a great party.
 
-**To get on the bill for the _gig_ (Algorave) track**, send us:
-
-- a recorded (audio + video preferred, but audio-only ok) example of your work
-- a one-paragraph description of your proposed performance
-- a tech rider describing your required AV setup (we will have a stereo PA and
-  HD data projector)
-
-### The *room*
+## The *room*
 
 Some examples of HCI practice are better experienced than talked about on a
-bunch of PPT slides[^ppt]. If you've got an interactive system exploring
-sculpture, sound art, design, or any other embodied + situated setup that you
-can bring along and set up in a room for coference members to experience and
-enjoy, then we'd love to hear from you.
+bunch of PPT slides. (Honestly, is there _anything_ that's not better
+experienced than talked about on a bunch of PPT slides?) If you've got an
+interactive system exploring sculpture, sound art, design, or any other
+embodied + situated setup that you can bring along and set up in a room for
+coference members to experience and enjoy, then we'd love to hear from you.
 
-**To submit a work to the _room_ track**, send us:
-
-- a recorded (audio + video preferred, but audio-only ok) example of your system
-  in action
-- a one-paragraph description of the work
-- a tech rider describing your setup (size, required power/data/AV connectivity,
-  any other sound/lighting requirements)
-  
-[^ppt]: 
-    Honestly, is there _anything_ that's not better experienced than talked
-    about on a bunch of PPT slides?
-
-### Submission
-
-Send your submission following the above formats to
-[ben.swift@anu.edu.au](mailto:ben.swift@anu.edu.au?subject=ozchi-creativity) by
-12 August 2022.
 
