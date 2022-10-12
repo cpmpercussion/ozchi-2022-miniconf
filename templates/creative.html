@@ -24,11 +24,15 @@
 {% endblock %}
 
 {% block content %}
+
+{{ creativity_gig | markdown }}
+
 <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
   <div id="day">
     <div class="speakers">
         <div class="cards row">
             {% for create in creativity %}
+            {% if create.session_name == "gig" %}
             <div class="col-md-6 col-sm-12 p-3" style="box-sizing: border-box;">
               <div class="card" style="display: block; overflow: hidden; width: 100%;">
                 <div
@@ -50,6 +54,43 @@
                 </div>
               </div>
             </div>
+            {% endif %}
+            {% endfor %}
+          </div>
+    </div>
+  </div>
+</div>
+
+{{ creativity_room | markdown }}
+
+<div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
+  <div id="day">
+    <div class="speakers">
+        <div class="cards row">
+            {% for create in creativity %}
+            {% if create.session_name == "room" %}
+            <div class="col-md-6 col-sm-12 p-3" style="box-sizing: border-box;">
+              <div class="card" style="display: block; overflow: hidden; width: 100%;">
+                <div
+                  class="card-header text-center"
+                  style="min-height: 200px; width: 100%;"
+                >
+                  <a class="text-muted" href="creative_{{create.UID}}.html">
+                    <h3 class="card-title main-title">
+                      {{create.title}}
+                    </h3>
+                  </a>
+                  <div class="card-subtitle text-muted">
+                    {{ create.authors.split('|') | join(", ") }}
+                  </div>
+                  <div class="m-3 text-left card-subtitle font-italic">
+                    {{create.abstract|safe|truncate(150)}}
+                  </div>
+                  {% if create.image %}<img class="card-img-bottom" src="static/creative-images/{{create.UID}}.jpg"/>{% endif %}
+                </div>
+              </div>
+            </div>
+            {% endif %}
             {% endfor %}
           </div>
     </div>

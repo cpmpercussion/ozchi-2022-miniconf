@@ -111,6 +111,8 @@ def papers():
 def creativity():
     data = _data()
     data["creativity"] = site_data["creativity"]
+    data["creativity_gig"] = open("pages/creativity_gig.md").read()
+    data["creativity_room"] = open("pages/creativity_room.md").read()
     return render_template("creative.html", **data)
 
 

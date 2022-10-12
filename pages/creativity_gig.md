@@ -1,7 +1,3 @@
----
-title: Creativity Track
----
-
 OzCHI 2022's theme is **connected creativity**. To emphasise this we have a
 _Creativity_ track featuring works from community related to creative computing,
 games, interactive art, music and more. This year's creativity chair is [Ben
@@ -16,27 +12,6 @@ Creativity submissions may be related to submissions in another track, or they
 may be standalone.
 
 ## The *gig* (Algorave)
-
-The details for the gig are:
-
-- **Date**: Thursday Dec 1
-- **Time**: 7:30pm--9:30pm (doors at 7pm)
-- **Venue**: [Main Hall, **Ainslie** Arts
-  Centre](https://ainslieandgorman.com.au/venue-hire/weddings/ainslie-main-hall/)
-- **Cost**: TBC
-
-The gig is a ticketed event, and ticket sales info will be up here ASAP.
-
-This year's gig lineup is:
-
-| Niamh McCool     |
-| Matt Walsh       |
-| Yichen & Charles |
-| Ben & Ushini     |
-| Bernie Gray      |
-| Rodo Ocampo      |
-
-### About Algoraves
 
 These days just about all electronic music is made using computers, but with
 artificial barriers between the people creating the software algorithms and the
@@ -63,13 +38,14 @@ and beats made through strange, algorithm-aided processes. It’s up to the good
 people on the dancefloor to help the musicians make sense of this and do the
 real creative work in making a great party.
 
-## The *room*
+The **details for the gig** are:
 
-Some examples of HCI practice are better experienced than talked about on a
-bunch of PPT slides. (Honestly, is there _anything_ that's not better
-experienced than talked about on a bunch of PPT slides?) If you've got an
-interactive system exploring sculpture, sound art, design, or any other
-embodied + situated setup that you can bring along and set up in a room for
-coference members to experience and enjoy, then we'd love to hear from you.
+- **Date**: Thursday Dec 1
+- **Time**: 7:30pm--9:30pm (doors at 7pm)
+- **Venue**: [Main Hall, **Ainslie** Arts
+  Centre](https://ainslieandgorman.com.au/venue-hire/weddings/ainslie-main-hall/)
+- **Cost**: TBC
 
+The gig is a ticketed event, and ticket sales info will be up here ASAP.
 
+### Line-up
