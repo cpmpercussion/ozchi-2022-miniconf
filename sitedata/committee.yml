@@ -11,12 +11,6 @@ committee:
     role: Below Zero Chair
     tw: ""
     url: ""
-  - aff: University of Wollongong
-    im: "./static/images/committee/holly-yootell.jpg"
-    name: Holly Tootell
-    role: Below Zero Chair
-    tw: "drhollyt"
-    url: "https://scholars.uow.edu.au/display/holly_tootell"
   - aff: ANU School of Cybernetics
     im: "./static/images/committee/ben-swift.jpg"
     name: Ben Swift
