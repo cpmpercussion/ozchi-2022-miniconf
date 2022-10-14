@@ -52,14 +52,14 @@ Yes, we offer arrangements based on a per request basis. If you would like a stu
 <!-- ## What are the restroom facilities like? -->
 
 
-# Will the conference be a alcohol-free environment?
+## Will the conference be a alcohol-free environment?
 Yes, OzCHI 2022 will be a alcohol-free conference.
 
-# What food service will be provided and dietary options?
+## What food service will be provided and dietary options?
 
 The conference dinner will be a full vegetarian menu, and potential to cater for dietary requirements. Please indicate this on your registration form if you have any food allergies or special dietary needs. For more information, please contact Accessibility Chair yichen.wang@anu.edu.au.
 
-# Will the conference be a smoke-free environment? 
+## Will the conference be a smoke-free environment? 
 
 Yes, ANU is [smoke-free](https://services.anu.edu.au/human-resources/wellbeing/smoke-free-campus).
 
