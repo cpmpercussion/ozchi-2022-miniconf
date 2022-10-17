@@ -73,7 +73,7 @@
     "UID": "6",
     "abstract": "This installation allows participants to experiment with \u2018fooling\u2019 facial detection models andencourages participants to reflect on the limits of extant surveillance technologies. Physicaladversarial attacks \u2018fool\u2019 such models into labelling a face as \u2018unknown\u2019 or ignoring a facealtogether, using physical props to alter the visual input to a model. Try out one of the propsto conduct your own adversarial attack on a facial detection model!",
     "authors": "Glen Berman|Ned Cooper",
-    "bio": "Hi! We are Glen and Ned. We are both PhD candidates at the College of Engineering andComputer Science, Australian National University. Glen studies the social implications ofemerging technology practices, and Ned studies the participation of end users in developingAI-enabled systems.",
+    "bio": "Hi! We are Glen and Ned. We are both PhD candidates at the College of Engineering andComputer Science, Australian National University. Glen studies the social implications ofemerging technology practices, and Ned studies the participation of end users in developing AI-enabled systems.",
     "image": "TRUE",
     "keywords": "",
     "paper_url": "",
@@ -81,6 +81,20 @@
     "session_position": "",
     "slides": "",
     "title": "Machine Masquerade: An Interactive Explorationof the Limits of Machine Recognition",
+    "video": ""
+  },
+  {
+    "UID": "7",
+    "abstract": "Tidalcycles and Punctual livecoding languages collide in this semi-improvised performance, at the tail end of a year focussed on sharing knowledge vacuumed up during the covid lockdowns.\nThere will be pieces from the sonification of musically inspired artworks from the Audio Visions Art exhibition at the Griffith Regional Art Gallery, heart pounding techno honed for the inFREQUENCY tour dance floors and exploring wherever the restless brain gets taken in the moment.",
+    "authors": "Bernard Gray",
+    "bio": "Bernard Gray is a regionally based livecoder, working predominantly in TidalCycles (audio) and Punctual (visuals).\nAfter 2 years of lockdown spent exploring, discovering and participating in the online world of livecoding, inc weekly jams with other coders from all over the world, he has committed 2022 to share that knowledge and interest with his community.\n[DECODED](https://decoded.livecode.au) workshops and performances exposed the practice of livecoding to the regional town of Griffith NSW, building on that came the [inFREQUENCY](https://infrequency.au) tour moving slightly further afield to Yanco, and all the way down to Tanja NSW with a group of experimental artists, each sharing their process/toolsets and methods through workshops and performances.\nHe is passionate about chewing gum, making knowledge accessible, easing barriers to entry and sharing ideas... and he's all out of gum.",
+    "image": "TRUE",
+    "keywords": "",
+    "paper_url": "",
+    "session_name": "gig",
+    "session_position": "",
+    "slides": "",
+    "title": "A Year of Sharing Livecoding",
     "video": ""
   }
 ]
