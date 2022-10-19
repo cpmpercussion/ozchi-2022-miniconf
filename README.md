@@ -10,17 +10,42 @@ OzCHI is the annual non-profit conference for the Computer-Human Interaction Spe
 
 The theme of OzCHI 2022 is "connected creativity", this year we want to acknowledge the value of connections between researchers, technologies, society and country and the creative expressions of these connections. To emphasise this theme we are introducing a special [creativity track](creativity.html) for OzCHI 2022 to present creative computing works including art, games, media and music that connect with and extend human-computer interaction. 
 
+## Registration
+
+The registration page will be available (very) soon.
+
+**Full conference registrations**
+
+- Member (HFESA/ACM/ACM SIGCHI) $600 
+- Non-Member $800 
+- Student/Concession $350 
+- Remote Member/Student/Concession $250 
+- Remote Non-Member $350 
+
+**Single day registrations**
+
+- Member Wednesday $200 
+- Member Thursday $200 
+- Member Friday $100 
+- Non-Member Wednesday $250 
+- Non-Member Thursday $250 
+- Non-Member Friday $200 
+- Student/Concession Wednesday $100 
+- Student/Concession Thursday $100 
+- Student/Concession Friday $50 
+
 ### Important dates
 
 All times are in Anywhere on Earth (AoE) time zone. When the deadline is day D, the last time to submit is when D ends AoE. 
 <br/>[Check your local time in AoE.](https://time.is/Anywhere_on_Earth)
 
 ###### Papers
-- <strike>17 June 2022</strike> **24 June 2022:** Papers due
+- ~~17 June 2022~~ **24 June 2022:** Papers due
 - **8 August 2022**: Papers notifications
 - **2 September 2022:** Papers publication ready
 
 ###### LBW, Case Studies and Creativity Track
+
 - <strike>12 August 2022</strike> **19 August 2022:** LBW, Case Studies and Creativity Track due
 - **26 September 2022:** LBW and Case Studies notifications
 - **10 October 2022:** LBW and Case Studies publication ready
