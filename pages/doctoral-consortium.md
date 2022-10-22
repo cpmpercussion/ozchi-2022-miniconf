@@ -141,7 +141,7 @@ zone.
 
 - Submission deadline: **September 30, 2022**
 
-- Notification date: **October 17, 2022**
+- Notification date: **October 28, 2022** gi*(New)*
 
 - Doctoral Consortium Day: **November 29, 2022**
 
