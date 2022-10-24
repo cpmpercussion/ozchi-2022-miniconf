@@ -12,7 +12,7 @@ The theme of OzCHI 2022 is "connected creativity", this year we want to acknowle
 
 ## Registration
 
-The registration page will be available (very) soon.
+The registration page can be found [here at ergonomics.org.au](https://www.ergonomics.org.au/events/ozchi-2022-conference/)
 
 **Full conference registrations**
 
