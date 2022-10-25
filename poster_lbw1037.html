@@ -105,6 +105,7 @@
 
 
 
+
 <nav
         class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
         id="main-nav"
@@ -140,7 +141,7 @@
                 </li>
                 
                 <li class="nav-item ">
-                    <a class="nav-link" href="call.html">Call for Submissions</a>
+                    <a class="nav-link" href="papers2.html">Papers</a>
                 </li>
                 
                 <li class="nav-item ">
@@ -211,88 +212,33 @@
             >
             
         </p>
+
+        
+        <p class="text-center p-3">
+        
+        Late Breaking Work and Case Studies Track
+        
+        </p>
+        
         <div class="text-center p-3">
-            <a class="card-link" data-toggle="collapse" role="button"
-               href="#details">
-                Abstract
-            </a>
-            <a class="card-link" target="_blank" href="">
-                Paper
-            </a>
-            
-            <a href="" target="_blank" class="card-link">
-                Code
-            </a>
-            
+            <a class="card-link" target="_blank" href="/static/papers/lbw1037.pdf">Preprint PDF</a>
         </div>
     </div>
 </div>
-<div id="details" class="pp-card m-3 collapse">
-    <div class="card-body">
-        <div class="card-text">
-            <div id="abstractExample">
-                <span class="font-weight-bold">Abstract:</span>
-                This case study paper situates insights from designing a mobile application within academic literature advocating for the consideration of non-human stakeholders in the design process. The application, FrogID, was developed as part of a citizen science project to support frog conservation in Australia. FrogID crowdsources the collection of frog calls to build up a national database, which in turn can inform conservation strategies. The paper discusses the use of personas and other design tools to ensure the design solution considers the perspectives of frogs as a non-human stakeholder group and to facilitate interdisciplinary team collaboration. As a broader contribution to the field of interaction design, the paper discusses the responsibility of designers to advocate on behalf of stakeholders that don&#39;t have a voice.
-            </div>
-        </div>
-        <p></p>
-    </div>
-</div>
 
-<h5 style="color: red;">
-    Add content for posters. This could be a video, embedded pdf, chat room ....
-</h5>
-
-<!-- Chat -->
 <div class="border-top my-3"></div>
 <div class="row p-4" id="faq">
   <div class="col-12 bd-content">
-    <h2 class="text-center">Example Chat</h2>
+    <h2 class="text-center">Abstract</h2>
   </div>
 </div>
 
-<div class="col-md-12 col-xs-12 p-2">
-    <div id="gitter" class="slp">
-        <center>
-            <iframe frameborder="0"
-                    src="https://miniconf.sloppy.zone/channel/paper_lbw1037?layout=embedded"
-                    height="700px" width="100%"></iframe>
-        </center>
-    </div>
-</div>
-
-<!-- Slides Live-->
+<p><p>This case study paper situates insights from designing a mobile application within academic literature advocating for the consideration of non-human stakeholders in the design process. The application, FrogID, was developed as part of a citizen science project to support frog conservation in Australia. FrogID crowdsources the collection of frog calls to build up a national database, which in turn can inform conservation strategies. The paper discusses the use of personas and other design tools to ensure the design solution considers the perspectives of frogs as a non-human stakeholder group and to facilitate interdisciplinary team collaboration. As a broader contribution to the field of interaction design, the paper discusses the responsibility of designers to advocate on behalf of stakeholders that don't have a voice.</p></p>
 
 <div class="border-top my-3"></div>
 <div class="row p-4" id="faq">
   <div class="col-12 bd-content">
-    <h2 class="text-center">Example SlidesLive</h2>
-  </div>
-</div>
-
-<div class="col-md-12 col-xs-12 my-auto p-2">
-    <div id="presentation-embed" class="slp my-auto"></div>
-    <script src='https://slideslive.com/embed_presentation.js'></script>
-    <script>
-      embed = new SlidesLiveEmbed("presentation-embed", {
-        presentationId:
-          "38922815",
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true,
-        verticalWhenWidthLte: 500,
-        allowHiddenControlsWhenPaused: true,
-        hideTitle: true,
-      });
-    </script>
-</div>
-
-
-<!-- Chat -->
-
-<div class="border-top my-3"></div>
-<div class="row p-4" id="faq">
-  <div class="col-12 bd-content">
-    <h2 class="text-center">Example Poster</h2>
+    <h2 class="text-center">Preprint</h2>
   </div>
 </div>
 
@@ -305,8 +251,8 @@
   $(document).ready(() => {
     // render first page of PDF to div
     // PDF name can be bound to variable -- e.g. paper.content.poster_link
-    const pdfFile =
-      " /static/images/GLTR_poster.pdf";
+    const pdfFile = "/static/papers/lbw1037.pdf";
+    // " /static/images/GLTR_poster.pdf";
     initPDFViewer(pdfFile, "#pdf_view");
   });
 </script>

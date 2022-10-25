@@ -105,6 +105,7 @@ We conducted a preliminary expert review with four manufacturing workers. Our st
 
 
 
+
 <nav
         class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
         id="main-nav"
@@ -140,7 +141,7 @@ We conducted a preliminary expert review with four manufacturing workers. Our st
                 </li>
                 
                 <li class="nav-item ">
-                    <a class="nav-link" href="call.html">Call for Submissions</a>
+                    <a class="nav-link" href="papers2.html">Papers</a>
                 </li>
                 
                 <li class="nav-item ">
@@ -206,90 +207,35 @@ We conducted a preliminary expert review with four manufacturing workers. Our st
             >
             
         </p>
+
+        
+        <p class="text-center p-3">
+        
+        Late Breaking Work and Case Studies Track
+        
+        </p>
+        
         <div class="text-center p-3">
-            <a class="card-link" data-toggle="collapse" role="button"
-               href="#details">
-                Abstract
-            </a>
-            <a class="card-link" target="_blank" href="">
-                Paper
-            </a>
-            
-            <a href="" target="_blank" class="card-link">
-                Code
-            </a>
-            
+            <a class="card-link" target="_blank" href="/static/papers/lbw1030.pdf">Preprint PDF</a>
         </div>
     </div>
 </div>
-<div id="details" class="pp-card m-3 collapse">
-    <div class="card-body">
-        <div class="card-text">
-            <div id="abstractExample">
-                <span class="font-weight-bold">Abstract:</span>
-                Authoring of AR instructions is typically a time-consuming manual process that requires a user to use a desktop GUI interface or AR device for placing and animating 3D content. This is problematic because manual authoring does not scale to the myriad of product variations of many manufacturing companies. However, automatic authoring is possible, since companies already store data about their products in the form of a bill of materials and bill of processes. 
+
+<div class="border-top my-3"></div>
+<div class="row p-4" id="faq">
+  <div class="col-12 bd-content">
+    <h2 class="text-center">Abstract</h2>
+  </div>
+</div>
+
+<p><p>Authoring of AR instructions is typically a time-consuming manual process that requires a user to use a desktop GUI interface or AR device for placing and animating 3D content. This is problematic because manual authoring does not scale to the myriad of product variations of many manufacturing companies. However, automatic authoring is possible, since companies already store data about their products in the form of a bill of materials and bill of processes. 
 In our paper, we present authAR, a novel desktop GUI based tool that combines bill of materials with geometric data of a factory workspace to automatically author AR picking instructions on racks and boxes. In addition, authAR uses this data to propose spatial layouts of racks and boxes according to a customizable optimization algorithm.
-We conducted a preliminary expert review with four manufacturing workers. Our study showed that authAR has many potentials and was applicable to a real use case at the manufacturing company, Velux. The study contributes new knowledge to the field of AR authoring by including the views of domain experts and using real production data. Suggestions for improvements and new features as well as plans for a more thorough study are presented as future work.
-            </div>
-        </div>
-        <p></p>
-    </div>
-</div>
-
-<h5 style="color: red;">
-    Add content for posters. This could be a video, embedded pdf, chat room ....
-</h5>
-
-<!-- Chat -->
-<div class="border-top my-3"></div>
-<div class="row p-4" id="faq">
-  <div class="col-12 bd-content">
-    <h2 class="text-center">Example Chat</h2>
-  </div>
-</div>
-
-<div class="col-md-12 col-xs-12 p-2">
-    <div id="gitter" class="slp">
-        <center>
-            <iframe frameborder="0"
-                    src="https://miniconf.sloppy.zone/channel/paper_lbw1030?layout=embedded"
-                    height="700px" width="100%"></iframe>
-        </center>
-    </div>
-</div>
-
-<!-- Slides Live-->
+We conducted a preliminary expert review with four manufacturing workers. Our study showed that authAR has many potentials and was applicable to a real use case at the manufacturing company, Velux. The study contributes new knowledge to the field of AR authoring by including the views of domain experts and using real production data. Suggestions for improvements and new features as well as plans for a more thorough study are presented as future work.</p></p>
 
 <div class="border-top my-3"></div>
 <div class="row p-4" id="faq">
   <div class="col-12 bd-content">
-    <h2 class="text-center">Example SlidesLive</h2>
-  </div>
-</div>
-
-<div class="col-md-12 col-xs-12 my-auto p-2">
-    <div id="presentation-embed" class="slp my-auto"></div>
-    <script src='https://slideslive.com/embed_presentation.js'></script>
-    <script>
-      embed = new SlidesLiveEmbed("presentation-embed", {
-        presentationId:
-          "38922815",
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true,
-        verticalWhenWidthLte: 500,
-        allowHiddenControlsWhenPaused: true,
-        hideTitle: true,
-      });
-    </script>
-</div>
-
-
-<!-- Chat -->
-
-<div class="border-top my-3"></div>
-<div class="row p-4" id="faq">
-  <div class="col-12 bd-content">
-    <h2 class="text-center">Example Poster</h2>
+    <h2 class="text-center">Preprint</h2>
   </div>
 </div>
 
@@ -302,8 +248,8 @@ We conducted a preliminary expert review with four manufacturing workers. Our st
   $(document).ready(() => {
     // render first page of PDF to div
     // PDF name can be bound to variable -- e.g. paper.content.poster_link
-    const pdfFile =
-      " /static/images/GLTR_poster.pdf";
+    const pdfFile = "/static/papers/lbw1030.pdf";
+    // " /static/images/GLTR_poster.pdf";
     initPDFViewer(pdfFile, "#pdf_view");
   });
 </script>

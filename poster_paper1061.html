@@ -109,6 +109,7 @@
 
 
 
+
 <nav
         class="navbar sticky-top navbar-expand-lg navbar-light bg-light mr-auto"
         id="main-nav"
@@ -144,7 +145,7 @@
                 </li>
                 
                 <li class="nav-item ">
-                    <a class="nav-link" href="call.html">Call for Submissions</a>
+                    <a class="nav-link" href="papers2.html">Papers</a>
                 </li>
                 
                 <li class="nav-item ">
@@ -225,88 +226,33 @@
             >
             
         </p>
+
+        
+        <p class="text-center p-3">
+        
+        Paper Track
+        
+        </p>
+        
         <div class="text-center p-3">
-            <a class="card-link" data-toggle="collapse" role="button"
-               href="#details">
-                Abstract
-            </a>
-            <a class="card-link" target="_blank" href="">
-                Paper
-            </a>
-            
-            <a href="" target="_blank" class="card-link">
-                Code
-            </a>
-            
+            <a class="card-link" target="_blank" href="/static/papers/paper1061.pdf">Preprint PDF</a>
         </div>
     </div>
 </div>
-<div id="details" class="pp-card m-3 collapse">
-    <div class="card-body">
-        <div class="card-text">
-            <div id="abstractExample">
-                <span class="font-weight-bold">Abstract:</span>
-                Understanding and relating with nature is increasingly important in design as we aim to address the risks posed by anthropogenic climate change. Design methods are often human-centered and provide us with opportunities to reshape existing methods to foreground nature. Inspired by phenology, the study of cyclic biological events, this paper presents phenology probes: a method to study the multifaceted relations between humans and nature and how they are manifested in a particular time and place. Our phenology probe kit consisted of 3 activities: spatial mapping, phenology snapshotting, and phenology wheels. In deploying these probes with 20 gardeners we identified key relations with nature: Personal historic, multisensory, emotional, global, and climate activist relations. We discuss how these relations help to bring nonhuman stakeholders and cyclic biological events to the design process and directions for future work to further enhance the agency of nonhumans in interaction design.
-            </div>
-        </div>
-        <p></p>
-    </div>
-</div>
 
-<h5 style="color: red;">
-    Add content for posters. This could be a video, embedded pdf, chat room ....
-</h5>
-
-<!-- Chat -->
 <div class="border-top my-3"></div>
 <div class="row p-4" id="faq">
   <div class="col-12 bd-content">
-    <h2 class="text-center">Example Chat</h2>
+    <h2 class="text-center">Abstract</h2>
   </div>
 </div>
 
-<div class="col-md-12 col-xs-12 p-2">
-    <div id="gitter" class="slp">
-        <center>
-            <iframe frameborder="0"
-                    src="https://miniconf.sloppy.zone/channel/paper_paper1061?layout=embedded"
-                    height="700px" width="100%"></iframe>
-        </center>
-    </div>
-</div>
-
-<!-- Slides Live-->
+<p><p>Understanding and relating with nature is increasingly important in design as we aim to address the risks posed by anthropogenic climate change. Design methods are often human-centered and provide us with opportunities to reshape existing methods to foreground nature. Inspired by phenology, the study of cyclic biological events, this paper presents phenology probes: a method to study the multifaceted relations between humans and nature and how they are manifested in a particular time and place. Our phenology probe kit consisted of 3 activities: spatial mapping, phenology snapshotting, and phenology wheels. In deploying these probes with 20 gardeners we identified key relations with nature: Personal historic, multisensory, emotional, global, and climate activist relations. We discuss how these relations help to bring nonhuman stakeholders and cyclic biological events to the design process and directions for future work to further enhance the agency of nonhumans in interaction design.</p></p>
 
 <div class="border-top my-3"></div>
 <div class="row p-4" id="faq">
   <div class="col-12 bd-content">
-    <h2 class="text-center">Example SlidesLive</h2>
-  </div>
-</div>
-
-<div class="col-md-12 col-xs-12 my-auto p-2">
-    <div id="presentation-embed" class="slp my-auto"></div>
-    <script src='https://slideslive.com/embed_presentation.js'></script>
-    <script>
-      embed = new SlidesLiveEmbed("presentation-embed", {
-        presentationId:
-          "38922815",
-        autoPlay: false, // change to true to autoplay the embedded presentation
-        verticalEnabled: true,
-        verticalWhenWidthLte: 500,
-        allowHiddenControlsWhenPaused: true,
-        hideTitle: true,
-      });
-    </script>
-</div>
-
-
-<!-- Chat -->
-
-<div class="border-top my-3"></div>
-<div class="row p-4" id="faq">
-  <div class="col-12 bd-content">
-    <h2 class="text-center">Example Poster</h2>
+    <h2 class="text-center">Preprint</h2>
   </div>
 </div>
 
@@ -319,8 +265,8 @@
   $(document).ready(() => {
     // render first page of PDF to div
     // PDF name can be bound to variable -- e.g. paper.content.poster_link
-    const pdfFile =
-      " /static/images/GLTR_poster.pdf";
+    const pdfFile = "/static/papers/paper1061.pdf";
+    // " /static/images/GLTR_poster.pdf";
     initPDFViewer(pdfFile, "#pdf_view");
   });
 </script>
