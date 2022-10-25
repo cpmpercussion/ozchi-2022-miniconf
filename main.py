@@ -83,6 +83,12 @@ def home():
     # data["pages"] = [p for p in pages]
     return render_template("index.html", **data)
 
+@app.route("/volunteers.html")
+def volunteers():
+    data = _data()
+    data["volunteers"] = open("./pages/volunteers.md").read()
+    return render_template("volunteers.html", **data)
+
 @app.route("/organisers.html")
 def organisers():
     data = _data()
