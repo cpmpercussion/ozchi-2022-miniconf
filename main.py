@@ -163,6 +163,7 @@ def format_paper(v):
         "forum": v["UID"],
         "authors": list_fields["authors"],
         "keywords": list_fields["keywords"],
+        "type": v.get("type", ""),
         "abstract": v["abstract"],
         "TLDR": v["abstract"],
         "bio": v.get("bio",""),
