@@ -46,15 +46,17 @@
             >{{ "," if not loop.last }}
             {% endfor %}
         </p>
-        <div class="text-center p-3">
-            {% if paper.type %}
-            {% if paper.type == 'paper' %}
-            Full Paper 
-            {% else if paper.type == 'lbw' %}
-            Late Breaking Work 
-            {% endif %}
-            {% endif %}
 
+        {% if paper.type %}
+        <p class="text-center p-3">
+        {% if paper.type == 'paper' %}
+        Paper Track
+        {% elif paper.type == 'lbw' %}
+        Late Breaking Work and Case Studies Track
+        {% endif %}
+        </p>
+        {% endif %}
+        <div class="text-center p-3">
             <a class="card-link" target="_blank" href="/static/papers/{{paper.UID}}.pdf">Preprint PDF</a>
         </div>
     </div>

@@ -107,6 +107,12 @@ def papers():
     data["papers"] = site_data["papers"]
     return render_template("papers.html", **data)
 
+@app.route("/papers2.html")
+def papers2():
+    data = _data()
+    data["papers"] = site_data["papers"]
+    return render_template("papers2.html", **data)
+
 @app.route("/creativity.html")
 def creativity():
     data = _data()
