@@ -80,7 +80,7 @@
     "session_name": "room",
     "session_position": "",
     "slides": "",
-    "title": "Machine Masquerade: An Interactive Explorationof the Limits of Machine Recognition",
+    "title": "Machine Masquerade: An Interactive Exploration of the Limits of Machine Recognition",
     "video": ""
   },
   {
@@ -95,6 +95,20 @@
     "session_position": "",
     "slides": "",
     "title": "A Year of Sharing Livecoding",
+    "video": ""
+  },
+  {
+    "UID": "8",
+    "abstract": "LiveSpoken 2 is a presentation and performance of how live-coding can transcend the screen. Combining it with the improvisational nature of the cypher, commonly seen in the hip-hop community. In this performance, not only will the code be improvised in environments such as sonic pi but the songwriting and vocal elements will also be improvised, so the audience can witness some of the stages that go into a freestyle session.  The addition in LiveSpoken 2 is the improvised visual components such as but not restricted to livecodelab.net, inverse.website (poetic livecoding) & Hydra .This gives the audience a live performance that showcases the merger that can occur between life, science and art in a spectacle. It also shows artists from different mediums that are traditionally not digital : painting, installations, poetry as well as digital ones : audio, animation that there is a way to create in isolation.",
+    "authors": "Kofi Oduro (illestpreacha)",
+    "bio": "Kofi Oduro (illestpreacha) is an experiential storyteller that transforms data, words and code into experiences that nurtures discussion, reflection, and interaction. With a decade plus of performance, event & audiovisual production, he takes inspiration from endeavours that are not normally together to create a harmonic experience for audiences.\n\nHis artistic practice is an observation of the world around us that he puts into artworks for others to relate to or disagree with. Through Videography, Poetry and Creative Coding, He tries to highlight the realms of human performance and the human mind in different scenarios. These situations can be described as social, internal, or even biological, which we face in our everyday lives. Adding music and visuals often helps to perceive one's own feelings, and to highlight the different subtleties that make us human.",
+    "image": "TRUE",
+    "keywords": "",
+    "paper_url": "",
+    "session_name": "room",
+    "session_position": "",
+    "slides": "",
+    "title": "LiveSpoken 2",
     "video": ""
   }
 ]
