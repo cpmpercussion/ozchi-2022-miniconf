@@ -12,13 +12,13 @@ and by virtue of their interaction will change the music produced. Additionally,
 the signals will be sonified and form part of the music. Musician(s) will also
 improvise along with the generated music with their instruments being modulated
 by the captured bioelectric signals.","Matthew Walsh is a musician, software engineer and neuroscientist, obtaining a
-PhD in Computational Neuroscience in 2020. His thesis topic was “Mean Field
-Modelling of Epileptogenic Cortical Lesions Using The Liley Model”. This thesis
+PhD in Computational Neuroscience in 2020. His thesis topic was "Mean Field
+Modelling of Epileptogenic Cortical Lesions Using The Liley Model". This thesis
 focussed on modelling the effects of cortical lesions on the EEG. Matthew has
 now broadened his research interests to include the sonification and
 musification of biological signals.
 
-Matthew is vocalist, guitarist and songwriter for the Melbourne band “Your Creepy Ex”.",,,gig,,,,TRUE
+Matthew is vocalist, guitarist and songwriter for the Melbourne band "Your Creepy Ex".",,,gig,,,,TRUE
 2,The internet as metaphor for the Sea,Niamh McCool,"The sea is a continuing theme throughout Niamh's work. This piece considers the
 metaphorical link between the internet and the sea, exploring how internet
 artefacts - images, songs, videos, etc- appear to us, washed ashore on the
@@ -39,24 +39,24 @@ core. Rumour has it that Niamh is about to launch her own label.",,,gig,,,,TRUE
 using the System of a Down installation. The System of a Down installation was
 developed as a collaboration between Rodolfo Ocampo, Oliver Bown, Uncanny Valley
 and the School of Cybernetics to showcase the interconnectedness of human,
-technological and environmental systems by turning Earth’s data into a
+technological and environmental systems by turning Earth's data into a
 generative soundscape.
 
-The installation ingests data from Earth’s complex systems, including CO2
+The installation ingests data from Earth's complex systems, including CO2
 levels, weather, economic indicators, and passes it as prompts to GPT-3 for it
 to generate descriptions of the data. Via a semantic similarity computation,
 these descriptions are then matched to sounds in a sound library that was tagged
-by people describing each sound. Therefore, the soundscape is intended to ‘feel’
+by people describing each sound. Therefore, the soundscape is intended to 'feel'
 like the data, by semantically matching AI generated data descriptions of data
 to human generated descriptions of sounds.
 
 Rodolfo uses this soundscape as a base for a real time musical improvisation
-that can be understood as a way to jam with Earth’s data. Throughout history,
+that can be understood as a way to jam with Earth's data. Throughout history,
 humans have related to the Earth through stories and music. In a time where we
 increasingly relate to the world through data, this performance is a playful
 exploration that repurposes data technologies to relate to these systems in a
 less rational, more emotional and improvisational way through music, assuming
-oneself very as part of nature’s orchestra.","Rodolfo Ocampo is a creative technologist from Mexico City, based in Sydney. He
+oneself very as part of nature's orchestra.","Rodolfo Ocampo is a creative technologist from Mexico City, based in Sydney. He
 is completing a PhD at UNSW School of Art and Design, researching how
 interaction design can enable effective human-AI creative collaboration. He
 originally came to Australia in 2020 to participate in the second cohort at the
@@ -68,7 +68,7 @@ He is interested in the creative intersection between the environment,
 technology and people, and how artificial intelligence can enable new creative
 possibilities. He recently co-developed an installation with music technology
 company Uncanny Valley for the School of Cybernetics Building, which transforms
-data from Earth’s complex systems into a soundscape via semantic matching
+data from Earth's complex systems into a soundscape via semantic matching
 between data descriptions and sound descriptions. His performance at OzChi uses
 this installation soundscape as a base to improvise in real time with keyboards,
 guitar and drums.
@@ -128,7 +128,7 @@ is Coming. At the ANU, Charles teaches creative computing and leads research
 into intelligent musical instruments. His lab's focus is on developing new
 intelligent instruments, performing new music with them, and bringing them to a
 broad audience of musicians and performers.",,,gig,,,,TRUE
-6,Machine Masquerade: An Interactive Exploration of the Limits of Machine Recognition,Glen Berman|Ned Cooper,"This installation allows participants to experiment with ‘fooling’ facial detection models andencourages participants to reflect on the limits of extant surveillance technologies. Physicaladversarial attacks ‘fool’ such models into labelling a face as ‘unknown’ or ignoring a facealtogether, using physical props to alter the visual input to a model. Try out one of the propsto conduct your own adversarial attack on a facial detection model!","Hi! We are Glen and Ned. We are both PhD candidates at the College of Engineering andComputer Science, Australian National University. Glen studies the social implications ofemerging technology practices, and Ned studies the participation of end users in developing AI-enabled systems.",,,room,,,,TRUE
+6,Machine Masquerade: An Interactive Exploration of the Limits of Machine Recognition,Glen Berman|Ned Cooper,"This installation allows participants to experiment with 'fooling' facial detection models andencourages participants to reflect on the limits of extant surveillance technologies. Physicaladversarial attacks 'fool' such models into labelling a face as 'unknown' or ignoring a facealtogether, using physical props to alter the visual input to a model. Try out one of the propsto conduct your own adversarial attack on a facial detection model!","Hi! We are Glen and Ned. We are both PhD candidates at the College of Engineering andComputer Science, Australian National University. Glen studies the social implications ofemerging technology practices, and Ned studies the participation of end users in developing AI-enabled systems.",,,room,,,,TRUE
 7,A Year of Sharing Livecoding,Bernard Gray,"Tidalcycles and Punctual livecoding languages collide in this semi-improvised performance, at the tail end of a year focussed on sharing knowledge vacuumed up during the covid lockdowns.
 There will be pieces from the sonification of musically inspired artworks from the Audio Visions Art exhibition at the Griffith Regional Art Gallery, heart pounding techno honed for the inFREQUENCY tour dance floors and exploring wherever the restless brain gets taken in the moment.","Bernard Gray is a regionally based livecoder, working predominantly in TidalCycles (audio) and Punctual (visuals).
 After 2 years of lockdown spent exploring, discovering and participating in the online world of livecoding, inc weekly jams with other coders from all over the world, he has committed 2022 to share that knowledge and interest with his community.
@@ -137,3 +137,26 @@ He is passionate about chewing gum, making knowledge accessible, easing barriers
 8,LiveSpoken 2,Kofi Oduro (illestpreacha),"LiveSpoken 2 is a presentation and performance of how live-coding can transcend the screen. Combining it with the improvisational nature of the cypher, commonly seen in the hip-hop community. In this performance, not only will the code be improvised in environments such as sonic pi but the songwriting and vocal elements will also be improvised, so the audience can witness some of the stages that go into a freestyle session.  The addition in LiveSpoken 2 is the improvised visual components such as but not restricted to livecodelab.net, inverse.website (poetic livecoding) & Hydra .This gives the audience a live performance that showcases the merger that can occur between life, science and art in a spectacle. It also shows artists from different mediums that are traditionally not digital : painting, installations, poetry as well as digital ones : audio, animation that there is a way to create in isolation.","Kofi Oduro (illestpreacha) is an experiential storyteller that transforms data, words and code into experiences that nurtures discussion, reflection, and interaction. With a decade plus of performance, event & audiovisual production, he takes inspiration from endeavours that are not normally together to create a harmonic experience for audiences.
 
 His artistic practice is an observation of the world around us that he puts into artworks for others to relate to or disagree with. Through Videography, Poetry and Creative Coding, He tries to highlight the realms of human performance and the human mind in different scenarios. These situations can be described as social, internal, or even biological, which we face in our everyday lives. Adding music and visuals often helps to perceive one's own feelings, and to highlight the different subtleties that make us human.",,,room,,,,TRUE
+9,A Comic-based Digital Storytelling Showcase to Support Positive Mental Health Outcomes,Hilary Davis|Darren C. Fisher,"Comic-based digital stories are brief but powerful illustrated digital stories. Comic-based digital storytelling has unique characteristics that provide much promise for Human Computer Interaction. Often associated with young people's entertainment, comics cover a broad range of topics, from superheros, to farming life (e.g., Footrot Flats). We have been co-creating comic-based digital stories in partnership with mental health programs in three contexts: a Victorian rural outreach program; tradespeople or 'tradies' focused mental health promotion program; and a student mental health service.
+
+We showcase three diverse comic-based digital stories co-created with key stakeholders including service providers, community members and people with lived experience of mental health. They depict contextually situated mental health issues faced in the trades sector and in rural communities. The digital stories recognise some complexities of identifying mental health issues and help-seeking in these contexts. Comics were chosen for these digital stories due to their unique ability to resonate with young male audiences, create understanding, and help bridge health literacy and digital divides ([ref](https://www.academia.edu/62913326/_I_Understand_Mate_A_Co_Designed_Comic_based_Digital_Story_from_Down_Under)). They can be viewed online on personal devices or displayed during group outreach activities. A synopsis for the digital stories is below.
+
+**Trigger warning!** Please be aware these videos include content about mental health issues, domestic violence, drug use, suicide ideation and suicide.
+
+#### How to have a tough conversation about mental health
+
+This auto-biographical 'origin' story showcases HALT (Hope and Assistance Local Tradies) health promotion presentations to tradespeople to highlight tradies mental health issues, reduce stigma in the trades industry and encourage mental health support uptake.
+
+#### Slamming the Mental Health Stigma at TAFE
+
+This digital story was originally created as a comic-based booklet depicting mental health support provided by SLAM, a Technical and Further Education (TAFE) student support team. The booklet was distributed with student orientation handouts, shared during HALT-TAFE presentations, and will be shared online.
+
+#### The Rural Outreach Program illustrated digital story
+
+This digital story was codesigned with a partnering organisation, rural outreach workers, local police and community members. It depicts the story of 'Sam' a young man struggling to cope with issues at home and illustrates how the rural outreach program supported him.","#### Hilary Davis
+
+Hilary is a Senior Research Fellow at the Centre for Social Impact, Swinburne University of Technology. Her work investigates the role technologies play in people’s work, social and home lives. She seeks to understand how co-created comic-based digital stories might positively impact the mental health and wellbeing of people from diverse communities. Hilary has been working with digital storytelling across multiple projects. She has trained community members, including elders, health promotion and outreach service providers, to cocreate digital stories using personal smart devices. These digital stories portray lived experiences, highlight community innovation, connect people to service provision and showcase health promotion programs for community benefit.
+
+#### Darren C. Fisher
+
+Darren is a Drawing and Animation Lecturer with research and creative practice spanning across workplace health and safety, disability, education, psychology, tenant’s rights, and autobiography. Darren’s professional activities extend to a defined community of practice in comics and graphic novels, leading and managing creative teams for exhibition and publication of projects nationally. His teaching focuses on industry readiness through producing for creative industries, animation production, and both traditional and digital drawing. Darren believes that drawing and graphic storytelling are accessible to everyone for positive mental health, creativity, and as a facilitator of self-exploration.",,,room,,,,TRUE
