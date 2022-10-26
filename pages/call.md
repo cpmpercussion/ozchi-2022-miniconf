@@ -21,7 +21,7 @@ contribution it makes.
 
 We are planning OzCHI 2022 as a hybrid conference. Papers can be
 delivered in person or as online presentations. Accepted submissions
-will be published in the ACM International Conference Proceedings Series
+are planned to be published in the ACM International Conference Proceedings Series
 available from the ACM Digital Library.
 
 ### Late-Breaking Work and Case Studies

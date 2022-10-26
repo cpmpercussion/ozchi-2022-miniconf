@@ -1,4 +1,4 @@
-OzCHI 2022 will take place in Canberra, Australia in November/December 2022 and will be hosted by the Australian National University at [The Shine Dome](https://www.science.org.au/about-us/shine-dome)
+OzCHI 2022 will take place in Canberra, Australia in November/December 2022 and will be hosted by the Australian National University at [The Shine Dome](https://www.science.org.au/about-us/shine-dome). OzCHI2022 is organised in cooperation with ACM SIGCHI.
 
 <div class="text-center">
 <a type="button" class="btn btn-danger" href="https://www.ergonomics.org.au/events/ozchi-2022-conference/" role="button">Register Here</a>
@@ -36,13 +36,15 @@ The registration form can be found [here at ergonomics.org.au](https://www.ergon
 - Student/Concession Thursday $100 
 - Student/Concession Friday $50 
 
-### Important dates
+### Important dates and Call
 
 All times are in Anywhere on Earth (AoE) time zone. When the deadline is day D, the last time to submit is when D ends AoE. 
 <br/>[Check your local time in AoE.](https://time.is/Anywhere_on_Earth)
 
+The call for submissions can be [found here](call.html).
+
 ###### Papers
-- ~~17 June 2022~~ **24 June 2022:** Papers due
+- <strike>17 June 2022</strike> **24 June 2022:** Papers due
 - **8 August 2022**: Papers notifications
 - **2 September 2022:** Papers publication ready
 
