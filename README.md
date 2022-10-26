@@ -1,6 +1,8 @@
 OzCHI 2022 will take place in Canberra, Australia in November/December 2022 and will be hosted by the Australian National University at [The Shine Dome](https://www.science.org.au/about-us/shine-dome)
 
-Registration is [now available!](https://www.ergonomics.org.au/events/ozchi-2022-conference/)
+<div class="text-center">
+<a type="button" class="btn btn-danger" href="https://www.ergonomics.org.au/events/ozchi-2022-conference/" role="button">Register Here</a>
+</div>
 
 ## About OzCHI
 
