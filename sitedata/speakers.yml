@@ -1,11 +1,10 @@
 - UID: mc-schraefel
   title: m.c. schraefel
-  institution: wellthLab and Living Lab, University of Southampton
+  institution: wellthLab and Living Lab, Electronics and Computer Science, University of Southampton
   speaker: m.c. schraefel
-  date:  
+  date: 
   youtube_link: 
-  abstract: |
-    ""
+  abstract: 
   session: keynote-1
   im: static/images/people/mc-schraefel.jpg
   imcredit: 
@@ -19,8 +18,7 @@
   speaker: Aaron Quigley
   date:  
   youtube_link: 
-  abstract: |
-    ""
+  abstract: 
   session: keynote-2
   im: static/images/people/aaron-quigley.webp
   imcredit: 

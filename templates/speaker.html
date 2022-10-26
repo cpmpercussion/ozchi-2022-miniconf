@@ -1,38 +1,48 @@
-{% set page_title = speaker.title %}
+{% set page_title = session.session %}
 {% extends "base.html" %}
 {% block content %}
 
-<!-- Title -->
 <div class="pp-card m-3" style="">
   <div class="card-header">
     <h2 class="card-title main-title text-center" style="">
-      {{speaker.title}}
+      {{speaker.speaker}}
     </h2>
     <h3 class="card-subtitle mb-2 text-muted text-center">
-      {{speaker.speaker}} / {{speaker.institution}}
+       {{speaker.institution}}
     </h3>
-    <div class="text-center p-3">
-      <a class="card-link" data-toggle="collapse" role="button" href="#details">
-        Abstract & Bio
-      </a>
-    </div>
   </div>
-</div>
-<div id="details" class="pp-card m-3 collapse">
+
+  <img class="card-img" src="{{speaker.im}}" alt="{{speaker.speaker}}">
   <div class="card-body">
-    <div class="card-text">
-      <div id="abstractExample">
-        <span class="font-weight-bold">Abstract:</span>
-        {{speaker.abstract|safe}} <br /><br />
-
-        <span class="font-weight-bold">Bio:</span>
-        {{speaker.bio|safe}}
-      </div>
+    <div class="text-center p-3">
+      <a class="card-link" href="{{ speaker.web }}">Website </a>
+      {% if speaker.youtube_link %}
+      <a class="card-link" href="{{speaker.youtube_link}}"><b>Stream Link:</b> YouTube</a>
+      {% endif %}
     </div>
-    <p></p>
   </div>
 </div>
 
-<!-- Presentation Embed -->
+{% if speaker.date %}
+<div class="m-3 text-muted">
+  <span class="card-title h4">
+    Keynote Presentation: {{speaker.date}}
+  </span>
+</div>
+{% endif %}
+
+{% if speaker.bio %}
+<div>
+  <h4 class="card-title">Bio</h4>
+  {{speaker.bio|markdown}}
+</div>
+{% endif %}
+
+{% if speaker.abstract %}
+<div>
+  <h4 class="card-title">Abstract</h4>
+  {{speaker.abstract | markdown}}
+</div>
+{% endif %}
 
 {% endblock %}

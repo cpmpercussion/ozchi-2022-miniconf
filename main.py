@@ -80,6 +80,7 @@ def home():
     data = _data()
     data["readme"] = open("README.md").read()
     data["committee"] = site_data["committee"]["committee"]
+    data["speakers"] = site_data["speakers"]
     # data["pages"] = [p for p in pages]
     return render_template("index.html", **data)
 
