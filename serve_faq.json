@@ -3,6 +3,23 @@
     {
       "QA": [
         {
+          "Answer": "See the [registration page at ergonomics.org.au](https://www.ergonomics.org.au/events/ozchi-2022-conference/)",
+          "Question": "How do I register for OzCHI2022?"
+        },
+        {
+          "Answer": "We suggest taht attendees consider their carbon impact when making travel choices.",
+          "Question": "How should I travel to Canberra?"
+        },
+        {
+          "Answer": "The OzCHI activities happen at the Shine Dome and the ANU, there are many accomodation options available in the Canberra City area that would be walking distance from the venues.",
+          "Question": "Where should I stay in Canberra?"
+        }
+      ],
+      "Section": "attending"
+    },
+    {
+      "QA": [
+        {
           "Answer": "The page is still under construction and developed with reference to [CHI2023 accessibility requirements](https://chi2023.acm.org/for-attendees/chi2023-accessibility-faq/). More information will be up soon. Please email yichen.wang@anu.edu.au if you have any accessibility enquires about attending OzCHI2022.",
           "Question": "Welcome"
         },
