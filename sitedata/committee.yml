@@ -1,5 +1,5 @@
 committee:
-  - aff: Australian National University
+  - aff: ANU School of Computing
     im: "./static/images/committee/yichen-wang.jpg"
     name: Yichen Wang
     role: Accessibility Chair
@@ -17,13 +17,13 @@ committee:
     role: Creative Computing Chair
     tw: "benswift"
     url: "https://benswift.me"
-  - aff: Australian National University
+  - aff: ANU School of Computing
     im: "./static/images/committee/bernardo-nunes.jpg"
     name: Bernardo Nunes
     role: Doctoral Consortium Chair
     tw: "bernardopnunes"
     url: ""
-  - aff: Australian National University
+  - aff: ANU School of Computing
     im: ""
     name: Sabrina Caldwell
     role: Doctoral Consortium Chair
@@ -65,7 +65,7 @@ committee:
     role: Hybrid Chair
     tw: ""
     url: ""
-  - aff: Australian National University
+  - aff: ANU School of Computing
     im: ""
     name: Priscilla Kan John
     role: Industry Chair
@@ -107,7 +107,7 @@ committee:
     role: Logistics Chair
     tw: ""
     url: "https://au.linkedin.com/in/xuanying-zhu-cs"
-  - aff: Australian National University
+  - aff: ANU School of Computing
     im: "./static/images/committee/ushini-attanayake.jpg"
     name: Ushini Attanayake
     role: Logistics Chair
@@ -191,19 +191,19 @@ committee:
     role: Workshops Chair
     tw: "ajplai"
     url: ""
-  - aff: Australian National University
+  - aff: ANU School of Computing
     im: https://comp.anu.edu.au/assets/images/people/penny-kyburz.jpg
     name: Penny Kyburz
     role: General Chair
     tw: drkyburz
     url: ""
-  - aff: Australian National University
+  - aff: ANU School of Computing
     im: https://comp.anu.edu.au/assets/images/people/jennyfer-taylor.jpg
     name: Jennyfer Lawrence Taylor
     role: General Chair
     tw: jlawtay
     url: ""
-  - aff: Australian National University
+  - aff: ANU School of Computing
     im: https://comp.anu.edu.au/assets/images/people/charles-martin.jpg
     name: Charles Martin
     role: General Chair
