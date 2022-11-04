@@ -14,7 +14,7 @@ The OzCHI activities happen at the Shine Dome and the ANU, there are many accomo
 
 ## Accessibility
 
-The page is still under construction and developed with reference to [CHI2023 accessibility requirements](https://chi2023.acm.org/for-attendees/chi2023-accessibility-faq/). More information will be up soon. Please email yichen.wang@anu.edu.au if you have any accessibility enquires about attending OzCHI2022.
+The accessibility information is frequently updated with reference to [CHI2023 accessibility requirements](https://chi2023.acm.org/for-attendees/chi2023-accessibility-faq/). Please email yichen.wang@anu.edu.au if you have any accessibility enquires about attending OzCHI2022.
 
 
 #### Who should I talk to if I have accessibility needs for attending OzCHI2022?
@@ -22,6 +22,7 @@ The page is still under construction and developed with reference to [CHI2023 ac
 The Accessibility Chair for OzCHI2022 is Yichen Wang. If you have any accessibility needs or enquires such as wheelchair access, requesting transport during the conference, or any concerns related to accessibility, please email yichen.wang@anu.edu.au. We will try our best to see what we can work out with our venue [The Shine Dome](https://www.shinedome.org.au).
 
 #### The Shine Dome
+
 The main program will be held at [The Shine Dome](https://www.shinedome.org.au), an [iconic Canberra landmark](https://visitcanberra.com.au/attractions/596ebadadb10920b612c3fef/shine-dome) constructed in 1959 for [The Australian Academy of Science's Shine Dome](https://www.shinedome.org.au/about).
 
 Most of the rooms in this venue are located on the ground floor, which is easy to access. It provides:
@@ -65,7 +66,9 @@ Yes, OzCHI 2022 will be a alcohol-free conference.
 
 #### What food service will be provided and dietary options?
 
-The conference dinner will be a full vegetarian menu, and potential to cater for dietary requirements. Please indicate this on your registration form if you have any food allergies or special dietary needs. For more information, please contact Accessibility Chair yichen.wang@anu.edu.au.
+The conference dinner will be a full vegetarian menu, and potential to cater for dietary requirements. We also provide food services during the conference, including morning teas, lunch, afternoon teas and welcome reception. 
+
+Please indicate this on your registration form if you have any food allergies or special dietary needs. For more information, please contact Accessibility Chair yichen.wang@anu.edu.au.
 
 #### Will the conference be a smoke-free environment? 
 
