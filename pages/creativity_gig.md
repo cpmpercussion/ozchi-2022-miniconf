@@ -41,7 +41,7 @@ real creative work in making a great party.
 The **details for the gig** are:
 
 - **Date**: Thursday Dec 1
-- **Time**: 7:30pm--9:30pm (doors at 7pm)
+- **Time**: 7:30pm--10:00pm (doors at 7pm)
 - **Venue**: [Main Hall, **Ainslie** Arts
   Centre](https://ainslieandgorman.com.au/venue-hire/weddings/ainslie-main-hall/)
 - **Cost**: TBC
