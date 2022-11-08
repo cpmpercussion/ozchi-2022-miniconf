@@ -12,6 +12,18 @@ We suggest that attendees consider their carbon impact when making travel choice
 
 The OzCHI activities happen at the Shine Dome and the ANU, there are many accomodation options available in the Canberra City area that would be walking distance from the venues.
 
+
+#### Accommodation and Sustainability
+
+Here is a list of accommodation options aligning to our [low carbon goal](https://services.anu.edu.au/files/guidance/ANU_Low_carbon_events_guide.pdf), which you may consider while making bookings. 
+
+- [One of a Kind](https://www.oneofakindapartments.com.au/eco-mission) (public transport: bus/tram to ANU campus about 15-20 mins)
+- [Ovolo Nishi](https://www.greengetaways.com.au/property/ovolo-nishi/) (walking distance to ANU campus) 
+
+- [Novotel Canberra](https://novotelcanberra.com.au/Novotel-Canberra/Sustainability/) and [Peppers Gallery](https://www.peppers.com.au/gallery/) both addressed on the website, but did not provide detailed information in terms of sustainability. 
+
+
+
 ## Accessibility
 
 The accessibility information is frequently updated with reference to [CHI2023 accessibility requirements](https://chi2023.acm.org/for-attendees/chi2023-accessibility-faq/). Please email yichen.wang@anu.edu.au if you have any accessibility enquires about attending OzCHI2022.
@@ -56,7 +68,7 @@ Ainslie +  Gorman Arts Centres is located at Ainslie, the other side of Canberra
 
 #### Do you offer arrangements for presenters with accessibility needs?
 
-Yes, we offer arrangements based on a per request basis. If you would like a student volunteer to operate slides or guide you onto and off the stage, or have other accessibility requests please contact yichen.wang@anu.edu.au.
+Yes, we offer arrangements based on a per request basis. If you would like a student volunteer to operate slides or guide you onto and off the stage, or have other accessibility requests please contact [yichen.wang@anu.edu.au](yichen.wang@anu.edu.au).
 
 <!-- ## What are the restroom facilities like? -->
 
@@ -68,7 +80,7 @@ Yes, OzCHI 2022 will be a alcohol-free conference.
 
 The conference dinner will be a full vegetarian menu, and potential to cater for dietary requirements. We also provide food services during the conference, including morning teas, lunch, afternoon teas and welcome reception. 
 
-Please indicate this on your registration form if you have any food allergies or special dietary needs. For more information, please contact Accessibility Chair yichen.wang@anu.edu.au.
+Please indicate this on your registration form if you have any food allergies or special dietary needs. For more information, please contact Accessibility Chair [yichen.wang@anu.edu.au](yichen.wang@anu.edu.au).
 
 #### Will the conference be a smoke-free environment? 
 
