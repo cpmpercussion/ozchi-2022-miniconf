@@ -19,7 +19,6 @@ Here is a list of accommodation options aligning to our [low carbon goal](https:
 
 - [One of a Kind](https://www.oneofakindapartments.com.au/eco-mission) (public transport: bus/tram to ANU campus about 15-20 mins)
 - [Ovolo Nishi](https://www.greengetaways.com.au/property/ovolo-nishi/) (walking distance to ANU campus) 
-
 - [Novotel Canberra](https://novotelcanberra.com.au/Novotel-Canberra/Sustainability/) and [Peppers Gallery](https://www.peppers.com.au/gallery/) both addressed on the website, but did not provide detailed information in terms of sustainability. 
 
 
