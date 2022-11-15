@@ -38,14 +38,15 @@ and beats made through strange, algorithm-aided processes. It’s up to the good
 people on the dancefloor to help the musicians make sense of this and do the
 real creative work in making a great party.
 
-The **details for the gig** are:
+The details for the gig are:
 
 - **Date**: Thursday Dec 1
 - **Time**: 7:30pm--10:00pm (doors at 7pm)
 - **Venue**: [Main Hall, **Ainslie** Arts
   Centre](https://ainslieandgorman.com.au/venue-hire/weddings/ainslie-main-hall/)
-- **Cost**: TBC
+- **Cost**: $25/$15 concession
 
-The gig is a ticketed event, and ticket sales info will be up here ASAP.
+**Tickets available now** through
+[Eventbrite](https://www.eventbrite.com.au/e/connected-creativity-algorave-tickets-452218446547).
 
 ### Line-up
