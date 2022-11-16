@@ -27,8 +27,17 @@ OzCHI is the annual non-profit conference for the Computer-Human Interaction Spe
 After we have limited the carbon generated from the event, we will then purchase the highest quality carbon offsets that are available to greater than the amount of the estimated emissions. To help us limit our emissions, you can take the following action:
 
 - Bring your own keep-cup, water bottle, notepaper and pen 
-- Where possible, choose low-carbon travel options including car-pooling, public transport or cycling/walking. 
+- Where possible, choose low-carbon travel options including car-pooling, public transport or cycling/walking
 - Where possible, choose accommodation with sustainability policies
+
+Emissions we plan to estimate:
+
+- Catering/food waste
+- Travel to and from the conference from participants
+- Accommodation from participants
+- Intra-conference travel
+
+**As the ACT uses 100% renewable electricity, we will not need to calculate energy usage.**
 
 ## Connected Creativity
 
