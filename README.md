@@ -15,6 +15,21 @@ OzCHI 2022 will take place in Canberra, Australia in November/December 2022 and 
 
 OzCHI is the annual non-profit conference for the Computer-Human Interaction Special Interest Group (CHISIG) and Australia's leading forum for the latest in HCI research and practice. OzCHI attracts a broad international community of researchers, industry practitioners, academics and students. Participants come from a range of backgrounds and include interaction designers, user experience (UX) practitioners, information architects, software engineers, human factors experts, information systems analysts and social scientists.
 
+**This year, OzCHI is aiming to be a carbon negative conference.** That means that we are planning to calculate (to the best of our ability) the carbon emissions that are generated from hosting the conference, and then purchasing more carbon offsets than what we generated. See below for a list of emission types we plan to estimate. To do this, we will, first and foremost, try to reduce the amount of carbon that is generated from the event. This means OzCHI 2022 might look a little different to other conferences. Measures that we are taking include:
+
+- Choosing a venue with a sustainability commitment
+- Choosing to only have vegetarian catering
+- Being alcohol-free
+- No 'Swag bags' or other merchandise 
+- Using non-disposable crockery and cutlery where possible 
+- Choosing venues within walking distance of each other
+
+After we have limited the carbon generated from the event, we will then purchase the highest quality carbon offsets that are available to greater than the amount of the estimated emissions. To help us limit our emissions, you can take the following action:
+
+- Bring your own keep-cup, water bottle, notepaper and pen 
+- Where possible, choose low-carbon travel options including car-pooling, public transport or cycling/walking. 
+- Where possible, choose accommodation with sustainability policies
+
 ## Connected Creativity
 
 The theme of OzCHI 2022 is "connected creativity", this year we want to acknowledge the value of connections between researchers, technologies, society and country and the creative expressions of these connections. To emphasise this theme we are introducing a special [creativity track](creativity.html) for OzCHI 2022 to present creative computing works including art, games, media and music that connect with and extend human-computer interaction. 
@@ -41,7 +56,7 @@ The registration form can be found [here at ergonomics.org.au](https://www.ergon
 - Non-Member Friday $200 
 - Student/Concession Wednesday $100 
 - Student/Concession Thursday $100 
-- Student/Concession Friday $50 
+- Student/Concession Friday $50
 
 ### Important dates and Call
 
