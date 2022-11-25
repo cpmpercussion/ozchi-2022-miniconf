@@ -8,11 +8,16 @@
       {{speaker.speaker}}
     </h2>
     <h3 class="card-subtitle mb-2 text-muted text-center">
-       {{speaker.institution}}
+       ({{speaker.institution}})
+    </h3>
+    {% if speaker.talktitle %}
+    <h3 class="card-subtitle mb-2 text-muted text-center">{{speaker.talktitle | markdown}}</h3>
+    {% endif %}
+    <h3 class="card-title text-center">
+      Keynote Presentation: {{speaker.date}}
     </h3>
   </div>
 
-  <img class="card-img" src="{{speaker.im}}" alt="{{speaker.speaker}}">
   <div class="card-body">
     <div class="text-center p-3">
       <a class="card-link" href="{{ speaker.web }}">Website </a>
@@ -20,16 +25,11 @@
       <a class="card-link" href="{{speaker.youtube_link}}"><b>Stream Link:</b> YouTube</a>
       {% endif %}
     </div>
+
   </div>
 </div>
 
-{% if speaker.date %}
-<div class="m-3 text-muted">
-  <span class="card-title h4">
-    Keynote Presentation: {{speaker.date}}
-  </span>
-</div>
-{% endif %}
+<center><img src="{{speaker.im}}" alt="{{speaker.speaker}}" width="60%" /></center>
 
 {% if speaker.bio %}
 <div>
@@ -38,11 +38,7 @@
 </div>
 {% endif %}
 
-{% if speaker.talktitle %}
-<div>
-  <h4 class="card-title">{{speaker.talktitle | markdown}}</h4>
-</div>
-{% endif %}
+
 
 
 {% if speaker.abstract %}
