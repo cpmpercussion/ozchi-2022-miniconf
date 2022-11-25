@@ -3,6 +3,7 @@
   title: Dignity and Emerging Systems
   chair:
   date: Wednesday 2022-11-30 11:00-12:20 AEDT
+  location: "Shine Dome: Ian Wark Theatre"
   type: papers
   im: static/images/sessions/
   youtube_link: 
@@ -11,6 +12,7 @@
   title: Tangibles and AI
   chair:
   date: Wednesday 2022-11-30 14:00-15:30 AEDT
+  location: "Shine Dome: Ian Wark Theatre"
   type: papers
   im: static/images/sessions/
   youtube_link: 
@@ -19,6 +21,7 @@
   title: Design and the Design Process
   chair:
   date: Wednesday 2022-11-30 16:00-17:30 AEDT
+  location: "Shine Dome: Ian Wark Theatre"
   type: papers
   im: static/images/sessions/
   youtube_link: 
@@ -27,6 +30,7 @@
   title: HCI at Work
   chair:
   date: Thursday 2022-12-01 09:30-10:30 AEDT
+  location: "Shine Dome: Ian Wark Theatre"
   type: papers
   im: static/images/sessions/
   youtube_link: 
@@ -35,6 +39,7 @@
   title: Nature and the Home
   chair:
   date: Thursday 2022-12-01 13:30-15:00 AEDT
+  location: "Shine Dome: Ian Wark Theatre"
   type: papers
   im: static/images/sessions/
   youtube_link: 
@@ -43,6 +48,7 @@
   title: Care-ful Design
   chair:
   date: Thursday 2022-12-01 09:30-11:00 AEDT
+  location: "Shine Dome: Ian Wark Theatre"
   type: papers
   im: static/images/sessions/
   youtube_link: 
@@ -51,7 +57,17 @@
   title: Games and Play
   chair:
   date: Friday 2020-07-06 8am-9am AEST
+  location: "Shine Dome: Ian Wark Theatre"
   type: papers
+  im: static/images/sessions/
+  youtube_link: 
+  
+- UID: industry
+  title: Industry Session
+  chair: Priscilla Kan John
+  date: Thursday 2022-12-01 1100-1230AEDT
+  location: "Shine Dome: Ian Wark Theatre"
+  type: industry
   im: static/images/sessions/
   youtube_link: 
   

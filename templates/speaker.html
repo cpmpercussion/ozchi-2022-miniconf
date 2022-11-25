@@ -38,6 +38,13 @@
 </div>
 {% endif %}
 
+{% if speaker.talktitle %}
+<div>
+  <h4 class="card-title">{{speaker.talktitle | markdown}}</h4>
+</div>
+{% endif %}
+
+
 {% if speaker.abstract %}
 <div>
   <h4 class="card-title">Abstract</h4>
