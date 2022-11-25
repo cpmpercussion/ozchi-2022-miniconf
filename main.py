@@ -30,7 +30,7 @@ def main(site_data_path):
         elif typ == "yml":
             site_data[name] = yaml.load(open(f).read(), Loader=yaml.SafeLoader)
 
-    for typ in ["papers", "speakers", "workshops", "creativity"]:
+    for typ in ["papers", "speakers", "workshops", "creativity", "sessions"]:
         by_uid[typ] = {}
         for p in site_data[typ]:
             by_uid[typ][p["UID"]] = p
@@ -144,6 +144,7 @@ def schedule():
             format_paper(by_uid["papers"][h["UID"]]) for h in site_data["highlighted"]
         ],
     }
+    data["sessions"] = site_data["sessions"]
     return render_template("schedule.html", **data)
 
 
@@ -243,6 +244,15 @@ def workshop(workshop):
     data["workshop"] = format_workshop(v)
     return render_template("workshop.html", **data)
 
+@app.route("/session_<session>.html")
+def session(session):
+    uid = session
+    v = by_uid["sessions"][uid]
+    data = _data()
+    data["session"] = v
+    data["papers"] = site_data["papers"]
+    return render_template("session.html", **data)
+
 
 @app.route("/chat.html")
 def chat():
@@ -283,6 +293,8 @@ def generator():
         yield "speaker", {"speaker": str(speaker["UID"])}
     for workshop in site_data["workshops"]:
         yield "workshop", {"workshop": str(workshop["UID"])}
+    for session in site_data["sessions"]:
+        yield "session", {"session": str(session["UID"])}
     for creative in site_data["creativity"]:
         yield "creative", {"creative": str(creative["UID"])}
     for page in pages:
