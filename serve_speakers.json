@@ -9,7 +9,7 @@
     "institution": "wellthLab and Living Lab, Electronics and Computer Science, University of Southampton",
     "session": "keynote-1",
     "speaker": "m.c. schraefel",
-    "talk-title": "Creativity as a Health & Social Justice Right: Challenges/Opportunities for HCI",
+    "talktitle": "Creativity as a Health & Social Justice Right: Challenges/Opportunities for HCI",
     "title": "m.c. schraefel",
     "web": "https://www.southampton.ac.uk/~sign/",
     "youtube_link": null
@@ -24,6 +24,7 @@
     "institution": "School of Computer Science and Engineering, The University of New South Wales",
     "session": "keynote-2",
     "speaker": "Aaron Quigley",
+    "talktitle": null,
     "title": "Aaron Quigley",
     "web": "https://aaronquigley.org/",
     "youtube_link": null

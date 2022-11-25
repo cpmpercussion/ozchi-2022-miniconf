@@ -4,6 +4,7 @@
     "chair": null,
     "date": "Wednesday 2022-11-30 11:00-12:20 AEDT",
     "im": "static/images/sessions/",
+    "location": "Shine Dome: Ian Wark Theatre",
     "title": "Dignity and Emerging Systems",
     "type": "papers",
     "youtube_link": null
@@ -13,6 +14,7 @@
     "chair": null,
     "date": "Wednesday 2022-11-30 14:00-15:30 AEDT",
     "im": "static/images/sessions/",
+    "location": "Shine Dome: Ian Wark Theatre",
     "title": "Tangibles and AI",
     "type": "papers",
     "youtube_link": null
@@ -22,6 +24,7 @@
     "chair": null,
     "date": "Wednesday 2022-11-30 16:00-17:30 AEDT",
     "im": "static/images/sessions/",
+    "location": "Shine Dome: Ian Wark Theatre",
     "title": "Design and the Design Process",
     "type": "papers",
     "youtube_link": null
@@ -31,6 +34,7 @@
     "chair": null,
     "date": "Thursday 2022-12-01 09:30-10:30 AEDT",
     "im": "static/images/sessions/",
+    "location": "Shine Dome: Ian Wark Theatre",
     "title": "HCI at Work",
     "type": "papers",
     "youtube_link": null
@@ -40,6 +44,7 @@
     "chair": null,
     "date": "Thursday 2022-12-01 13:30-15:00 AEDT",
     "im": "static/images/sessions/",
+    "location": "Shine Dome: Ian Wark Theatre",
     "title": "Nature and the Home",
     "type": "papers",
     "youtube_link": null
@@ -49,6 +54,7 @@
     "chair": null,
     "date": "Thursday 2022-12-01 09:30-11:00 AEDT",
     "im": "static/images/sessions/",
+    "location": "Shine Dome: Ian Wark Theatre",
     "title": "Care-ful Design",
     "type": "papers",
     "youtube_link": null
@@ -58,8 +64,19 @@
     "chair": null,
     "date": "Friday 2020-07-06 8am-9am AEST",
     "im": "static/images/sessions/",
+    "location": "Shine Dome: Ian Wark Theatre",
     "title": "Games and Play",
     "type": "papers",
+    "youtube_link": null
+  },
+  {
+    "UID": "industry",
+    "chair": "Priscilla Kan John",
+    "date": "Thursday 2022-12-01 1100-1230AEDT",
+    "im": "static/images/sessions/",
+    "location": "Shine Dome: Ian Wark Theatre",
+    "title": "Industry Session",
+    "type": "industry",
     "youtube_link": null
   }
 ]
