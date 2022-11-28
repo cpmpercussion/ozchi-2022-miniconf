@@ -1,5 +1,49 @@
 [
   {
+    "calendarId": "workshop",
+    "category": "time",
+    "day": "Tuesday",
+    "end": "2022-11-29T12:00:00+11:00",
+    "link": "workshop_workshop01.html",
+    "location": "workshop_workshop01.html",
+    "start": "2022-11-29T09:30:00+11:00",
+    "title": "Cybernetic Lenses for Designing and Living in a Complex World",
+    "uid": "workshop"
+  },
+  {
+    "calendarId": "workshop",
+    "category": "time",
+    "day": "Tuesday",
+    "end": "2022-11-29T17:00:00+11:00",
+    "link": "workshop_workshop02.html",
+    "location": "workshop_workshop02.html",
+    "start": "2022-11-29T13:00:00+11:00",
+    "title": "Empowering People in Human-Robot Collaboration: Bringing Together and Synthesising Perspectives",
+    "uid": "workshop"
+  },
+  {
+    "calendarId": "workshop",
+    "category": "time",
+    "day": "Tuesday",
+    "end": "2022-11-29T17:00:00+11:00",
+    "link": "workshop_workshop03.html",
+    "location": "workshop_workshop03.html",
+    "start": "2022-11-29T13:00:00+11:00",
+    "title": "Co-development is the next step-Participatory Design from First Nations Values",
+    "uid": "workshop"
+  },
+  {
+    "calendarId": "dc",
+    "category": "time",
+    "day": "Tuesday",
+    "end": "2022-11-29T17:00:00+11:00",
+    "link": "doctoral-consortium.html",
+    "location": "doctoral-consortium.html",
+    "start": "2022-11-29T13:00:00+11:00",
+    "title": "Doctoral Consortium",
+    "uid": "workshop"
+  },
+  {
     "calendarId": "break",
     "category": "time",
     "day": "Wednesday",
