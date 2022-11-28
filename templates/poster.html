@@ -20,35 +20,33 @@
 
 {% endblock %}
 
-{% block content %}
+{% block top %}
+<style>
+  .back {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url("{{config.background_image}}") no-repeat center;
+    background-size: cover;
+  }
+  .back h2 {
+    font-family: "Public Sans", sans-serif;
+    font-weight: 700;
+  }
+</style>
 
-<!-- Title -->
-<div class="pp-card m-3" style="">
-    <div class="card-header">
-        <h2 class="card-title main-title text-center" style="">
-            {{paper.title}}
-        </h2>
-        <h3 class="card-subtitle mb-2 text-muted text-center">
-            {% for author in paper.authors %}
-            <a href="papers.html?filter=authors&search={{author}}"
-               class="text-muted"
-            >{{author}}</a
-            >{{ "," if not loop.last }}
-            {% endfor %}
-        </h3>
-        <!-- <p class="card-text text-center">
-            <span class="">Keywords:</span>
-            {% for keyword in paper.keywords %}
-            <a
-                    href="papers.html?filter=keywords&search={{keyword}}"
-                    class="text-secondary text-decoration-none"
-            >{{keyword}}</a
-            >{{ "," if not loop.last }}
-            {% endfor %}
-        </p> -->
-
-        {% if paper.type %}
-        <div class="text-center p-1">
+<div class="jumbotron jumbotron-fluid back" style="padding-bottom: 20px;">
+  <div class="row header p-6 m-5">
+    <div class="p-1 mx-auto text-center text-white col-md-9 col-sm-12">
+      <h2>
+        {{paper.title}}
+      </h2>
+      <h4>
+        {{ paper_content.authors.split("|") | join(", ") }}
+      </h4>
+      <h5>
+        {% if paper_content.session_code %} 
+        <a href="/session_{{session.UID}}.html"><b>Session:</b> {{session.title}} - {{session.date}}</a>
+        {% endif %}
+      </h5>
+      <h6>
         {% if paper.type == 'paper' %}
         Paper Track
         {% elif paper.type == 'lbw' %}
@@ -56,34 +54,26 @@
         {% elif paper.type == 'industry' %}
         Industry Talk
         {% endif %}
-        </div>
+      </h6>
+      <h6>
+        {% if paper_content.mode == 'present' %} 
+        In-Person Presentation
+        {% elif paper_content.mode == 'remote' %}
+        Remote Presentation
+        {% elif paper_content.mode == 'video' %}
+        Video Presentation
         {% endif %}
-        <!-- Paper Preprint -->
-        <!-- <div class="text-center p-3">
-            <a class="card-link" target="_blank" href="static/papers/{{paper.UID}}.pdf">Preprint PDF</a>
-        </div> --> 
-        <div class="text-center p-1">
-            {% if paper_content.session_code %} 
-            <a href="/session_{{session.UID}}.html"><b>Session:</b> {{session.title}} - {{session.date}}</a>
-            {% endif %}
-        </div>
-        <div class="text-center p-1">
-            {% if paper_content.mode == 'present' %} 
-            In-Person Presentation
-            {% elif paper_content.mode == 'remote' %}
-            Remote Presentation
-            {% elif paper_content.mode == 'video' %}
-            Video Presentation
-            {% endif %}
-        </div>
+      </h6>
     </div>
+  </div>
 </div>
+{% endblock %}
 
-<center><img src="static/papers/{{paper.UID}}.jpg" width="80%" /></center>
+{% block content %}
 
+<center><img src="static/papers/{{paper.UID}}.jpg" width="50%" /></center>
 
 {{ components.section("Abstract") }}
-
 <p>{{paper.abstract | markdown}}</p>
 
 <!-- {{ components.section("Preprint") }}
@@ -102,6 +92,4 @@
     initPDFViewer(pdfFile, "#pdf_view");
   });
 </script> -->
-
-
 {% endblock %}
