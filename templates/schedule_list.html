@@ -28,7 +28,7 @@
 {% block content %}
 
 
-{% for day in ["Wednesday", "Thursday", "Friday"] %}
+{% for day in ["Tuesday", "Wednesday", "Thursday", "Friday"] %}
 <h1>{{day}}</h1>
 <div class="row no-gutters">
   {% for entry in calendar %}{% if entry.day == day %}
@@ -41,6 +41,9 @@
         <p>
           {{entry.day}} {{entry.start[:10]}} {{entry.start[11:16]}}-{{entry.end[11:16]}}
         </p>
+        {% if entry.calendarId == "workshop" %}
+        <small class="">Workshop</small>
+        {% endif %}
         {% if entry.calendarId == "paper" %}
           <table class="table table-sm">
             <thead>
