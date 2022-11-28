@@ -43,6 +43,19 @@ Emissions we plan to estimate:
 
 The theme of OzCHI 2022 is "connected creativity", this year we want to acknowledge the value of connections between researchers, technologies, society and country and the creative expressions of these connections. To emphasise this theme we are introducing a special [creativity track](creativity.html) for OzCHI 2022 to present creative computing works including art, games, media and music that connect with and extend human-computer interaction. 
 
+##  COVID-19 Safety (for in-person participants)
+
+- All in-person participants are required to follow ACT Government COVID-19 guidelines and advice: [https://www.covid19.act.gov.au](https://www.covid19.act.gov.au).
+- It is a requirement for attendees to be double-vaccinated against COVID-19 to attend the conference, as per the registration form. Please have your proof of vaccination ready to show.
+- All attendees for the workshops day and main conference need to check in on arrival at the relevant check-in desk. 
+- Please conduct a RAT test before arriving at the conference. We encourage participants to re-test each day.
+- Please do not attend OzCHI in-person if you are feeling unwell or displaying any COVID-19 symptoms, have tested positive, or you are a household contact.
+     - By attending the conference in person, you are declaring that you do not have any COVID-19 symptoms and have not tested positive. 
+     - If you have travelled to Canberra and become unwell, you are welcome to contact us about accessing the conference livestream as an alternative.
+- We strongly recommend that masks be worn when you are not eating or drinking. Hand sanitiser will be made available at the venue. 
+- If you test positive to COVID-19 and attended any part of OzCHI during your infectious period, please contact General Chairs (Jennyfer Taylor – jennyfer.taylor@anu.edu.au) so that we can notify relevant attendees of possible exposure in keeping with ACT Government Guidelines.
+
+
 ## Registration
 
 The registration form can be found [here at ergonomics.org.au](https://www.ergonomics.org.au/events/ozchi-2022-conference/)
