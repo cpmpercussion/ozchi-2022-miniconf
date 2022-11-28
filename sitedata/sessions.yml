@@ -35,6 +35,16 @@
   im: static/images/sessions/
   youtube_link: 
 
+- UID: industry
+  title: Industry Session
+  chair: Priscilla Kan John
+  date: Thursday 2022-12-01 11:00-12:30 AEDT
+  location: "Shine Dome: Ian Wark Theatre"
+  type: industry
+  im: static/images/sessions/
+  youtube_link: 
+  
+
 - UID: S5
   title: Nature and the Home
   chair:
@@ -47,7 +57,7 @@
 - UID: S6
   title: Care-ful Design
   chair:
-  date: Thursday 2022-12-01 09:30-11:00 AEDT
+  date: Thursday 2022-12-01 15:30-16:20 AEDT
   location: "Shine Dome: Ian Wark Theatre"
   type: papers
   im: static/images/sessions/
@@ -56,18 +66,8 @@
 - UID: S7
   title: Games and Play
   chair:
-  date: Friday 2020-07-06 8am-9am AEST
+  date: Friday 2022-12-02 09:30-11:00 AEDT
   location: "Shine Dome: Ian Wark Theatre"
   type: papers
   im: static/images/sessions/
   youtube_link: 
-  
-- UID: industry
-  title: Industry Session
-  chair: Priscilla Kan John
-  date: Thursday 2022-12-01 1100-1230AEDT
-  location: "Shine Dome: Ian Wark Theatre"
-  type: industry
-  im: static/images/sessions/
-  youtube_link: 
-  

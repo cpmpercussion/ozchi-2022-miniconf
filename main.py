@@ -145,6 +145,7 @@ def schedule():
         ],
     }
     data["sessions"] = site_data["sessions"]
+    data["speakers"] = site_data["speakers"]
     return render_template("schedule.html", **data)
 
 

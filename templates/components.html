@@ -45,38 +45,31 @@ workshopgroup
 {%- endmacro %}
 
 {% macro speakergroup(speakers) -%}
-<div class="container">
 <div class="row">
-{% for speaker in speakers %}
-  <div class="col">
-    <div class="card">
-      <div class="card-header">
-        <img src="{{speaker.im}}" width="100%" class="img-thumbnail" />
-        <div class="m-3 text-muted">
-          <h3>
-            <a href="speaker_{{speaker.UID}}.html" class="main-title">
-              {{speaker.speaker}}
-            </a>
+  {% for speaker in speakers %}
+    <div class="col-md-6 col-xs-6">
+      <div class="card">
+        <a href="speaker_{{speaker.UID}}.html">
+          <img class="card-img-top" src="{{speaker.im}}" alt="{{speaker.speaker}}">
+          </a>
+        <div class="card-body">
+          <h3 class="card-title">
+            <a href="speaker_{{speaker.UID}}.html">{{speaker.speaker}}</a>
           </h3>
-        </div>
-        <div class="m-3 text-muted">
-          <span class="card-title h3">
-            {{speaker.institution}}
-          </span>
-        </div>
-        {% if speaker.date %}
-        <div class="m-4 text-muted">
-          <span class="card-title h4">
+          <p class="">
+          {{speaker.institution}}
+          </p>
+          {% if speaker.date %}
+          <small class="text-muted">
             {{speaker.date}}
-          </span>
+          </small>
+          {% endif %}
         </div>
-        {% endif %}
       </div>
     </div>
+  {% endfor %}
   </div>
-{% endfor %}
-</div>
-</div>
+  
 {%- endmacro %}
 
 {% macro organizergroup(committee) -%}
