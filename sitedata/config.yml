@@ -40,6 +40,9 @@ auth0_domain : miniconf.auth0.com
 calendar:
   colors: #  Colors for the different event hashtags:
     ---: '#bed972'
-    qa: '#4FCAEB'
-    talk: '#ccc'
+    paper: '#FF9185'
+    info: '#87A2D4'
+    social: '#D7F4FE'
+    break: '#BCBD8B'
+    keynote: '#ccc'
   sunday_saturday: false  #  Include Sunday and Saturday

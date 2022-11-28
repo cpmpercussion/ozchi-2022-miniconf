@@ -35,7 +35,7 @@ def main(site_data_path):
         for p in site_data[typ]:
             by_uid[typ][p["UID"]] = p
 
-    # print(site_data["creativity"])
+    print(site_data["main_calendar"])
     print("Data Successfully Loaded")
     return extra_files
 
@@ -147,6 +147,22 @@ def schedule():
     data["sessions"] = site_data["sessions"]
     data["speakers"] = site_data["speakers"]
     return render_template("schedule.html", **data)
+
+@app.route("/schedule_list.html")
+def schedule_list():
+    data = _data()
+    data["day"] = {
+        "speakers": site_data["speakers"],
+        "highlighted": [
+            format_paper(by_uid["papers"][h["UID"]]) for h in site_data["highlighted"]
+        ],
+    }
+    data["sessions"] = site_data["sessions"]
+    data["speakers"] = site_data["speakers"]
+    data["papers"] = site_data["papers"]
+    data["calendar"] = site_data["main_calendar"]
+    return render_template("schedule_list.html", **data)
+
 
 
 @app.route("/workshops.html")

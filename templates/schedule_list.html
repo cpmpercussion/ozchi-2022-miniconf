@@ -1,0 +1,70 @@
+{% set active_page = "List Schedule" %}
+{% set page_title = "List Schedule" %}
+{% extends "base.html" %}
+
+{% block top %}
+<style>
+  .back {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url("{{config.background_image}}") no-repeat center;
+    background-size: cover;
+  }
+  .back h2 {
+    font-family: "Public Sans", sans-serif;
+    font-weight: 700;
+  }
+</style>
+
+<div class="jumbotron jumbotron-fluid back" style="padding-bottom: 20px;">
+  <div class="row header p-6 m-5">
+    <div class="p-1 mx-auto text-center text-white col-md-9 col-sm-12">
+      <h2>
+        Schedule List
+      </h2>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block content %}
+
+
+{% for day in ["Wednesday", "Thursday", "Friday"] %}
+<h1>{{day}}</h1>
+<div class="row no-gutters">
+  {% for entry in calendar %}{% if entry.day == day %}
+  <div class="col-md-12 p-2">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="{{ entry.link }}">{{ entry.title }}</a>
+        </h3>
+        <p>
+          {{entry.day}} {{entry.start[:10]}} {{entry.start[11:16]}}-{{entry.end[11:16]}}
+        </p>
+        {% if entry.calendarId == "paper" %}
+          <table class="table table-sm">
+            <thead>
+              {% for paper in papers|sort(attribute='session_position') %}{% if paper.session_code == entry.uid %}
+              <tr>
+                <td><a href="poster_{{paper.UID}}.html">{{paper.title}}</a></td>
+                <td>
+                  {{paper.UID | upper}} 
+                  {% if paper.mode == 'remote' %}
+                  <b>Remote</b>
+                  {% elif paper.mode == 'video' %}
+                  <b>Video</b>
+                  {% endif %}
+                </td>
+              </tr>
+              {% endif %}{% endfor %}
+            </thead>
+          </table>
+        {% endif %}
+      </div>        
+    </div>
+  </div>
+  {% endif %}{% endfor %}
+</div>
+{% endfor %}
+
+{% endblock %}

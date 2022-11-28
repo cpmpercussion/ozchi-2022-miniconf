@@ -1,209 +1,253 @@
 [
   {
     "title": "Coffee and Registration",
+    "day": "Wednesday",
     "start": "2022-11-30T09:00:00+11:00",
     "end": "2022-11-30T10:00:00+11:00",
     "location": "breaks_and_lunch.html",
     "link": "breaks_and_lunch.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "break",
+    "uid": "break"
   },
 
   {
     "title": "Conference Welcome",
+    "day": "Wednesday",
     "start": "2022-11-30T10:00:00+11:00",
     "end": "2022-11-30T11:00:00+11:00",
     "location": "conference_welcome.html",
     "link": "conference_welcome.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "info",
+    "uid": "welcome"
   },
 
   {
     "title": "Session 1: Dignity and Emerging Systems",
+    "day": "Wednesday",
     "start": "2022-11-30T11:00:00+11:00",
     "end": "2022-11-30T12:20:00+11:00",
     "location": "session_S1.html",
     "link": "session_S1.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "paper",
+    "uid": "S1"
   },
   {
     "title": "Lunch",
+    "day": "Wednesday",
     "start": "2022-11-30T12:20:00+11:00",
     "end": "2022-11-30T13:00:00+11:00",
     "location": "breaks_and_lunch.html",
     "link": "breaks_and_lunch.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "break",
+    "uid": "break"
   },
   {
     "title": "CHISIG AGM",
+    "day": "Wednesday",
     "start": "2022-11-30T13:00:00+11:00",
     "end": "2022-11-30T14:00:00+11:00",
     "location": "chisig_agm.html",
     "link": "chisig_agm.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "info",
+    "uid": "agm"
   },
 
   {
     "title": "Session 2: Tangibles and AI",
+    "day": "Wednesday",
     "start": "2022-11-30T14:00:00+11:00",
     "end": "2022-11-30T15:30:00+11:00",
     "location": "session_S2.html",
     "link": "session_S2.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "paper",
+    "uid": "S2"
   },
   {
     "title": "Break",
+    "day": "Wednesday",
     "start": "2022-11-30T15:30:00+11:00",
     "end": "2022-11-30T16:00:00+11:00",
     "location": "breaks_and_lunch.html",
     "link": "breaks_and_lunch.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "break",
+    "uid": "break"
   },
   {
     "title": "Session 3: Design and the Design Process",
+    "day": "Wednesday",
     "start": "2022-11-30T16:00:00+11:00",
     "end": "2022-11-30T17:30:00+11:00",
     "location": "session_S3.html",
     "link": "session_S3.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "paper",
+    "uid": "S3"
   },
   {
     "title": "Conference Dinner",
+    "day": "Wednesday",
     "start": "2022-11-30T19:00:00+11:00",
     "end": "2022-11-30T22:30:00+11:00",
     "location": "https://www.nla.gov.au/visit-us/bookplate-cafe#",
     "link": "https://www.nla.gov.au/visit-us/bookplate-cafe#",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "social",
+    "uid": "dinner"
   },
 
   {
     "title": "Session 4: HCI at work",
+    "day": "Thursday",
     "start": "2022-12-01T09:30:00+11:00",
     "end": "2022-12-01T10:30:00+11:00",
     "location": "session_S4.html",
     "link": "session_S4.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "paper",
+    "uid": "S4"
   },
   {
     "title": "Break",
+    "day": "Thursday",
     "start": "2022-12-01T10:30:00+11:00",
     "end": "2022-12-01T11:00:00+11:00",
     "location": "breaks_and_lunch.html",
     "link": "breaks_and_lunch.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "break",
+    "uid": "break"
   },
 
   {
     "title": "Industry Session",
+    "day": "Thursday",
     "start": "2022-12-01T11:00:00+11:00",
     "end": "2022-12-01T12:30:00+11:00",
     "location": "session_industry.html",
     "link": "session_industry.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "paper",
+    "uid": "industry"
   },
 
   {
     "title": "Lunch",
+    "day": "Thursday",
     "start": "2022-12-01T12:30:00+11:00",
     "end": "2022-12-01T13:30:00+11:00",
     "location": "breaks_and_lunch.html",
     "link": "breaks_and_lunch.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "break",
+    "uid": "break"
   },
   {
     "title": "Session 5: Nature and the Home",
+    "day": "Thursday",
     "start": "2022-12-01T13:30:00+11:00",
     "end": "2022-12-01T15:00:00+11:00",
     "location": "session_S5.html",
     "link": "session_S5.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "paper",
+    "uid": "S5"
   },
   {
     "title": "Break",
+    "day": "Thursday",
     "start": "2022-12-01T15:00:00+11:00",
     "end": "2022-12-01T15:30:00+11:00",
     "location": "breaks_and_lunch.html",
     "link": "breaks_and_lunch.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "break",
+    "uid": "break"
   },
   {
     "title": "Session 6: Care-ful Design",
+    "day": "Thursday",
     "start": "2022-12-01T15:30:00+11:00",
     "end": "2022-12-01T16:20:00+11:00",
     "location": "session_S6.html",
     "link": "session_S6.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "paper",
+    "uid": "S6"
   },
   {
     "title": "Keynote 1: m.c. schraefel",
+    "day": "Thursday",
     "start": "2022-12-01T16:30:00+11:00",
     "end": "2022-12-01T17:30:00+11:00",
     "location": "speaker_mc-schraefel.html",
     "link": "speaker_mc-schraefel.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "keynote",
+    "uid" : "mc-schraefel"
   },
   {
     "title": "Connected Creativity Algorave",
+    "day": "Thursday",
     "start": "2022-12-01T19:00:00+11:00",
     "end": "2022-12-01T22:00:00+11:00",
     "location": "creativity.html",
     "link": "creativity.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "social",
+    "uid" : "creativity"
   },
 
 
 
   {
     "title": "Session 7: Games and Play",
+    "day": "Friday",
     "start": "2022-12-02T09:30:00+11:00",
     "end": "2022-12-02T11:00:00+11:00",
     "location": "session_S7.html",
     "link": "session_S7.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "paper",
+    "uid" : "S7"
   },
   {
     "title": "Break",
+    "day": "Friday",
     "start": "2022-12-02T11:00:00+11:00",
     "end": "2022-12-02T11:30:00+11:00",
     "location": "breaks_and_lunch.html",
     "link": "breaks_and_lunch.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "break",
+    "uid" : "break"
   },
   {
     "title": "Keynote 2: Aaron Quigley",
+    "day": "Friday",
     "start": "2022-12-02T11:30:00+11:00",
     "end": "2022-12-02T12:30:00+11:00",
     "location": "speaker_aaron-quigley.html",
     "link": "speaker_aaron-quigley.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "keynote",
+    "uid": "aaron-quigley"
   },
   {
     "title": "Awards and Handover",
+    "day": "Friday",
     "start": "2022-12-02T12:30:00+11:00",
     "end": "2022-12-02T13:00:00+11:00",
     "location": "conference_close.html",
     "link": "conference_close.html",
     "category": "time",
-    "calendarId": "qa"
+    "calendarId": "info",
+    "uid" : "closing"
   }
 ]
