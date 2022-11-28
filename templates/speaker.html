@@ -1,50 +1,51 @@
-{% set page_title = session.session %}
+{% set page_title = speaker.speaker %}
 {% extends "base.html" %}
+
+{% block top %}
+<style>
+  .back {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url("{{config.background_image}}") no-repeat center;
+    background-size: cover;
+  }
+  .back h2 {
+    font-family: "Public Sans", sans-serif;
+    font-weight: 700;
+  }
+</style>
+
+<div class="jumbotron jumbotron-fluid back" style="padding-bottom: 20px;">
+  <div class="row header p-6 m-5">
+    <div class="p-1 mx-auto text-center text-white col-md-9 col-sm-12">
+      <h2>
+        Keynote: {{ speaker.speaker }}
+      </h2>
+      {% if speaker.talktitle %}<h4>{{speaker.talktitle}}</h4>{% endif %}
+      <h4>
+        {{speaker.date}}
+      </h4>
+      <h4>
+        {{speaker.location}}
+      </h4>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
 {% block content %}
 
-<div class="pp-card m-3" style="">
-  <div class="card-header">
-    <h2 class="card-title main-title text-center" style="">
-      {{speaker.speaker}}
-    </h2>
-    <h3 class="card-subtitle mb-2 text-muted text-center">
-       ({{speaker.institution}})
-    </h3>
-    {% if speaker.talktitle %}
-    <h3 class="card-subtitle mb-2 text-muted text-center">{{speaker.talktitle | markdown}}</h3>
-    {% endif %}
-    <h3 class="card-title text-center">
-      Keynote Presentation: {{speaker.date}}
-    </h3>
-  </div>
-
-  <div class="card-body">
-    <div class="text-center p-3">
-      <a class="card-link" href="{{ speaker.web }}">Website </a>
-      {% if speaker.youtube_link %}
-      <a class="card-link" href="{{speaker.youtube_link}}"><b>Stream Link:</b> YouTube</a>
-      {% endif %}
-    </div>
-
-  </div>
-</div>
-
-<center><img src="{{speaker.im}}" alt="{{speaker.speaker}}" width="60%" /></center>
-
-{% if speaker.bio %}
-<div>
-  <h4 class="card-title">Bio</h4>
-  {{speaker.bio|markdown}}
-</div>
-{% endif %}
-
-
-
+<center><img src="{{speaker.im}}" alt="{{speaker.speaker}}" width="50%" /></center>
 
 {% if speaker.abstract %}
 <div>
   <h4 class="card-title">Abstract</h4>
   {{speaker.abstract | markdown}}
+</div>
+{% endif %}
+
+{% if speaker.bio %}
+<div>
+  <h4 class="card-title">Bio</h4>
+  {{speaker.bio|markdown}}
 </div>
 {% endif %}
 

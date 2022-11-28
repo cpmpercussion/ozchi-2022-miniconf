@@ -88,19 +88,20 @@
 {% block header %}
 {% set navigation_bar = [
 ('index.html', 'Home'),
+('calendar.html', 'Schedule'),
 ('papers2.html', 'Papers'),
 ('workshops.html', 'Workshops'),
 ('creativity.html', 'Creativity'),
 ('doctoral-consortium.html', 'Doctoral Consortium'),
 ('organisers.html', 'Organisers'),
-('volunteers.html', 'Student Volunteers'),
 ('help.html', 'Help'),
 ('https://www.ergonomics.org.au/events/ozchi-2022-conference/', 'Register'),
 ] -%}
+{# ('volunteers.html', 'Student Volunteers'), #}
+
 
 <!-- Extra NAV entries for conference -->
 {# ('call.html', 'Call for Submissions'), #}
-{# ('calendar.html', 'Schedule'), #}
 {# ('papers.html', 'Papers'), #}
 {# ('workshops.html', 'Workshops'), #}
 {# ('chat.html', 'Chat'), #}
@@ -185,39 +186,39 @@
 <footer class="footer bg-white p-4">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-sm-12">
+            <div class="col-sm-12 p-2">
                 <h4><center>Sponsors</center></h4>
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-sm-5">
-                <img src="static/images/SOCO-RGB-P-01.png" class="mx-auto d-block" style="width: 100%">
+            <div class="col-sm-5 p-2">
+                <img src="static/images/SOCO-RGB-P-01.png" class="mx-auto d-block" style="width: 80%">
             </div>
-            <div class="col-sm-5">
+            <div class="col-sm-5 p-2">
                 <div class="">
-                <img src="static/images/university-of-melbourne.svg" class="mx-auto d-block" style="width: 30%;">
+                <img src="static/images/university-of-melbourne.svg" class="mx-auto d-block" style="width: 25%;">
                 </div>
             </div>
-            <div class="col-sm-5">
+            <div class="col-sm-5 p-2">
                 <div class="">
-                <img src="static/images/contxtual.png" class="mx-auto d-block" style="width: 100%;">
+                <img src="static/images/contxtual.png" class="mx-auto d-block" style="width: 80%;">
                 </div>
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-sm-5">
+            <div class="col-sm-12 p-2">
                 <h4><center>Presented in cooperation with</center></h4>
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-sm-5">
-                <img src="static/images/ACM-In-Cooperation_large.jpg" style="width: 100%">
+            <div class="col-sm-5 p-2">
+                <img src="static/images/ACM-In-Cooperation_large.jpg" class="mx-auto d-block" style="width: 70%">
             </div>
-            <div class="col-sm-5">
-                <img src="static/images/sigchi-rgb-logo.jpg" style="width: 100%">
+            <div class="col-sm-5 p-2">
+                <img src="static/images/sigchi-rgb-logo.jpg" class="mx-auto d-block" style="width: 70%">
             </div>
-            <div class="col-sm-5">
-                <img src="static/images/ACM_ICPS.jpg" style="width: 100%">
+            <div class="col-sm-5 p-2">
+                <img src="static/images/ACM_ICPS.jpg" class="mx-auto d-block" style="width: 35%">
             </div>
         </div>
     </div>
