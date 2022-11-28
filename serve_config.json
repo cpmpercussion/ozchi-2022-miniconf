@@ -13,8 +13,11 @@
   "calendar": {
     "colors": {
       "---": "#bed972",
-      "qa": "#4FCAEB",
-      "talk": "#ccc"
+      "break": "#BCBD8B",
+      "info": "#87A2D4",
+      "keynote": "#ccc",
+      "paper": "#FF9185",
+      "social": "#D7F4FE"
     },
     "sunday_saturday": false
   },
