@@ -24,6 +24,10 @@ of the DC to the PhD candidate's dissertation.
 Note that there is **no fee** to attend the consortium.
 However, you must register for at least one day of the OzCHI conference.
 
+### Venue
+
+The OzCHI Doctoral Consotrium will take place at [Hancock West, Australian National University](https://studentvip.com.au/anu/main/maps/144910).
+
 ### Structure of the OzCHI Doctoral Consortium
 
 The doctoral consortium event is open to all OzCHI participants and
