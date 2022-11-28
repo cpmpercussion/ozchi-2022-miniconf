@@ -48,21 +48,32 @@
         </p> -->
 
         {% if paper.type %}
-        <p class="text-center p-3">
+        <div class="text-center p-1">
         {% if paper.type == 'paper' %}
         Paper Track
         {% elif paper.type == 'lbw' %}
         Late Breaking Work and Case Studies Track
+        {% elif paper.type == 'industry' %}
+        Industry Talk
         {% endif %}
-        </p>
+        </div>
         {% endif %}
         <!-- Paper Preprint -->
         <!-- <div class="text-center p-3">
             <a class="card-link" target="_blank" href="static/papers/{{paper.UID}}.pdf">Preprint PDF</a>
         </div> --> 
-        <div class="text-center p-3">
+        <div class="text-center p-1">
             {% if paper_content.session_code %} 
             <a href="/session_{{session.UID}}.html"><b>Session:</b> {{session.title}} - {{session.date}}</a>
+            {% endif %}
+        </div>
+        <div class="text-center p-1">
+            {% if paper_content.mode == 'present' %} 
+            In-Person Presentation
+            {% elif paper_content.mode == 'remote' %}
+            Remote Presentation
+            {% elif paper_content.mode == 'video' %}
+            Video Presentation
             {% endif %}
         </div>
     </div>

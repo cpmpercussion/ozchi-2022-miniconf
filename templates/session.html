@@ -27,12 +27,20 @@
       <h4>
         {{session.date}}
       </h4>
+      <h4>
+        {{session.location}}
+      </h4>
     </div>
   </div>
 </div>
 {% endblock %}
 
 {% block content %}
+{% if session.location %}
+
+{% endif %}
+
+
 {% if session.youtube_link %}
 <div class="m-3 text-muted">
   <span class="card-title h5">
@@ -41,48 +49,49 @@
 </div>
 {% endif %}
 
-<div class="border-top my-3"></div>
 <div class="row p-4" id="faq">
   <div class="col-12 bd-content">
     <h2 class="text-center">Presentations</h2>
   </div>
 </div>
 
-<div class="cards row">
-  {% for paper in papers %}{% if paper.session_code == session.UID %}
-  <div class="col-md-4 col-sm-6 p-3" style="box-sizing: border-box;">
-    <div class="card" style="display: block; overflow: hidden; width: 100%;">
-      <img class="card-img-top" src="static/papers/{{paper.UID}}.jpg" alt="{{paper.title}}">
-      <div
-        class="card-header text-center"
-        style="min-height: 200px; width: 100%;"
-      >
-        <a class="text-muted" href="poster_{{paper.UID}}.html">
-          <h3 class="card-title main-title">
-            {{paper.title}}
-          </h3>
-        </a>
-        <div class="card-subtitle text-muted">
+<div class="card mb-3">
+  <div class="row no-gutters">
+    {% for paper in papers|sort(attribute='session_position') %}{% if paper.session_code == session.UID %}
+    <div class="col-md-4">
+      <img class="card-img" src="static/papers/{{paper.UID}}.jpg" alt="{{paper.title}}">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="poster_{{paper.UID}}.html">{{paper.title}}</a>
+        </h3>
+        <p class="card-text">
           {{ paper.authors.split("|") | join(", ") }}
-        </div>
-          {% if paper.type %}
-          <div class="m-1 card-subtitle text-muted">
+        </p>
+        <small class="card-text text-muted">
           {% if paper.type == 'paper' %}
           Paper Track
           {% elif paper.type == 'lbw' %}
           Late Breaking Work and Case Studies Track
+          {% elif paper.type == 'industry' %}
+          Industry Talk
           {% endif %}
-          </div>
-          {% endif %}
-        <!-- <div class="m-3 text-left card-subtitle font-italic">
-          {{paper.abstract|safe|markdown|truncate(100)}}
-        </div> -->
-        <a href="poster_{{paper.UID}}.html" class="btn btn-secondary">read more</a>
+          <br />
+          {% if paper.mode == 'present' %} 
+        In-Person Presentation
+        {% elif paper.mode == 'remote' %}
+        <b>Remote Presentation</b>
+        {% elif paper.mode == 'video' %}
+        <b>Video Presentation</b>
+        {% endif %}
+        </small>
       </div>
     </div>
+    {% endif %}{% endfor %}
   </div>
-  {% endif %}{% endfor %}
 </div>
+
 
 
 <!-- <div class="row">

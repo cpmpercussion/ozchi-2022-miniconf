@@ -6,7 +6,7 @@ OzCHI 2022 will take place in Canberra, Australia in November/December 2022 and 
      <a type="button" class="btn btn-danger" href="https://www.ergonomics.org.au/events/ozchi-2022-conference/" role="button">Register Here</a>
     </div>
     <div class="col p-5">
-      <a type="button" class="btn btn-info" href="schedule.html" role="button">See the schedule</a>
+      <a type="button" class="btn btn-info" href="calendar.html" role="button">See the schedule</a>
     </div>
   </div>
 </div>
