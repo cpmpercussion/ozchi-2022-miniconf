@@ -1,5 +1,11 @@
 ## Attending
 
+### Dinner Crawl
+
+There are [a variety of dinner locations](https://www.google.com/maps/d/viewer?hl=en&mid=1espGV2rrNW2Ig2erhLgN3mzSQcL4MLg&ll=-35.27768181362172%2C149.13163682554307&z=16) around the way from the main conference venue to The Connected Creativity Algorave gig, which you can check out.
+
+![dinner-crawl-google-map](./sitedata/dinner-crawl.jpeg)
+
 #### How do I register for OzCHI2022?
 
 See the [registration page at ergonomics.org.au](https://www.ergonomics.org.au/events/ozchi-2022-conference/)
