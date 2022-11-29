@@ -4,9 +4,7 @@
 
 There are [a variety of dinner locations](https://www.google.com/maps/d/viewer?hl=en&mid=1espGV2rrNW2Ig2erhLgN3mzSQcL4MLg&ll=-35.27768181362172%2C149.13163682554307&z=16) around the way from the main conference venue to The Connected Creativity Algorave gig, which you can check out.
 
-<img src="https://raw.githubusercontent.com/cpmpercussion/ozchi-2022-miniconf/master/sitedata/dinner-crawl.jpeg" alt="drawing" style="width:100%"/>
-
-<!-- ![dinner-crawl-google-map](https://raw.githubusercontent.com/cpmpercussion/ozchi-2022-miniconf/master/sitedata/dinner-crawl.jpeg) -->
+<iframe src="https://www.google.com/maps/d/embed?mid=1espGV2rrNW2Ig2erhLgN3mzSQcL4MLg&ehbc=2E312F" height="500" width="800"></iframe>
 
 #### How do I register for OzCHI2022?
 
