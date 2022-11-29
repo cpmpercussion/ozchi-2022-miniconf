@@ -20,7 +20,6 @@ On the way to our gig venue at Ainslie, you can grab some food with your friends
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/770997042?h=3f79e9ce8f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Connected Creativity Algorave (promo video)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-
 ## The *gig* (Algorave)
 
 These days just about all electronic music is made using computers, but with
