@@ -1,17 +1,18 @@
 [
   {
-    "TLDR": "Foundation is expected to have a covering effect that hides skin imperfections such as pores and uneven coloring when it is applied evenly. However, since the foundation itself is close to the skin color, people cannot tell easily where they have applied it. Therefore, we proposed a system to detect and visualize uneven foundation application, and have succeeded in binary classification of bare skin and foundation skin. Here, visualizing the unevenness of foundation on the face may create a negative impression for users. Therefore, we studied a method to visualize the uneven application of foundation on the face, taking into consideration factors other than ease of understanding. As a result, we found that the most positive evaluation was a method that made it relatively easy to recognize where foundation had been applied unevenly and gives the impression of \u201cbright, warm, active and radiant\u201d.",
-    "UID": "lbw1043",
-    "abstract": "Foundation is expected to have a covering effect that hides skin imperfections such as pores and uneven coloring when it is applied evenly. However, since the foundation itself is close to the skin color, people cannot tell easily where they have applied it. Therefore, we proposed a system to detect and visualize uneven foundation application, and have succeeded in binary classification of bare skin and foundation skin. Here, visualizing the unevenness of foundation on the face may create a negative impression for users. Therefore, we studied a method to visualize the uneven application of foundation on the face, taking into consideration factors other than ease of understanding. As a result, we found that the most positive evaluation was a method that made it relatively easy to recognize where foundation had been applied unevenly and gives the impression of \u201cbright, warm, active and radiant\u201d.",
+    "TLDR": "Confidence helps sustain people to use their mobile technology devices in daily life. However, there is little research that discusses how to build confidence among older adult users when starting to use technology and broadening their existing technology use. To understand older adults' confidence in technology use, we conducted an exploratory study over six months with ten participants in a residential care setting. We investigated the relationship between confidence, experience, and personal interest to use technology in their embracing of technology. Our findings show that confidence can be gained from positive experiences of use and that confidence helps with subsequent technology engagement. Positive experiences encourage further and broader experimentation with their own devices. Activities using technology to support personal interests provide great motivation for participants to expand the use of their mobile technology devices. We provide guidance on a facilitation process that is clear and step-wise to contribute to building confidence of users in residential care settings.",
+    "UID": "p1026",
+    "abstract": "Confidence helps sustain people to use their mobile technology devices in daily life. However, there is little research that discusses how to build confidence among older adult users when starting to use technology and broadening their existing technology use. To understand older adults' confidence in technology use, we conducted an exploratory study over six months with ten participants in a residential care setting. We investigated the relationship between confidence, experience, and personal interest to use technology in their embracing of technology. Our findings show that confidence can be gained from positive experiences of use and that confidence helps with subsequent technology engagement. Positive experiences encourage further and broader experimentation with their own devices. Activities using technology to support personal interests provide great motivation for participants to expand the use of their mobile technology devices. We provide guidance on a facilitation process that is clear and step-wise to contribute to building confidence of users in residential care settings.",
     "authors": [
-      "Miho Kajita",
-      "Satoshi Nakamura",
-      "Takayuki Itoh"
+      "Lan An",
+      "Diego Mu\u00f1oz",
+      "Sonja Pedell",
+      "Leon Sterling"
     ],
     "bio": "",
     "code_link": "",
-    "forum": "lbw1043",
-    "id": "lbw1043",
+    "forum": "p1026",
+    "id": "p1026",
     "image": "",
     "keywords": [
       ""
@@ -22,139 +23,7 @@
     "sessions": [
       ""
     ],
-    "title": "Research on how to present images showing uneven foundation application that do not cause unfavorable impressions to the viewer",
-    "type": "lbw"
-  },
-  {
-    "TLDR": "Authoring of AR instructions is typically a time-consuming manual process that requires a user to use a desktop GUI interface or AR device for placing and animating 3D content. This is problematic because manual authoring does not scale to the myriad of product variations of many manufacturing companies. However, automatic authoring is possible, since companies already store data about their products in the form of a bill of materials and bill of processes. \nIn our paper, we present authAR, a novel desktop GUI based tool that combines bill of materials with geometric data of a factory workspace to automatically author AR picking instructions on racks and boxes. In addition, authAR uses this data to propose spatial layouts of racks and boxes according to a customizable optimization algorithm.\nWe conducted a preliminary expert review with four manufacturing workers. Our study showed that authAR has many potentials and was applicable to a real use case at the manufacturing company, Velux. The study contributes new knowledge to the field of AR authoring by including the views of domain experts and using real production data. Suggestions for improvements and new features as well as plans for a more thorough study are presented as future work.",
-    "UID": "lbw1030",
-    "abstract": "Authoring of AR instructions is typically a time-consuming manual process that requires a user to use a desktop GUI interface or AR device for placing and animating 3D content. This is problematic because manual authoring does not scale to the myriad of product variations of many manufacturing companies. However, automatic authoring is possible, since companies already store data about their products in the form of a bill of materials and bill of processes. \nIn our paper, we present authAR, a novel desktop GUI based tool that combines bill of materials with geometric data of a factory workspace to automatically author AR picking instructions on racks and boxes. In addition, authAR uses this data to propose spatial layouts of racks and boxes according to a customizable optimization algorithm.\nWe conducted a preliminary expert review with four manufacturing workers. Our study showed that authAR has many potentials and was applicable to a real use case at the manufacturing company, Velux. The study contributes new knowledge to the field of AR authoring by including the views of domain experts and using real production data. Suggestions for improvements and new features as well as plans for a more thorough study are presented as future work.",
-    "authors": [
-      "Troels Ammitsb\u00f8l Rasmussen"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "lbw1030",
-    "id": "lbw1030",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "authAR - Automatic Authoring of Picking and Layout Optimization Instructions",
-    "type": "lbw"
-  },
-  {
-    "TLDR": "This paper presents a scoping review of intergenerational active play to provide an overview of current research in HCI and related disciplines. Play has been widely perceived as a common activity among people of all ages. Physical activity and active play are essential to positive developmental outcomes, especially of those in preschool years. Intergenerational play can be beneficial to people of different generations by promoting meaningful interactions and healthy relationships. Finally, intergenerational active play shows great potential in fostering early childhood development and positive ageing for older adults. Digital technology provides opportunities for promoting intergenerational active play in new ways, such as digital games, exergames, and tangible embodied embedded interaction (TEIs). Based on the review, we present a framework for intergenerational active play which encapsulates the key concepts, challenges, and opportunities for future research and design.",
-    "UID": "lbw1040",
-    "abstract": "This paper presents a scoping review of intergenerational active play to provide an overview of current research in HCI and related disciplines. Play has been widely perceived as a common activity among people of all ages. Physical activity and active play are essential to positive developmental outcomes, especially of those in preschool years. Intergenerational play can be beneficial to people of different generations by promoting meaningful interactions and healthy relationships. Finally, intergenerational active play shows great potential in fostering early childhood development and positive ageing for older adults. Digital technology provides opportunities for promoting intergenerational active play in new ways, such as digital games, exergames, and tangible embodied embedded interaction (TEIs). Based on the review, we present a framework for intergenerational active play which encapsulates the key concepts, challenges, and opportunities for future research and design.",
-    "authors": [
-      "Khoa Dang Tran",
-      "Alethea Blackler",
-      "Bernd Ploderer",
-      "Nicole E M Vickery"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "lbw1040",
-    "id": "lbw1040",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Intergenerational active play: a scoping review",
-    "type": "lbw"
-  },
-  {
-    "TLDR": "Increasing numbers of people have turned to playing boardgames with physically distant friends and family via technological tools, particularly since the start of the COVID-19 pandemic. However, commercial hybrid digital boardgames (HDBs) are designed for co-located, rather than distanced, play and there is a need for more specific tools to support hybrid game design. This paper introduces the SMeFT Decks, a set of card decks to aid in the design of HDBs for distanced play, which support Story, Mechanism, Function and Technology. We describe the use of these cards for design ideation and demonstrate four game concepts for distanced play stemming from the use of these decks in participatory workshops. We report evaluative feedback from a pilot study and from 46 participants who used these cards across nine design workshops and reflect on what we learned from observing this process. Results suggest that the SMeFT Decks are a productive ideation tool for aiding in the design of HDBs for distanced play in collaborative workshop settings.",
-    "UID": "p1002",
-    "abstract": "Increasing numbers of people have turned to playing boardgames with physically distant friends and family via technological tools, particularly since the start of the COVID-19 pandemic. However, commercial hybrid digital boardgames (HDBs) are designed for co-located, rather than distanced, play and there is a need for more specific tools to support hybrid game design. This paper introduces the SMeFT Decks, a set of card decks to aid in the design of HDBs for distanced play, which support Story, Mechanism, Function and Technology. We describe the use of these cards for design ideation and demonstrate four game concepts for distanced play stemming from the use of these decks in participatory workshops. We report evaluative feedback from a pilot study and from 46 participants who used these cards across nine design workshops and reflect on what we learned from observing this process. Results suggest that the SMeFT Decks are a productive ideation tool for aiding in the design of HDBs for distanced play in collaborative workshop settings.",
-    "authors": [
-      "Melissa J Rogerson",
-      "Lucy A Sparrow",
-      "Sophie O Freeman"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1002",
-    "id": "p1002",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "The SMeFT Decks: A Card-Based Ideation Tool for Designing Hybrid Digital Boardgames for Distanced Play",
-    "type": "paper"
-  },
-  {
-    "TLDR": "Physically active play is essential in early childhood. Yet, many children aged 3 to 5 do not engage in enough physical activity or active play. Consequently, there is a need to increase young children\u2019s engagement in active play and understand the factors that enable them to sustain this play. Tangible, Embedded, and Embodied Interaction (TEI) systems have shown promise to facilitate new opportunities for active play. Few TEIs have been designed to engage children aged 3 to 5 in active play. We ask the question, how can TEIs be better designed to effectively engage young children in active play? This paper begins to answer this question through an exploration into how young children currently engage in active play. We conducted semi-structured interviews with fifteen families and five early childhood teachers. These interviews highlighted activities, contexts, equipment, people, and environmental factors associated with active play engagement.  We found that equipment shapes children\u2019s activities and provides a context for active play. These findings can inform the design of new and innovative TEIs that facilitate new opportunities to engage young children in active play.",
-    "UID": "p1034",
-    "abstract": "Physically active play is essential in early childhood. Yet, many children aged 3 to 5 do not engage in enough physical activity or active play. Consequently, there is a need to increase young children\u2019s engagement in active play and understand the factors that enable them to sustain this play. Tangible, Embedded, and Embodied Interaction (TEI) systems have shown promise to facilitate new opportunities for active play. Few TEIs have been designed to engage children aged 3 to 5 in active play. We ask the question, how can TEIs be better designed to effectively engage young children in active play? This paper begins to answer this question through an exploration into how young children currently engage in active play. We conducted semi-structured interviews with fifteen families and five early childhood teachers. These interviews highlighted activities, contexts, equipment, people, and environmental factors associated with active play engagement.  We found that equipment shapes children\u2019s activities and provides a context for active play. These findings can inform the design of new and innovative TEIs that facilitate new opportunities to engage young children in active play.",
-    "authors": [
-      "Dannielle Tarlinton",
-      "Nicole E M Vickery",
-      "Yuehao Wang",
-      "Linda Knight",
-      "Alethea Blackler"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1034",
-    "id": "p1034",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Identifying Factors of Young Children's Engagement in Active Play to Inform the Design of TEIs",
-    "type": "paper"
-  },
-  {
-    "TLDR": "Engaging in creative activities can be valuable in later life, especially for those who want to enhance their social connections or who have experienced reduced opportunities to engage in meaningful activities due to health and care needs. As well as being beneficial for older adults, we argue that creativity can be an important component of psychosocial caregiving. This has implications for how we design and use technology to support care in later life. In this paper, we draw on our combined experiences with three programs of research that each focused on psychosocial caregiving in different care settings. Further, each program involved different creative endeavours, including group singing; music therapy in family dementia care; and the creative use of immersive virtual reality for personalised enrichment. Drawing on these examples, we argue that any design and deployment of technology to support psychosocial caregiving needs to allow for and support creativity in care.",
-    "UID": "p1072",
-    "abstract": "Engaging in creative activities can be valuable in later life, especially for those who want to enhance their social connections or who have experienced reduced opportunities to engage in meaningful activities due to health and care needs. As well as being beneficial for older adults, we argue that creativity can be an important component of psychosocial caregiving. This has implications for how we design and use technology to support care in later life. In this paper, we draw on our combined experiences with three programs of research that each focused on psychosocial caregiving in different care settings. Further, each program involved different creative endeavours, including group singing; music therapy in family dementia care; and the creative use of immersive virtual reality for personalised enrichment. Drawing on these examples, we argue that any design and deployment of technology to support psychosocial caregiving needs to allow for and support creativity in care.",
-    "authors": [
-      "Jenny Waycott",
-      "Jane W Davidson",
-      "Felicity Baker",
-      "Shuai Yuan"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1072",
-    "id": "p1072",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Supporting Creativity in Care: Lessons from Group Singing, Music Therapy, and Immersive Virtual Reality Programs",
+    "title": "Understanding Confidence of Older Adults for Embracing Mobile Technologies",
     "type": "paper"
   },
   {
@@ -187,17 +56,18 @@
     "type": "lbw"
   },
   {
-    "TLDR": "Plugging a cable or peripheral into a device is an integral aspect of daily use of computing devices for most users. Yet, in low-light or constrained-visibility conditions the simple act of finding the receptacle to connect a cable to can be challenging and lead to user frustration. To alleviate this frustration we present LitPorts, a technology that illuminates receptacles in low-light conditions when a compatible plug is in proximity, making plugging a cable in substantially easier and leading to a better all-around user experience. We also present user feedback from our prototype testing demonstrating the broad appeal and applicability of LitPorts.",
-    "UID": "lbw1027",
-    "abstract": "Plugging a cable or peripheral into a device is an integral aspect of daily use of computing devices for most users. Yet, in low-light or constrained-visibility conditions the simple act of finding the receptacle to connect a cable to can be challenging and lead to user frustration. To alleviate this frustration we present LitPorts, a technology that illuminates receptacles in low-light conditions when a compatible plug is in proximity, making plugging a cable in substantially easier and leading to a better all-around user experience. We also present user feedback from our prototype testing demonstrating the broad appeal and applicability of LitPorts.",
+    "TLDR": "Sustainability in HCI is a growing area of research, and a driver of creativity for developing new and interesting interfaces. Low-power technology such as e-ink or flip-dot displays have provided some alternatives, and living media displays present a new opportunity to study displays that consume low amounts of energy. This pilot study explores the design space for a moss-based dispaly installed in a design school, through think-aloud, observation and interview with 10 participants. The study found that users enjoyed the novelty, appearance and interaction with the moss display, showing promise for future applications. We contribute three design considerations and potential applications based on these findings.",
+    "UID": "lbw1028",
+    "abstract": "Sustainability in HCI is a growing area of research, and a driver of creativity for developing new and interesting interfaces. Low-power technology such as e-ink or flip-dot displays have provided some alternatives, and living media displays present a new opportunity to study displays that consume low amounts of energy. This pilot study explores the design space for a moss-based dispaly installed in a design school, through think-aloud, observation and interview with 10 participants. The study found that users enjoyed the novelty, appearance and interaction with the moss display, showing promise for future applications. We contribute three design considerations and potential applications based on these findings.",
     "authors": [
-      "Tiffany E Taylor",
-      "Wolfgang Stuerzlinger"
+      "Gabrielle Hong",
+      "Phillip Gough",
+      "Callum Parker"
     ],
     "bio": "",
     "code_link": "",
-    "forum": "lbw1027",
-    "id": "lbw1027",
+    "forum": "lbw1028",
+    "id": "lbw1028",
     "image": "",
     "keywords": [
       ""
@@ -208,8 +78,163 @@
     "sessions": [
       ""
     ],
-    "title": "LitPorts: On-demand Illuminated Ports to Facilitate Inter-device Connections in Low-light Conditions",
+    "title": "Sprayful Interaction: Perceptions of a Moss-based SLow-resolution Living Media Display",
     "type": "lbw"
+  },
+  {
+    "TLDR": "Human centred design is just the start. We need to take it a step further.\u202fSystemic racism is present within most applications and designs today\u2014not because we chose it, but it is the reality of the world we inherited and within which we operate. The system is working as designed\u2014and it is our responsibility to take action to design an equitable future in its place.\u202fIBM is committed to creating a culture of racial equity for developers and designers at our company and across the industry. We envision a culture where diversity is respected, celebrated, and people are able to bring their full selves to everything they do. We strive toward creating a design industry where people of all races, ethnicities, gender identities, religions, ages, abilities, orientations, social classes, and cultures are met with equity. Kylie will outline IBMs commitment to taking human design a step further. ",
+    "UID": "ind04",
+    "abstract": "Human centred design is just the start. We need to take it a step further.\u202fSystemic racism is present within most applications and designs today\u2014not because we chose it, but it is the reality of the world we inherited and within which we operate. The system is working as designed\u2014and it is our responsibility to take action to design an equitable future in its place.\u202fIBM is committed to creating a culture of racial equity for developers and designers at our company and across the industry. We envision a culture where diversity is respected, celebrated, and people are able to bring their full selves to everything they do. We strive toward creating a design industry where people of all races, ethnicities, gender identities, religions, ages, abilities, orientations, social classes, and cultures are met with equity. Kylie will outline IBMs commitment to taking human design a step further. ",
+    "authors": [
+      "Kylie Watson"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "ind04",
+    "id": "ind04",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Taking it a step further \u2013 racial equity in design and development",
+    "type": "industry"
+  },
+  {
+    "TLDR": "We briefly discuss Canva the company and its mission, then introduce our user experience framework for search and recommendations. Our goal is that Canva customers participate in a conversation with the product, with their visual communication intent acting as the locus of that conversation. We describe the six aspects of the framework, drawing on examples throughout the creative process where our current search and recommendations technologies demonstrate each aspect. We conclude with some of the biggest open challenges that we are facing.\u202f\u202f ",
+    "UID": "ind05",
+    "abstract": "We briefly discuss Canva the company and its mission, then introduce our user experience framework for search and recommendations. Our goal is that Canva customers participate in a conversation with the product, with their visual communication intent acting as the locus of that conversation. We describe the six aspects of the framework, drawing on examples throughout the creative process where our current search and recommendations technologies demonstrate each aspect. We conclude with some of the biggest open challenges that we are facing.\u202f\u202f ",
+    "authors": [
+      "Peter Bailey",
+      "CJ Jones"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "ind05",
+    "id": "ind05",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Communication by Design: A Conversational Approach to Search & Recommendations at Canva",
+    "type": "industry"
+  },
+  {
+    "TLDR": "Today touchscreens are one of the most common input devices for everyday ubiquitous interaction. Yet, capacitive touchscreens are limited in expressiveness; thus, a large body of work has focused on extending the input capabilities of touchscreens. One promising approach is to use index finger orientation; however, this requires a two-handed interaction and poses ergonomic constraints. We propose using the thumb's pitch as an additional input dimension to counteract these limitations, enabling one-handed interaction scenarios. Our deep convolutional neural network detecting the thumb's pitch is trained on more than 230,000 ground truth images recorded using a motion tracking system. We highlight the potential of ThumbPitch by proposing several use cases that exploit the higher expressiveness, especially for one-handed scenarios. We tested three use cases in a validation study and validated our model. Our model achieved a mean error of only 11.9\u00b0.",
+    "UID": "p1041",
+    "abstract": "Today touchscreens are one of the most common input devices for everyday ubiquitous interaction. Yet, capacitive touchscreens are limited in expressiveness; thus, a large body of work has focused on extending the input capabilities of touchscreens. One promising approach is to use index finger orientation; however, this requires a two-handed interaction and poses ergonomic constraints. We propose using the thumb's pitch as an additional input dimension to counteract these limitations, enabling one-handed interaction scenarios. Our deep convolutional neural network detecting the thumb's pitch is trained on more than 230,000 ground truth images recorded using a motion tracking system. We highlight the potential of ThumbPitch by proposing several use cases that exploit the higher expressiveness, especially for one-handed scenarios. We tested three use cases in a validation study and validated our model. Our model achieved a mean error of only 11.9\u00b0.",
+    "authors": [
+      "Jamie Ullerich",
+      "Maximiliane Windl",
+      "Andreas Bulling",
+      "Sven Mayer"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "p1041",
+    "id": "p1041",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "ThumbPitch: Enriching Thumb Interaction on Mobile Touchscreens using Deep Learning",
+    "type": "paper"
+  },
+  {
+    "TLDR": "Versatile augmented reality (AR)/mixed reality (MR) technologies align with custom manufacturers\u2019 resource constraints and support their requirement for agility in responding to unique Industry 4.0 challenges. However, for Australian custom manufacturers, AR/MR uptake remains low. This modest-sized case study seeks to support resource-constrained custom manufacturers by exploring current AR/MR adoption challenges and potentials. Underpinned by a Research-through-Design (RtD) methodology and building upon Situated and Participative Enactment of Scenarios (SPES) methods, we reflect on using novel Microsoft HoloLens 2 AR/MR mockups to support in-situ enactments with domain experts to collaboratively imagine and design more productive and efficient augmented fabrication and assembly practices. In exploring new ways of making and doing through AR/MR, we find promising pathways for Australian custom manufacturers to add value across a product\u2019s lifecycle. Our findings identify five key areas for further research, which will be explored and developed through workshops around each identified AR/MR application area.",
+    "UID": "p1043",
+    "abstract": "Versatile augmented reality (AR)/mixed reality (MR) technologies align with custom manufacturers\u2019 resource constraints and support their requirement for agility in responding to unique Industry 4.0 challenges. However, for Australian custom manufacturers, AR/MR uptake remains low. This modest-sized case study seeks to support resource-constrained custom manufacturers by exploring current AR/MR adoption challenges and potentials. Underpinned by a Research-through-Design (RtD) methodology and building upon Situated and Participative Enactment of Scenarios (SPES) methods, we reflect on using novel Microsoft HoloLens 2 AR/MR mockups to support in-situ enactments with domain experts to collaboratively imagine and design more productive and efficient augmented fabrication and assembly practices. In exploring new ways of making and doing through AR/MR, we find promising pathways for Australian custom manufacturers to add value across a product\u2019s lifecycle. Our findings identify five key areas for further research, which will be explored and developed through workshops around each identified AR/MR application area.",
+    "authors": [
+      "Anthony Paul Franze",
+      "Glenda Amayo Caldwell",
+      "Muge Teixeira",
+      "Markus Rittenbruch"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "p1043",
+    "id": "p1043",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Employing AR/MR Mockups to Imagine Future Custom Manufacturing Practices",
+    "type": "paper"
+  },
+  {
+    "TLDR": "Foundation is expected to have a covering effect that hides skin imperfections such as pores and uneven coloring when it is applied evenly. However, since the foundation itself is close to the skin color, people cannot tell easily where they have applied it. Therefore, we proposed a system to detect and visualize uneven foundation application, and have succeeded in binary classification of bare skin and foundation skin. Here, visualizing the unevenness of foundation on the face may create a negative impression for users. Therefore, we studied a method to visualize the uneven application of foundation on the face, taking into consideration factors other than ease of understanding. As a result, we found that the most positive evaluation was a method that made it relatively easy to recognize where foundation had been applied unevenly and gives the impression of \u201cbright, warm, active and radiant\u201d.",
+    "UID": "lbw1043",
+    "abstract": "Foundation is expected to have a covering effect that hides skin imperfections such as pores and uneven coloring when it is applied evenly. However, since the foundation itself is close to the skin color, people cannot tell easily where they have applied it. Therefore, we proposed a system to detect and visualize uneven foundation application, and have succeeded in binary classification of bare skin and foundation skin. Here, visualizing the unevenness of foundation on the face may create a negative impression for users. Therefore, we studied a method to visualize the uneven application of foundation on the face, taking into consideration factors other than ease of understanding. As a result, we found that the most positive evaluation was a method that made it relatively easy to recognize where foundation had been applied unevenly and gives the impression of \u201cbright, warm, active and radiant\u201d.",
+    "authors": [
+      "Miho Kajita",
+      "Satoshi Nakamura",
+      "Takayuki Itoh"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "lbw1043",
+    "id": "lbw1043",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Research on how to present images showing uneven foundation application that do not cause unfavorable impressions to the viewer",
+    "type": "lbw"
+  },
+  {
+    "TLDR": "Early participatory design (PD) projects tended to be of limited size and complexity. Over the last two decades, however, various attempts have been made to apply PD to large-scale information technology projects. Although studies have suggested that scaling the methodology to fit larger and more complex projects can be problematic, no attempts have been made to form a comprehensive overview of the associated challenges. To remedy this situation, a systematic literature review of relevant studies was conducted. From an initial 780 references retrieved from databases, 17 articles met the predefined criteria and were included in the review. The review resulted in the extraction of seven categories of challenges. A discussion of the identified challenges as a potential threat to the methodology\u2019s integrity is provided. The review offers a multifaceted understanding of the challenges related to the scaling of PD, which, given their nature, risk compromising core PD principles.",
+    "UID": "p1053",
+    "abstract": "Early participatory design (PD) projects tended to be of limited size and complexity. Over the last two decades, however, various attempts have been made to apply PD to large-scale information technology projects. Although studies have suggested that scaling the methodology to fit larger and more complex projects can be problematic, no attempts have been made to form a comprehensive overview of the associated challenges. To remedy this situation, a systematic literature review of relevant studies was conducted. From an initial 780 references retrieved from databases, 17 articles met the predefined criteria and were included in the review. The review resulted in the extraction of seven categories of challenges. A discussion of the identified challenges as a potential threat to the methodology\u2019s integrity is provided. The review offers a multifaceted understanding of the challenges related to the scaling of PD, which, given their nature, risk compromising core PD principles.",
+    "authors": [
+      "\u00d8ivind Klungseth Zahlsen",
+      "Elena Parmiggiani",
+      "Yngve Dahl"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "p1053",
+    "id": "p1053",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Challenges of Scaling Participatory Design: A Systematic Literature Review",
+    "type": "paper"
   },
   {
     "TLDR": "The purpose of this research is to examine how players engage in exploration in videogames. Open-world games are becoming increasingly popular, however, despite this growing popularity, empirical research into how players engage in these spaces is still emerging. By understanding how players will explore, designers can continue to create engaging open-world experiences. A diary study was conducted to examine participants\u2019 gameplay experiences while playing an open-world game. Twelve participants took part in the study by playing The Witcher 3 for two weeks. Through a thematic analysis of participants\u2019 diary entries, five activity themes were found \u2013 including exploring quests, items, combat, locations, and interactive environments. The results presented in this paper expands on the emerging research, and provides a deeper understanding of how players engage in exploration in videogames.",
@@ -234,221 +259,6 @@
       ""
     ],
     "title": "Exploration in Open-World Videogames: Environment, Items, Locations, Quests, and Combat in The Witcher 3",
-    "type": "paper"
-  },
-  {
-    "TLDR": "The market for (intelligent) support systems for nursing of an increasingly aging population has grown rapidly in recent years. Nevertheless, only a few of these systems have found their way into the care of the elderly. An important point, in addition to the lack of refinancing structures in the health care system, is the reservations of those in need of care and those caring for them. With our study, we tried to get an insight into the everyday care work and to better understand the attitudes of caregivers towards the use of technology in elderly care, especially with a focus on artificial intelligence. In our paper, we present the results from a contextual inquiry, interviews, and a workshop for this purpose.",
-    "UID": "lbw1024",
-    "abstract": "The market for (intelligent) support systems for nursing of an increasingly aging population has grown rapidly in recent years. Nevertheless, only a few of these systems have found their way into the care of the elderly. An important point, in addition to the lack of refinancing structures in the health care system, is the reservations of those in need of care and those caring for them. With our study, we tried to get an insight into the everyday care work and to better understand the attitudes of caregivers towards the use of technology in elderly care, especially with a focus on artificial intelligence. In our paper, we present the results from a contextual inquiry, interviews, and a workshop for this purpose.",
-    "authors": [
-      "Julia Hermann",
-      "Aiden Danny M\u00e4der",
-      "Ann-Kathrin Kubullek",
-      "Celine-Chiara Hey",
-      "Ayseg\u00fcl Dogang\u00fcn"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "lbw1024",
-    "id": "lbw1024",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Intelligent Systems in Elderly Care: The Caregivers perspective",
-    "type": "lbw"
-  },
-  {
-    "TLDR": "Previous Participatory design (PD) and HCI work have discussed the outcomes of research and design projects, their processes, technology innovations, methods, and users. Researchers have also examined the phases of collaborative research projects, including the \u2018before\u2019, \u2018during\u2019 and \u2018after\u2019 stages. There are however substantially more papers describing aspects of participation and collaboration in the during and after stages of a design research project compared with papers discussing collaborative activities before the formal project starts, during the pre-project activities where a project is negotiated, and its finances secured. This paper uses two municipal co-design research projects to explore participatory and collaborative processes as they unfolded before the actual projects started. By mainly considering the before-stage of these projects, this paper sheds light on a less studied aspect of many co-design projects, and research projects in general \u2013 how they came into being and the role of participation in designing the project-to-be.",
-    "UID": "p1073",
-    "abstract": "Previous Participatory design (PD) and HCI work have discussed the outcomes of research and design projects, their processes, technology innovations, methods, and users. Researchers have also examined the phases of collaborative research projects, including the \u2018before\u2019, \u2018during\u2019 and \u2018after\u2019 stages. There are however substantially more papers describing aspects of participation and collaboration in the during and after stages of a design research project compared with papers discussing collaborative activities before the formal project starts, during the pre-project activities where a project is negotiated, and its finances secured. This paper uses two municipal co-design research projects to explore participatory and collaborative processes as they unfolded before the actual projects started. By mainly considering the before-stage of these projects, this paper sheds light on a less studied aspect of many co-design projects, and research projects in general \u2013 how they came into being and the role of participation in designing the project-to-be.",
-    "authors": [
-      "Erik Gr\u00f6nvall",
-      "Stefan Lundberg"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1073",
-    "id": "p1073",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Exploring participatory pre-project processes: Making research work in municipality organizations",
-    "type": "paper"
-  },
-  {
-    "TLDR": "This paper investigates the impact of visualizing the risk of encountering potential accessibility barriers on the route planning behavior of pedestrians with mobility impairments. Using a prototype system, we explored the relationship between the risk of facing possible accessibility barriers and the navigation planning behavior of the mobility impaired users. We found that mobility impaired users\u2019 had a very strong inclination towards longer but accessible barrier-free routes instead of shorter potentially inaccessible routes (being willing to travel over 900 minutes to avoid barriers), suggesting a degree of risk aversion that goes beyond the literature. However, we have also observed users\u2019 varying risk attitudes towards obstacles based on the type of impairments, mobility aids, and individual perceptions and mobility preferences. Our investigation also underscored the importance of presenting risk information, which is currently overlooked in accessible navigation systems.",
-    "UID": "lbw1017",
-    "abstract": "This paper investigates the impact of visualizing the risk of encountering potential accessibility barriers on the route planning behavior of pedestrians with mobility impairments. Using a prototype system, we explored the relationship between the risk of facing possible accessibility barriers and the navigation planning behavior of the mobility impaired users. We found that mobility impaired users\u2019 had a very strong inclination towards longer but accessible barrier-free routes instead of shorter potentially inaccessible routes (being willing to travel over 900 minutes to avoid barriers), suggesting a degree of risk aversion that goes beyond the literature. However, we have also observed users\u2019 varying risk attitudes towards obstacles based on the type of impairments, mobility aids, and individual perceptions and mobility preferences. Our investigation also underscored the importance of presenting risk information, which is currently overlooked in accessible navigation systems.",
-    "authors": [
-      "Sadia Azmin Anisha",
-      "Reuben Kirkham"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "lbw1017",
-    "id": "lbw1017",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Investigating User Risk Attitudes in Navigation Systems to Support People with Mobility Impairments",
-    "type": "lbw"
-  },
-  {
-    "TLDR": "Against a backdrop of algorithms that disempower, dehumanise, disenfranchise and discriminate, there are increasing calls to centre the human in AI development processes and to humanise AI development in practice; centring dignity in AI development could provide a way forward. Despite the inclusion of dignity in many Artificial Intelligence (AI) ethics frameworks, like many other AI ethics principles, there is little operational understanding of what dignity can look like in practice when it comes to the development of algorithms. Drawing on cybernetics and a model of dignity developed in the field of international conflict resolution, this paper presents our work-in-progress tool - the Dignity Lens - for considering dignity throughout the AI development lifecycle, and practitioner reflections from using the tool. This work is an initial step towards articulating what dignity-centred AI development could look like in practice, assisting practitioners designing and developing algorithms to actively consider dignity.",
-    "UID": "lbw1020",
-    "abstract": "Against a backdrop of algorithms that disempower, dehumanise, disenfranchise and discriminate, there are increasing calls to centre the human in AI development processes and to humanise AI development in practice; centring dignity in AI development could provide a way forward. Despite the inclusion of dignity in many Artificial Intelligence (AI) ethics frameworks, like many other AI ethics principles, there is little operational understanding of what dignity can look like in practice when it comes to the development of algorithms. Drawing on cybernetics and a model of dignity developed in the field of international conflict resolution, this paper presents our work-in-progress tool - the Dignity Lens - for considering dignity throughout the AI development lifecycle, and practitioner reflections from using the tool. This work is an initial step towards articulating what dignity-centred AI development could look like in practice, assisting practitioners designing and developing algorithms to actively consider dignity.",
-    "authors": [
-      "Lorenn P Ruster",
-      "Paola Oliva-Altamirano",
-      "Katherine A Daniell"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "lbw1020",
-    "id": "lbw1020",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Centring dignity in algorithm development: testing a Dignity Lens",
-    "type": "lbw"
-  },
-  {
-    "TLDR": "This paper reviewed 66 commercial digital toys for young children\u2019s (3 to 5 years old) active play, aiming to explore their features, affordances, and play activities they facilitate. Results show active play is invited predominantly through physical affordances. Digital features can act as prompts, provide feedback, and engage attention. For HCI researchers this paper contributes insights into gaps and design opportunities: 1) many digital toys target broader age groups, and more work is needed to consider young children\u2019s developmental abilities and interests in the design; 2) many digital toys do not elicit direct physical/digital responses from children\u2019s physical and embodied inputs; and 3) future research can design play sequences through providing age-appropriate affordances, prompts, and feedback that encourage active play, without restricting children\u2019s imagination and free play. The outcomes of this study can inform the design of new digital toys for children\u2019s active play, to benefit their motor skills development.",
-    "UID": "p1047",
-    "abstract": "This paper reviewed 66 commercial digital toys for young children\u2019s (3 to 5 years old) active play, aiming to explore their features, affordances, and play activities they facilitate. Results show active play is invited predominantly through physical affordances. Digital features can act as prompts, provide feedback, and engage attention. For HCI researchers this paper contributes insights into gaps and design opportunities: 1) many digital toys target broader age groups, and more work is needed to consider young children\u2019s developmental abilities and interests in the design; 2) many digital toys do not elicit direct physical/digital responses from children\u2019s physical and embodied inputs; and 3) future research can design play sequences through providing age-appropriate affordances, prompts, and feedback that encourage active play, without restricting children\u2019s imagination and free play. The outcomes of this study can inform the design of new digital toys for children\u2019s active play, to benefit their motor skills development.",
-    "authors": [
-      "Yuehao Wang",
-      "Nicole E M Vickery",
-      "Dannielle Tarlinton",
-      "Bernd Ploderer",
-      "Linda Knight",
-      "Alethea Blackler",
-      "Peta Wyeth"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1047",
-    "id": "p1047",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Exploring the Affordances of Digital Toys for Young Children's Active Play",
-    "type": "paper"
-  },
-  {
-    "TLDR": "In this paper we report on co-design with people with a lived experience of stroke and their caregivers as part of an ongoing mobile health project to provide better support in the transition from hospital to home. This project was situated in the context of a publicly funded healthcare service in Australia. Our co-design approach involved creating collages and sharing of personal experiences to reflect on support and information received. We focus on the collage and the narrative account of a young woman that illustrates the experiences of living with stroke during this transition and \u201cinfrastructuring work\u201d to address gaps in information, services, and support. These gaps did not appear within the healthcare service, but rather in the transition between the healthcare service and home, and also in the transition back to work. Based on these insights, we discuss the design directions for a mobile health prototype to better tailor information and to provide timely support.",
-    "UID": "lbw1008",
-    "abstract": "In this paper we report on co-design with people with a lived experience of stroke and their caregivers as part of an ongoing mobile health project to provide better support in the transition from hospital to home. This project was situated in the context of a publicly funded healthcare service in Australia. Our co-design approach involved creating collages and sharing of personal experiences to reflect on support and information received. We focus on the collage and the narrative account of a young woman that illustrates the experiences of living with stroke during this transition and \u201cinfrastructuring work\u201d to address gaps in information, services, and support. These gaps did not appear within the healthcare service, but rather in the transition between the healthcare service and home, and also in the transition back to work. Based on these insights, we discuss the design directions for a mobile health prototype to better tailor information and to provide timely support.",
-    "authors": [
-      "Bernd Ploderer",
-      "Jennifer Muller",
-      "Matthew Busato",
-      "Amina Tariq",
-      "Kevin Clark",
-      "Theresa Green"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "lbw1008",
-    "id": "lbw1008",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Co-Design with People Who Have Had a Stroke to Better Understand the Transition from Hospital to Home: A Narrative Account",
-    "type": "lbw"
-  },
-  {
-    "TLDR": "Most organisations are now constantly undergoing transformation programs, but consensus is that roughly two-thirds of them still underperform. The financial and human cost of each failure is untenable. It doesn\u2019t have to be this way. EY and the University of Oxford\u2019s Sa\u00efd Business School conducted research to help demystify transformation and understand the key factors that truly make a difference between failure and success. We found that treating change as a mere workstream and not addressing the human factors as a top priority is a key indicator of underperformance. Our predictive analytics identified six drivers of human behaviour that, when invested in appropriately, can increase the likelihood of transformation success by more than two-and-a-half times. This presentation will discuss the research insights for you to consider when you are planning your next transformation.  ",
-    "UID": "ind01",
-    "abstract": "Most organisations are now constantly undergoing transformation programs, but consensus is that roughly two-thirds of them still underperform. The financial and human cost of each failure is untenable. It doesn\u2019t have to be this way. EY and the University of Oxford\u2019s Sa\u00efd Business School conducted research to help demystify transformation and understand the key factors that truly make a difference between failure and success. We found that treating change as a mere workstream and not addressing the human factors as a top priority is a key indicator of underperformance. Our predictive analytics identified six drivers of human behaviour that, when invested in appropriately, can increase the likelihood of transformation success by more than two-and-a-half times. This presentation will discuss the research insights for you to consider when you are planning your next transformation.  ",
-    "authors": [
-      "Vanessa Domaschenz"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "ind01",
-    "id": "ind01",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Putting humans at the centre in the future of Work",
-    "type": "industry"
-  },
-  {
-    "TLDR": "Virtual reality (VR) can offer many advantages as an adjunct of care when end-user involvement and practical integration in clinical workflows are considered from the start. This paper describes open innovation approaches that can help the integration and sharing of knowledge between multiple stakeholder groups, creating a platform for meaningful engagement towards the design and integration of VR technology as a routine part of the patient care pathway. This paper presents two cases of VR design and use on a large Australian health precinct. Through the two cases, this paper addresses the question: how can open innovation approaches facilitate meaningful stakeholder engagement for VR design in healthcare? Four portable principles are identified that summarise key learnings and may contribute to open innovation approaches for the design of VR for health services and human computer interaction practitioners engaging stakeholders at the ecosystem, health service, hospital department and patient level.",
-    "UID": "p1039",
-    "abstract": "Virtual reality (VR) can offer many advantages as an adjunct of care when end-user involvement and practical integration in clinical workflows are considered from the start. This paper describes open innovation approaches that can help the integration and sharing of knowledge between multiple stakeholder groups, creating a platform for meaningful engagement towards the design and integration of VR technology as a routine part of the patient care pathway. This paper presents two cases of VR design and use on a large Australian health precinct. Through the two cases, this paper addresses the question: how can open innovation approaches facilitate meaningful stakeholder engagement for VR design in healthcare? Four portable principles are identified that summarise key learnings and may contribute to open innovation approaches for the design of VR for health services and human computer interaction practitioners engaging stakeholders at the ecosystem, health service, hospital department and patient level.",
-    "authors": [
-      "Mathilde R Desselle",
-      "Andrea McKittrick",
-      "jason brown brown",
-      "Marianella Ivonne Chamorro-Koc",
-      "Glenda Amayo Caldwell"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1039",
-    "id": "p1039",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Open innovation voices and choices: case studies of designing interactive virtual reality experiences in Australian public hospitals",
     "type": "paper"
   },
   {
@@ -478,6 +288,31 @@
     "type": "paper"
   },
   {
+    "TLDR": "The embodiment of Artificial Intelligence (AI) in everyday use products is raising challenges and opportunities for HCI and design research, such as human understandings of AI\u2019s functions and states, passing back and forth of control, AI ethics, and user experi-ence, among others. There has been progress in those areas, such as works on explainable AI (XAI); fairness, accountability, and transparency (FAccT); human-centered AI; and the development of guidelines for Human-AI interaction design. Similarly, the in-terest in studying interaction modalities and their contributions to understandable and transparent AI has been also growing. How-ever, the tangible and embodied modality of interaction and more broadly studies of the forms of such everyday use products are relatively underexplored. This paper builds upon a larger project on designing graspable AI and it introduces a series of concept cards that aim to aid design researchers\u2019 creative exploration of tangible and understandable AI. We conducted a user study in two parts of online sessions and semi-structured interviews and found out that to envision physicality and tangible interaction with AI felt challenging and \u201ctoo abstract\u201d. Even so, the act of creative exploration of that space not only supported our participants to gain new design perspectives of AI, but also supported them to go beyond anthropomorphic forms of AI.",
+    "UID": "lbw1045",
+    "abstract": "The embodiment of Artificial Intelligence (AI) in everyday use products is raising challenges and opportunities for HCI and design research, such as human understandings of AI\u2019s functions and states, passing back and forth of control, AI ethics, and user experi-ence, among others. There has been progress in those areas, such as works on explainable AI (XAI); fairness, accountability, and transparency (FAccT); human-centered AI; and the development of guidelines for Human-AI interaction design. Similarly, the in-terest in studying interaction modalities and their contributions to understandable and transparent AI has been also growing. How-ever, the tangible and embodied modality of interaction and more broadly studies of the forms of such everyday use products are relatively underexplored. This paper builds upon a larger project on designing graspable AI and it introduces a series of concept cards that aim to aid design researchers\u2019 creative exploration of tangible and understandable AI. We conducted a user study in two parts of online sessions and semi-structured interviews and found out that to envision physicality and tangible interaction with AI felt challenging and \u201ctoo abstract\u201d. Even so, the act of creative exploration of that space not only supported our participants to gain new design perspectives of AI, but also supported them to go beyond anthropomorphic forms of AI.",
+    "authors": [
+      "Maliheh Ghajargar",
+      "Jeffrey Bardzell"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "lbw1045",
+    "id": "lbw1045",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Making AI Understandable by Making it Tangible: Exploring the Design Space with Ten Concept Cards",
+    "type": "lbw"
+  },
+  {
     "TLDR": "Home is a place to live and an environment to support and enhance our psychological well-being. Factors such as furniture selection and arrangements can contribute to more harmonized and balanced home environments. Augmented reality (AR) tools have recently gained attention in home interior design due to their competencies and potential in improving and envisioning the experience of living at home. Following Feng Shui principles and iterative prototyping processes, we designed a high-fidelity AR prototype to guide users in making informed decisions about furniture arrangements at home. We then recruited nine participants to evaluate the tool\u2019s usability and usefulness. We discuss our preliminary findings on the benefit of the Feng Shui-supported AR design tool for users. We hope this research inspires future development of AR tools with embedded design recommendations for guiding users in advancing their home environments.",
     "UID": "lbw1018",
     "abstract": "Home is a place to live and an environment to support and enhance our psychological well-being. Factors such as furniture selection and arrangements can contribute to more harmonized and balanced home environments. Augmented reality (AR) tools have recently gained attention in home interior design due to their competencies and potential in improving and envisioning the experience of living at home. Following Feng Shui principles and iterative prototyping processes, we designed a high-fidelity AR prototype to guide users in making informed decisions about furniture arrangements at home. We then recruited nine participants to evaluate the tool\u2019s usability and usefulness. We discuss our preliminary findings on the benefit of the Feng Shui-supported AR design tool for users. We hope this research inspires future development of AR tools with embedded design recommendations for guiding users in advancing their home environments.",
@@ -500,138 +335,6 @@
       ""
     ],
     "title": "An Augmented Reality Design Tool to Guide Furniture Arrangements at Home",
-    "type": "lbw"
-  },
-  {
-    "TLDR": "We briefly discuss Canva the company and its mission, then introduce our user experience framework for search and recommendations. Our goal is that Canva customers participate in a conversation with the product, with their visual communication intent acting as the locus of that conversation. We describe the six aspects of the framework, drawing on examples throughout the creative process where our current search and recommendations technologies demonstrate each aspect. We conclude with some of the biggest open challenges that we are facing.\u202f\u202f ",
-    "UID": "ind05",
-    "abstract": "We briefly discuss Canva the company and its mission, then introduce our user experience framework for search and recommendations. Our goal is that Canva customers participate in a conversation with the product, with their visual communication intent acting as the locus of that conversation. We describe the six aspects of the framework, drawing on examples throughout the creative process where our current search and recommendations technologies demonstrate each aspect. We conclude with some of the biggest open challenges that we are facing.\u202f\u202f ",
-    "authors": [
-      "Peter Bailey",
-      "CJ Jones"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "ind05",
-    "id": "ind05",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Communication by Design: A Conversational Approach to Search & Recommendations at Canva",
-    "type": "industry"
-  },
-  {
-    "TLDR": "We report on results from a pilot study that used Augmented Reality (AR) to explore gender and power dynamics in STEM Higher Education. The so called \u201cleaky pipeline\u201d, affecting retention and recruitment of women in higher education fields of Science, Technology, Engineering and Mathematics (STEM) is a well-documented issue. We conducted a co-design workshop with six academics, asking to reflect on an AR storyboard prototype, discuss aspects of personal and professional identity, and imagine alternative endings for the storyboard. The storyboard depicted a hypothetical workplace conflict involving an episode of gender-based discrimination. Participants collaboratively imagined possible responses to the situation depicted using a combination of paper-prototyping and open discussions. The found themes were that 1) reflecting on personal identities can drive empathy and understanding for others; 2) co-creating the AR experiences was an engaging way of scaff\u00ac\u00acolding these reflections, and 3) the co-created AR prototypes offered constructive and community-centred approaches to supporting diversity. We contribute a preliminary format for an identity-based AR co-creation workshop and opportunities for applying AR to support dialogue on gender and power dynamics.",
-    "UID": "p1020",
-    "abstract": "We report on results from a pilot study that used Augmented Reality (AR) to explore gender and power dynamics in STEM Higher Education. The so called \u201cleaky pipeline\u201d, affecting retention and recruitment of women in higher education fields of Science, Technology, Engineering and Mathematics (STEM) is a well-documented issue. We conducted a co-design workshop with six academics, asking to reflect on an AR storyboard prototype, discuss aspects of personal and professional identity, and imagine alternative endings for the storyboard. The storyboard depicted a hypothetical workplace conflict involving an episode of gender-based discrimination. Participants collaboratively imagined possible responses to the situation depicted using a combination of paper-prototyping and open discussions. The found themes were that 1) reflecting on personal identities can drive empathy and understanding for others; 2) co-creating the AR experiences was an engaging way of scaff\u00ac\u00acolding these reflections, and 3) the co-created AR prototypes offered constructive and community-centred approaches to supporting diversity. We contribute a preliminary format for an identity-based AR co-creation workshop and opportunities for applying AR to support dialogue on gender and power dynamics.",
-    "authors": [
-      "Nelli Holopainen",
-      "Alessandro Soro",
-      "Margot Brereton"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1020",
-    "id": "p1020",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Using Augmented Reality to Explore Gender and Power Dynamics in STEM Higher Education",
-    "type": "paper"
-  },
-  {
-    "TLDR": "Inclusion is about making sure that people of all backgrounds, abilities and perspectives not only have equal access, but also feel a sense of belonging in our place of work. When starting a new job, the onboarding experience is pivotal to making sure we demonstrate a culture of inclusion. \u202fCreating this experience is not just the right thing to do. In a world with increasingly complex problems to solve, welcoming different people with different voices to the table is critical to driving solutions.\u202fThis presentation will describe PwC's journey to identify and remove inherent bias in its onboarding process by challenging some of the time-honoured design practices of Experience Design. ",
-    "UID": "ind02",
-    "abstract": "Inclusion is about making sure that people of all backgrounds, abilities and perspectives not only have equal access, but also feel a sense of belonging in our place of work. When starting a new job, the onboarding experience is pivotal to making sure we demonstrate a culture of inclusion. \u202fCreating this experience is not just the right thing to do. In a world with increasingly complex problems to solve, welcoming different people with different voices to the table is critical to driving solutions.\u202fThis presentation will describe PwC's journey to identify and remove inherent bias in its onboarding process by challenging some of the time-honoured design practices of Experience Design. ",
-    "authors": [
-      "Simon Lillis "
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "ind02",
-    "id": "ind02",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "There is no such thing as an average user'. How designing for the extremes makes the world accessible to everyone",
-    "type": "industry"
-  },
-  {
-    "TLDR": "Confidence helps sustain people to use their mobile technology devices in daily life. However, there is little research that discusses how to build confidence among older adult users when starting to use technology and broadening their existing technology use. To understand older adults' confidence in technology use, we conducted an exploratory study over six months with ten participants in a residential care setting. We investigated the relationship between confidence, experience, and personal interest to use technology in their embracing of technology. Our findings show that confidence can be gained from positive experiences of use and that confidence helps with subsequent technology engagement. Positive experiences encourage further and broader experimentation with their own devices. Activities using technology to support personal interests provide great motivation for participants to expand the use of their mobile technology devices. We provide guidance on a facilitation process that is clear and step-wise to contribute to building confidence of users in residential care settings.",
-    "UID": "p1026",
-    "abstract": "Confidence helps sustain people to use their mobile technology devices in daily life. However, there is little research that discusses how to build confidence among older adult users when starting to use technology and broadening their existing technology use. To understand older adults' confidence in technology use, we conducted an exploratory study over six months with ten participants in a residential care setting. We investigated the relationship between confidence, experience, and personal interest to use technology in their embracing of technology. Our findings show that confidence can be gained from positive experiences of use and that confidence helps with subsequent technology engagement. Positive experiences encourage further and broader experimentation with their own devices. Activities using technology to support personal interests provide great motivation for participants to expand the use of their mobile technology devices. We provide guidance on a facilitation process that is clear and step-wise to contribute to building confidence of users in residential care settings.",
-    "authors": [
-      "Lan An",
-      "Diego Mu\u00f1oz",
-      "Sonja Pedell",
-      "Leon Sterling"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1026",
-    "id": "p1026",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Understanding Confidence of Older Adults for Embracing Mobile Technologies",
-    "type": "paper"
-  },
-  {
-    "TLDR": "Hospitals generate large amounts of administrative data from healthcare delivery. Much of this data is for summative quality and safety (Q&S) reporting rather than formative professional learning. Little is known about what clinicians want to learn about their practice from this data and how they want to see that information. To address this, we designed a need finding study, run at a large metropolitan hospital. This paper describes the study design, based on semi-structured interviews which used four static visualisations prototypes. Our participants, nine specialists valued the re-purposing of clinical indicators (CIs) for professional learning. They particularly valued peer comparison and trends for benchmarking and highlighted the need for risk-adjusted results that are carefully selected to ensure fair and meaningful comparisons. Our contributions are: (1) insights and needs from participant free comments, (2) comments around our four visualisation prototypes, and (3) design recommendations when presenting CIs for professional learning.",
-    "UID": "lbw1035",
-    "abstract": "Hospitals generate large amounts of administrative data from healthcare delivery. Much of this data is for summative quality and safety (Q&S) reporting rather than formative professional learning. Little is known about what clinicians want to learn about their practice from this data and how they want to see that information. To address this, we designed a need finding study, run at a large metropolitan hospital. This paper describes the study design, based on semi-structured interviews which used four static visualisations prototypes. Our participants, nine specialists valued the re-purposing of clinical indicators (CIs) for professional learning. They particularly valued peer comparison and trends for benchmarking and highlighted the need for risk-adjusted results that are carefully selected to ensure fair and meaningful comparisons. Our contributions are: (1) insights and needs from participant free comments, (2) comments around our four visualisation prototypes, and (3) design recommendations when presenting CIs for professional learning.",
-    "authors": [
-      "Bernard Bucalon",
-      "Chris Williams",
-      "Jeanette C Conley",
-      "David Rankin",
-      "Martin Veysey",
-      "Tim Shaw",
-      "Judy Kay"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "lbw1035",
-    "id": "lbw1035",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "You can't improve until you measure: A Need Finding Study on Repurposed Clinical Indicators for Professional Learning",
     "type": "lbw"
   },
   {
@@ -660,18 +363,18 @@
     "type": "paper"
   },
   {
-    "TLDR": "This paper presents a user evaluation of seven sonification methods in two-dimensional (2D) manual micro-guidance tasks, which can be used as building blocks for spatialized audio in Mixed and Virtual Reality to model next-generation guidance aids for the Blind and Visually Impaired (BVI). The methods were tested in comparable interactive sonifications of 2D positions in a series of hand-navigation assessments with BVI and blindfolded sighted users, to validate the different approaches in environments without any visual feedback. Results highlighted that alternation and spatiality can be useful resources in sonified guidance, and that users accustomed to faster-than-regular audio speed replay tend to have more precise performances, while musical literacy only had a performance effect on methods highly dependent on aural skills. Ultimately, this work corroborates the notion that sonification may help BVI users perform better in day-to-day manual micro-guidance tasks such as retrieving items from a pantry, handling kitchen appliances, and properly discarding trash.",
-    "UID": "p1046",
-    "abstract": "This paper presents a user evaluation of seven sonification methods in two-dimensional (2D) manual micro-guidance tasks, which can be used as building blocks for spatialized audio in Mixed and Virtual Reality to model next-generation guidance aids for the Blind and Visually Impaired (BVI). The methods were tested in comparable interactive sonifications of 2D positions in a series of hand-navigation assessments with BVI and blindfolded sighted users, to validate the different approaches in environments without any visual feedback. Results highlighted that alternation and spatiality can be useful resources in sonified guidance, and that users accustomed to faster-than-regular audio speed replay tend to have more precise performances, while musical literacy only had a performance effect on methods highly dependent on aural skills. Ultimately, this work corroborates the notion that sonification may help BVI users perform better in day-to-day manual micro-guidance tasks such as retrieving items from a pantry, handling kitchen appliances, and properly discarding trash.",
+    "TLDR": "Design probes, an essential research tool during the COVID-19 pandemic, are ancillary \"personal\" data gathering tools that enable researchers to enter the private world of research participants. This paper compares two case studies of design probes used during the pandemic for radical placemaking in hybrid digital-physical environments: Digital Art Summer School in Northrock, Ireland, with eleven participants, and Chatty Bench Project in Brisbane, Australia, with sixteen participants. The paper further expands on the design methodology of the probes and their deployment during the online radical placemaking projects. From the participant responses to the probes' activities and interviews, both studies demonstrated that the probes fostered placemaking in digital environments during the pandemic. The paper concludes with three lessons on the potential of probes as a critical research instrument to enable creativity, build social capital and create bonds between people and places during uncertain and turbulent times.",
+    "UID": "p1027",
+    "abstract": "Design probes, an essential research tool during the COVID-19 pandemic, are ancillary \"personal\" data gathering tools that enable researchers to enter the private world of research participants. This paper compares two case studies of design probes used during the pandemic for radical placemaking in hybrid digital-physical environments: Digital Art Summer School in Northrock, Ireland, with eleven participants, and Chatty Bench Project in Brisbane, Australia, with sixteen participants. The paper further expands on the design methodology of the probes and their deployment during the online radical placemaking projects. From the participant responses to the probes' activities and interviews, both studies demonstrated that the probes fostered placemaking in digital environments during the pandemic. The paper concludes with three lessons on the potential of probes as a critical research instrument to enable creativity, build social capital and create bonds between people and places during uncertain and turbulent times.",
     "authors": [
-      "Renan L Martins Guarese",
-      "Fabio Zambetta",
-      "Ron van Schyndel"
+      "Geertje Slingerland",
+      "Kavita Gonsalves",
+      "Maria Murray"
     ],
     "bio": "",
     "code_link": "",
-    "forum": "p1046",
-    "id": "p1046",
+    "forum": "p1027",
+    "id": "p1027",
     "image": "",
     "keywords": [
       ""
@@ -682,109 +385,7 @@
     "sessions": [
       ""
     ],
-    "title": "Evaluating micro-guidance sonification methods in manual tasks for Blind and Visually Impaired people",
-    "type": "paper"
-  },
-  {
-    "TLDR": "Workplace training in design methods and frameworks is a consistent area of practice for many designers. While many large organisations find increasing value in design they also struggle to recruit designers. Training existing staff bridges that gap. This presentation examines the questions people asked in more than 120 hours of design and design thinking training delivered to professionals in a large organisation in October and November 2022. Implications for design training, for explaining design and for design practice as discussed. ",
-    "UID": "ind03",
-    "abstract": "Workplace training in design methods and frameworks is a consistent area of practice for many designers. While many large organisations find increasing value in design they also struggle to recruit designers. Training existing staff bridges that gap. This presentation examines the questions people asked in more than 120 hours of design and design thinking training delivered to professionals in a large organisation in October and November 2022. Implications for design training, for explaining design and for design practice as discussed. ",
-    "authors": [
-      "Ben Krall"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "ind03",
-    "id": "ind03",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Burning questions: What professionals ask in design training",
-    "type": "industry"
-  },
-  {
-    "TLDR": "Understanding and relating with nature is increasingly important in design as we aim to address the risks posed by anthropogenic climate change. Design methods are often human-centered and provide us with opportunities to reshape existing methods to foreground nature. Inspired by phenology, the study of cyclic biological events, this paper presents phenology probes: a method to study the multifaceted relations between humans and nature and how they are manifested in a particular time and place. Our phenology probe kit consisted of 3 activities: spatial mapping, phenology snapshotting, and phenology wheels. In deploying these probes with 20 gardeners we identified key relations with nature: Personal historic, multisensory, emotional, global, and climate activist relations. We discuss how these relations help to bring nonhuman stakeholders and cyclic biological events to the design process and directions for future work to further enhance the agency of nonhumans in interaction design.",
-    "UID": "p1061",
-    "abstract": "Understanding and relating with nature is increasingly important in design as we aim to address the risks posed by anthropogenic climate change. Design methods are often human-centered and provide us with opportunities to reshape existing methods to foreground nature. Inspired by phenology, the study of cyclic biological events, this paper presents phenology probes: a method to study the multifaceted relations between humans and nature and how they are manifested in a particular time and place. Our phenology probe kit consisted of 3 activities: spatial mapping, phenology snapshotting, and phenology wheels. In deploying these probes with 20 gardeners we identified key relations with nature: Personal historic, multisensory, emotional, global, and climate activist relations. We discuss how these relations help to bring nonhuman stakeholders and cyclic biological events to the design process and directions for future work to further enhance the agency of nonhumans in interaction design.",
-    "authors": [
-      "Shannon Rodgers",
-      "Bernd Ploderer",
-      "Kellie Vella",
-      "Margot Brereton"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1061",
-    "id": "p1061",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Phenology Probes: Exploring Human-Nature Relations for Designing Sustainable Futures",
-    "type": "paper"
-  },
-  {
-    "TLDR": "Many organisations now have up to 5 generations\u00a0(Traditionalists to Generation Z) participating in the workplace.  Each generation has differing\u00a0expectations, points of view and creative perspectives.  How can Human Centred Design and Design Thinking Practices help give everyone a voice and for that voice to be heard?  Cathy will discuss various examples where Design Thinking has been applied to allow all the voices across her team and across the organisation to be Creatively Connected.",
-    "UID": "ind06",
-    "abstract": "Many organisations now have up to 5 generations\u00a0(Traditionalists to Generation Z) participating in the workplace.  Each generation has differing\u00a0expectations, points of view and creative perspectives.  How can Human Centred Design and Design Thinking Practices help give everyone a voice and for that voice to be heard?  Cathy will discuss various examples where Design Thinking has been applied to allow all the voices across her team and across the organisation to be Creatively Connected.",
-    "authors": [
-      "Cathy McGurk"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "ind06",
-    "id": "ind06",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Giving Everyone a Voice",
-    "type": "industry"
-  },
-  {
-    "TLDR": "Today touchscreens are one of the most common input devices for everyday ubiquitous interaction. Yet, capacitive touchscreens are limited in expressiveness; thus, a large body of work has focused on extending the input capabilities of touchscreens. One promising approach is to use index finger orientation; however, this requires a two-handed interaction and poses ergonomic constraints. We propose using the thumb's pitch as an additional input dimension to counteract these limitations, enabling one-handed interaction scenarios. Our deep convolutional neural network detecting the thumb's pitch is trained on more than 230,000 ground truth images recorded using a motion tracking system. We highlight the potential of ThumbPitch by proposing several use cases that exploit the higher expressiveness, especially for one-handed scenarios. We tested three use cases in a validation study and validated our model. Our model achieved a mean error of only 11.9\u00b0.",
-    "UID": "p1041",
-    "abstract": "Today touchscreens are one of the most common input devices for everyday ubiquitous interaction. Yet, capacitive touchscreens are limited in expressiveness; thus, a large body of work has focused on extending the input capabilities of touchscreens. One promising approach is to use index finger orientation; however, this requires a two-handed interaction and poses ergonomic constraints. We propose using the thumb's pitch as an additional input dimension to counteract these limitations, enabling one-handed interaction scenarios. Our deep convolutional neural network detecting the thumb's pitch is trained on more than 230,000 ground truth images recorded using a motion tracking system. We highlight the potential of ThumbPitch by proposing several use cases that exploit the higher expressiveness, especially for one-handed scenarios. We tested three use cases in a validation study and validated our model. Our model achieved a mean error of only 11.9\u00b0.",
-    "authors": [
-      "Jamie Ullerich",
-      "Maximiliane Windl",
-      "Andreas Bulling",
-      "Sven Mayer"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1041",
-    "id": "p1041",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "ThumbPitch: Enriching Thumb Interaction on Mobile Touchscreens using Deep Learning",
+    "title": "Design Probes in a Pandemic: Two Tales of Hybrid Radical Placemaking from Ireland and Australia",
     "type": "paper"
   },
   {
@@ -842,17 +443,16 @@
     "type": "lbw"
   },
   {
-    "TLDR": "Minecraft has given rise to diverse gameplay, including public servers that provide survival gameplay combined with Massively Multiplayer Online Role-Playing Game elements. In these servers, gameplay includes many players fighting mobs (non-player enemies) together. However, it often happens that some players are experienced, while others are not. This leads to a problem where some players enjoy the level of challenge and consequently the game, while others can feel bored or discouraged. This paper proposes an approach to Dynamic Difficulty Adjustment (DDA) that adjusts mobs in multiplayer Minecraft so that the difficulty level accommodates all players involved. We present a new Multiplayer Minecraft DDA Framework, a game design to populate our framework, and a user evaluation study to test our framework. Our work contributes to understanding DDA in multiplayer contexts and to creating better multiplayer experiences for Minecraft and other multiplayer games.",
-    "UID": "lbw1023",
-    "abstract": "Minecraft has given rise to diverse gameplay, including public servers that provide survival gameplay combined with Massively Multiplayer Online Role-Playing Game elements. In these servers, gameplay includes many players fighting mobs (non-player enemies) together. However, it often happens that some players are experienced, while others are not. This leads to a problem where some players enjoy the level of challenge and consequently the game, while others can feel bored or discouraged. This paper proposes an approach to Dynamic Difficulty Adjustment (DDA) that adjusts mobs in multiplayer Minecraft so that the difficulty level accommodates all players involved. We present a new Multiplayer Minecraft DDA Framework, a game design to populate our framework, and a user evaluation study to test our framework. Our work contributes to understanding DDA in multiplayer contexts and to creating better multiplayer experiences for Minecraft and other multiplayer games.",
+    "TLDR": "Authoring of AR instructions is typically a time-consuming manual process that requires a user to use a desktop GUI interface or AR device for placing and animating 3D content. This is problematic because manual authoring does not scale to the myriad of product variations of many manufacturing companies. However, automatic authoring is possible, since companies already store data about their products in the form of a bill of materials and bill of processes. \nIn our paper, we present authAR, a novel desktop GUI based tool that combines bill of materials with geometric data of a factory workspace to automatically author AR picking instructions on racks and boxes. In addition, authAR uses this data to propose spatial layouts of racks and boxes according to a customizable optimization algorithm.\nWe conducted a preliminary expert review with four manufacturing workers. Our study showed that authAR has many potentials and was applicable to a real use case at the manufacturing company, Velux. The study contributes new knowledge to the field of AR authoring by including the views of domain experts and using real production data. Suggestions for improvements and new features as well as plans for a more thorough study are presented as future work.",
+    "UID": "lbw1030",
+    "abstract": "Authoring of AR instructions is typically a time-consuming manual process that requires a user to use a desktop GUI interface or AR device for placing and animating 3D content. This is problematic because manual authoring does not scale to the myriad of product variations of many manufacturing companies. However, automatic authoring is possible, since companies already store data about their products in the form of a bill of materials and bill of processes. \nIn our paper, we present authAR, a novel desktop GUI based tool that combines bill of materials with geometric data of a factory workspace to automatically author AR picking instructions on racks and boxes. In addition, authAR uses this data to propose spatial layouts of racks and boxes according to a customizable optimization algorithm.\nWe conducted a preliminary expert review with four manufacturing workers. Our study showed that authAR has many potentials and was applicable to a real use case at the manufacturing company, Velux. The study contributes new knowledge to the field of AR authoring by including the views of domain experts and using real production data. Suggestions for improvements and new features as well as plans for a more thorough study are presented as future work.",
     "authors": [
-      "Zheyin Zeng",
-      "Penny Sweetser"
+      "Troels Ammitsb\u00f8l Rasmussen"
     ],
     "bio": "",
     "code_link": "",
-    "forum": "lbw1023",
-    "id": "lbw1023",
+    "forum": "lbw1030",
+    "id": "lbw1030",
     "image": "",
     "keywords": [
       ""
@@ -863,160 +463,8 @@
     "sessions": [
       ""
     ],
-    "title": "Dynamic Difficulty Adjustment in a Multiplayer Minecraft Server",
+    "title": "authAR - Automatic Authoring of Picking and Layout Optimization Instructions",
     "type": "lbw"
-  },
-  {
-    "TLDR": "Design probes, an essential research tool during the COVID-19 pandemic, are ancillary \"personal\" data gathering tools that enable researchers to enter the private world of research participants. This paper compares two case studies of design probes used during the pandemic for radical placemaking in hybrid digital-physical environments: Digital Art Summer School in Northrock, Ireland, with eleven participants, and Chatty Bench Project in Brisbane, Australia, with sixteen participants. The paper further expands on the design methodology of the probes and their deployment during the online radical placemaking projects. From the participant responses to the probes' activities and interviews, both studies demonstrated that the probes fostered placemaking in digital environments during the pandemic. The paper concludes with three lessons on the potential of probes as a critical research instrument to enable creativity, build social capital and create bonds between people and places during uncertain and turbulent times.",
-    "UID": "p1027",
-    "abstract": "Design probes, an essential research tool during the COVID-19 pandemic, are ancillary \"personal\" data gathering tools that enable researchers to enter the private world of research participants. This paper compares two case studies of design probes used during the pandemic for radical placemaking in hybrid digital-physical environments: Digital Art Summer School in Northrock, Ireland, with eleven participants, and Chatty Bench Project in Brisbane, Australia, with sixteen participants. The paper further expands on the design methodology of the probes and their deployment during the online radical placemaking projects. From the participant responses to the probes' activities and interviews, both studies demonstrated that the probes fostered placemaking in digital environments during the pandemic. The paper concludes with three lessons on the potential of probes as a critical research instrument to enable creativity, build social capital and create bonds between people and places during uncertain and turbulent times.",
-    "authors": [
-      "Geertje Slingerland",
-      "Kavita Gonsalves",
-      "Maria Murray"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1027",
-    "id": "p1027",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Design Probes in a Pandemic: Two Tales of Hybrid Radical Placemaking from Ireland and Australia",
-    "type": "paper"
-  },
-  {
-    "TLDR": "Due to the increasing demand of higher productivity and safety in the shipping industry, container terminals are increasingly shifting from manually operated container cranes to remotely operated container cranes with semi-autonomous control. The shift from on-site crane operation to remote crane operation does not only affect how well crane operators could perform their work, but also how they experience their work. Eight crane operators, who worked with both manual container cranes and remote container cranes with semi-autonomous control, were interviewed to explore what kinds of experiences that they have as the results of operating container cranes with both operational modes. The results suggest that the location of the operators and the level of automation of the cranes positively and negatively affected the operators\u2019 experiences.",
-    "UID": "lbw1016",
-    "abstract": "Due to the increasing demand of higher productivity and safety in the shipping industry, container terminals are increasingly shifting from manually operated container cranes to remotely operated container cranes with semi-autonomous control. The shift from on-site crane operation to remote crane operation does not only affect how well crane operators could perform their work, but also how they experience their work. Eight crane operators, who worked with both manual container cranes and remote container cranes with semi-autonomous control, were interviewed to explore what kinds of experiences that they have as the results of operating container cranes with both operational modes. The results suggest that the location of the operators and the level of automation of the cranes positively and negatively affected the operators\u2019 experiences.",
-    "authors": [
-      "Taufik Akbar Sitompul"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "lbw1016",
-    "id": "lbw1016",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "The Impacts of Different Work Locations and Levels of Automation on Crane Operators' Experiences: A Study in a Container Terminal in Indonesia",
-    "type": "lbw"
-  },
-  {
-    "TLDR": "Shift planning plays a key role for the health and well-being of healthcare workers. It determines when they work and when they can take time off to recover or engage in social activities. Current computer-support in shift planning is typically designed from a managerial perspective and focuses on process efficiency, with the long-term goal of full automation. This implies automatic resolutions of emotionally charged scheduling conflicts. In the present study, we measured the effects of such a fully automated process on workers' well-being, fairness, and team spirit, and compared them with a more interactive process that directly involves workers in the decision-making. In our experimental online study (n = 94), we found positive effects of the more interactive process on all measures. Our findings indicate that full automation may not be desirable from the worker perspective. We close with concrete suggestions to design more worker-centered, hybrid shift planning systems by optimizing worker control, considering the worker experience, and embedding shift planning in the broader work context.",
-    "UID": "p1009",
-    "abstract": "Shift planning plays a key role for the health and well-being of healthcare workers. It determines when they work and when they can take time off to recover or engage in social activities. Current computer-support in shift planning is typically designed from a managerial perspective and focuses on process efficiency, with the long-term goal of full automation. This implies automatic resolutions of emotionally charged scheduling conflicts. In the present study, we measured the effects of such a fully automated process on workers' well-being, fairness, and team spirit, and compared them with a more interactive process that directly involves workers in the decision-making. In our experimental online study (n = 94), we found positive effects of the more interactive process on all measures. Our findings indicate that full automation may not be desirable from the worker perspective. We close with concrete suggestions to design more worker-centered, hybrid shift planning systems by optimizing worker control, considering the worker experience, and embedding shift planning in the broader work context.",
-    "authors": [
-      "Alarith Uhde",
-      "Matthias Laschke",
-      "Marc Hassenzahl"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1009",
-    "id": "p1009",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Experiential Benefits of Interactive Conflict Negotiation Practices in Computer-Supported Shift Planning",
-    "type": "paper"
-  },
-  {
-    "TLDR": "Human centred design is just the start. We need to take it a step further.\u202fSystemic racism is present within most applications and designs today\u2014not because we chose it, but it is the reality of the world we inherited and within which we operate. The system is working as designed\u2014and it is our responsibility to take action to design an equitable future in its place.\u202fIBM is committed to creating a culture of racial equity for developers and designers at our company and across the industry. We envision a culture where diversity is respected, celebrated, and people are able to bring their full selves to everything they do. We strive toward creating a design industry where people of all races, ethnicities, gender identities, religions, ages, abilities, orientations, social classes, and cultures are met with equity. Kylie will outline IBMs commitment to taking human design a step further. ",
-    "UID": "ind04",
-    "abstract": "Human centred design is just the start. We need to take it a step further.\u202fSystemic racism is present within most applications and designs today\u2014not because we chose it, but it is the reality of the world we inherited and within which we operate. The system is working as designed\u2014and it is our responsibility to take action to design an equitable future in its place.\u202fIBM is committed to creating a culture of racial equity for developers and designers at our company and across the industry. We envision a culture where diversity is respected, celebrated, and people are able to bring their full selves to everything they do. We strive toward creating a design industry where people of all races, ethnicities, gender identities, religions, ages, abilities, orientations, social classes, and cultures are met with equity. Kylie will outline IBMs commitment to taking human design a step further. ",
-    "authors": [
-      "Kylie Watson"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "ind04",
-    "id": "ind04",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Taking it a step further \u2013 racial equity in design and development",
-    "type": "industry"
-  },
-  {
-    "TLDR": "Many people with intellectual disabilities seek opportunities to develop their self-determination, personal development, interpersonal relationships, and well-being. Emerging technologies, such as augmented reality (AR), present an opportunity for new approaches to supporting inclusion and personal development. This paper presents a scoping review of seventeen studies in the past decade and discusses the benefits highlighted by the authors. Most studies conducted with people with intellectual disabilities have shown that AR performs a positive and effective role as an instructional or assistive tool in the areas of education, daily living, or health. AR provides an opportunity to help people acquire new knowledge (e.g., foreign language and numeracy), form new habits (e.g., teeth brushing technique), and experience environments inclusively (e.g., arrive in the classroom with the support of an AR navigation app). Hence, this paper provides a comprehensive overview of known useful aspects of AR technology in the support and inclusion of people.",
-    "UID": "lbw1036",
-    "abstract": "Many people with intellectual disabilities seek opportunities to develop their self-determination, personal development, interpersonal relationships, and well-being. Emerging technologies, such as augmented reality (AR), present an opportunity for new approaches to supporting inclusion and personal development. This paper presents a scoping review of seventeen studies in the past decade and discusses the benefits highlighted by the authors. Most studies conducted with people with intellectual disabilities have shown that AR performs a positive and effective role as an instructional or assistive tool in the areas of education, daily living, or health. AR provides an opportunity to help people acquire new knowledge (e.g., foreign language and numeracy), form new habits (e.g., teeth brushing technique), and experience environments inclusively (e.g., arrive in the classroom with the support of an AR navigation app). Hence, this paper provides a comprehensive overview of known useful aspects of AR technology in the support and inclusion of people.",
-    "authors": [
-      "Yuankun Zhu",
-      "Sirinthip Roomkham",
-      "Laurianne Sitbon"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "lbw1036",
-    "id": "lbw1036",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Augmented Reality as an Educational Tool and Assistive Technology for People with Intellectual Disabilities: Scoping Review",
-    "type": "lbw"
-  },
-  {
-    "TLDR": "Early participatory design (PD) projects tended to be of limited size and complexity. Over the last two decades, however, various attempts have been made to apply PD to large-scale information technology projects. Although studies have suggested that scaling the methodology to fit larger and more complex projects can be problematic, no attempts have been made to form a comprehensive overview of the associated challenges. To remedy this situation, a systematic literature review of relevant studies was conducted. From an initial 780 references retrieved from databases, 17 articles met the predefined criteria and were included in the review. The review resulted in the extraction of seven categories of challenges. A discussion of the identified challenges as a potential threat to the methodology\u2019s integrity is provided. The review offers a multifaceted understanding of the challenges related to the scaling of PD, which, given their nature, risk compromising core PD principles.",
-    "UID": "p1053",
-    "abstract": "Early participatory design (PD) projects tended to be of limited size and complexity. Over the last two decades, however, various attempts have been made to apply PD to large-scale information technology projects. Although studies have suggested that scaling the methodology to fit larger and more complex projects can be problematic, no attempts have been made to form a comprehensive overview of the associated challenges. To remedy this situation, a systematic literature review of relevant studies was conducted. From an initial 780 references retrieved from databases, 17 articles met the predefined criteria and were included in the review. The review resulted in the extraction of seven categories of challenges. A discussion of the identified challenges as a potential threat to the methodology\u2019s integrity is provided. The review offers a multifaceted understanding of the challenges related to the scaling of PD, which, given their nature, risk compromising core PD principles.",
-    "authors": [
-      "\u00d8ivind Klungseth Zahlsen",
-      "Elena Parmiggiani",
-      "Yngve Dahl"
-    ],
-    "bio": "",
-    "code_link": "",
-    "forum": "p1053",
-    "id": "p1053",
-    "image": "",
-    "keywords": [
-      ""
-    ],
-    "link": "",
-    "pdf_url": "",
-    "recs": [],
-    "sessions": [
-      ""
-    ],
-    "title": "Challenges of Scaling Participatory Design: A Systematic Literature Review",
-    "type": "paper"
   },
   {
     "TLDR": "Usability and design of serious game technologies have been widely investigated as academic interventions tools for children with autism. However, besides the technology, the sociocultural and institutional context also impacts the gameplay activities of children with autism as well as the external support provided by instructors. Therefore, this paper investigates i) the impact of sociocultural and institutional context over the engagement of children with autism with serious game technologies, ii) the types of external support children with autism are offered or require during gameplay session, and iii) the type of rewards and encouragers that can act as unbiased support to increase the engagement of the children with autism during gameplay.\nThis paper investigates these factors with an inductive analysis of educational gameplay activities of 23 children with autism in Lahore, Pakistan. Our study found that sociocultural and institutional context has substantial impact over the gameplay activities of children with autism. Children required both physical and verbal support during the gameplay activities, and institutional context influences the behavior of instructors as well. Finally, dynamic animations, rewards and encouragers can keep the children engaged for longer in the gameplay.",
@@ -1045,18 +493,16 @@
     "type": "paper"
   },
   {
-    "TLDR": "Sustainability in HCI is a growing area of research, and a driver of creativity for developing new and interesting interfaces. Low-power technology such as e-ink or flip-dot displays have provided some alternatives, and living media displays present a new opportunity to study displays that consume low amounts of energy. This pilot study explores the design space for a moss-based dispaly installed in a design school, through think-aloud, observation and interview with 10 participants. The study found that users enjoyed the novelty, appearance and interaction with the moss display, showing promise for future applications. We contribute three design considerations and potential applications based on these findings.",
-    "UID": "lbw1028",
-    "abstract": "Sustainability in HCI is a growing area of research, and a driver of creativity for developing new and interesting interfaces. Low-power technology such as e-ink or flip-dot displays have provided some alternatives, and living media displays present a new opportunity to study displays that consume low amounts of energy. This pilot study explores the design space for a moss-based dispaly installed in a design school, through think-aloud, observation and interview with 10 participants. The study found that users enjoyed the novelty, appearance and interaction with the moss display, showing promise for future applications. We contribute three design considerations and potential applications based on these findings.",
+    "TLDR": "Due to the increasing demand of higher productivity and safety in the shipping industry, container terminals are increasingly shifting from manually operated container cranes to remotely operated container cranes with semi-autonomous control. The shift from on-site crane operation to remote crane operation does not only affect how well crane operators could perform their work, but also how they experience their work. Eight crane operators, who worked with both manual container cranes and remote container cranes with semi-autonomous control, were interviewed to explore what kinds of experiences that they have as the results of operating container cranes with both operational modes. The results suggest that the location of the operators and the level of automation of the cranes positively and negatively affected the operators\u2019 experiences.",
+    "UID": "lbw1016",
+    "abstract": "Due to the increasing demand of higher productivity and safety in the shipping industry, container terminals are increasingly shifting from manually operated container cranes to remotely operated container cranes with semi-autonomous control. The shift from on-site crane operation to remote crane operation does not only affect how well crane operators could perform their work, but also how they experience their work. Eight crane operators, who worked with both manual container cranes and remote container cranes with semi-autonomous control, were interviewed to explore what kinds of experiences that they have as the results of operating container cranes with both operational modes. The results suggest that the location of the operators and the level of automation of the cranes positively and negatively affected the operators\u2019 experiences.",
     "authors": [
-      "Gabrielle Hong",
-      "Phillip Gough",
-      "Callum Parker"
+      "Taufik Akbar Sitompul"
     ],
     "bio": "",
     "code_link": "",
-    "forum": "lbw1028",
-    "id": "lbw1028",
+    "forum": "lbw1016",
+    "id": "lbw1016",
     "image": "",
     "keywords": [
       ""
@@ -1067,23 +513,22 @@
     "sessions": [
       ""
     ],
-    "title": "Sprayful Interaction: Perceptions of a Moss-based SLow-resolution Living Media Display",
+    "title": "The Impacts of Different Work Locations and Levels of Automation on Crane Operators' Experiences: A Study in a Container Terminal in Indonesia",
     "type": "lbw"
   },
   {
-    "TLDR": "Versatile augmented reality (AR)/mixed reality (MR) technologies align with custom manufacturers\u2019 resource constraints and support their requirement for agility in responding to unique Industry 4.0 challenges. However, for Australian custom manufacturers, AR/MR uptake remains low. This modest-sized case study seeks to support resource-constrained custom manufacturers by exploring current AR/MR adoption challenges and potentials. Underpinned by a Research-through-Design (RtD) methodology and building upon Situated and Participative Enactment of Scenarios (SPES) methods, we reflect on using novel Microsoft HoloLens 2 AR/MR mockups to support in-situ enactments with domain experts to collaboratively imagine and design more productive and efficient augmented fabrication and assembly practices. In exploring new ways of making and doing through AR/MR, we find promising pathways for Australian custom manufacturers to add value across a product\u2019s lifecycle. Our findings identify five key areas for further research, which will be explored and developed through workshops around each identified AR/MR application area.",
-    "UID": "p1043",
-    "abstract": "Versatile augmented reality (AR)/mixed reality (MR) technologies align with custom manufacturers\u2019 resource constraints and support their requirement for agility in responding to unique Industry 4.0 challenges. However, for Australian custom manufacturers, AR/MR uptake remains low. This modest-sized case study seeks to support resource-constrained custom manufacturers by exploring current AR/MR adoption challenges and potentials. Underpinned by a Research-through-Design (RtD) methodology and building upon Situated and Participative Enactment of Scenarios (SPES) methods, we reflect on using novel Microsoft HoloLens 2 AR/MR mockups to support in-situ enactments with domain experts to collaboratively imagine and design more productive and efficient augmented fabrication and assembly practices. In exploring new ways of making and doing through AR/MR, we find promising pathways for Australian custom manufacturers to add value across a product\u2019s lifecycle. Our findings identify five key areas for further research, which will be explored and developed through workshops around each identified AR/MR application area.",
+    "TLDR": "This paper presents a user evaluation of seven sonification methods in two-dimensional (2D) manual micro-guidance tasks, which can be used as building blocks for spatialized audio in Mixed and Virtual Reality to model next-generation guidance aids for the Blind and Visually Impaired (BVI). The methods were tested in comparable interactive sonifications of 2D positions in a series of hand-navigation assessments with BVI and blindfolded sighted users, to validate the different approaches in environments without any visual feedback. Results highlighted that alternation and spatiality can be useful resources in sonified guidance, and that users accustomed to faster-than-regular audio speed replay tend to have more precise performances, while musical literacy only had a performance effect on methods highly dependent on aural skills. Ultimately, this work corroborates the notion that sonification may help BVI users perform better in day-to-day manual micro-guidance tasks such as retrieving items from a pantry, handling kitchen appliances, and properly discarding trash.",
+    "UID": "p1046",
+    "abstract": "This paper presents a user evaluation of seven sonification methods in two-dimensional (2D) manual micro-guidance tasks, which can be used as building blocks for spatialized audio in Mixed and Virtual Reality to model next-generation guidance aids for the Blind and Visually Impaired (BVI). The methods were tested in comparable interactive sonifications of 2D positions in a series of hand-navigation assessments with BVI and blindfolded sighted users, to validate the different approaches in environments without any visual feedback. Results highlighted that alternation and spatiality can be useful resources in sonified guidance, and that users accustomed to faster-than-regular audio speed replay tend to have more precise performances, while musical literacy only had a performance effect on methods highly dependent on aural skills. Ultimately, this work corroborates the notion that sonification may help BVI users perform better in day-to-day manual micro-guidance tasks such as retrieving items from a pantry, handling kitchen appliances, and properly discarding trash.",
     "authors": [
-      "Anthony Paul Franze",
-      "Glenda Amayo Caldwell",
-      "Muge Teixeira",
-      "Markus Rittenbruch"
+      "Renan L Martins Guarese",
+      "Fabio Zambetta",
+      "Ron van Schyndel"
     ],
     "bio": "",
     "code_link": "",
-    "forum": "p1043",
-    "id": "p1043",
+    "forum": "p1046",
+    "id": "p1046",
     "image": "",
     "keywords": [
       ""
@@ -1094,21 +539,24 @@
     "sessions": [
       ""
     ],
-    "title": "Employing AR/MR Mockups to Imagine Future Custom Manufacturing Practices",
+    "title": "Evaluating micro-guidance sonification methods in manual tasks for Blind and Visually Impaired people",
     "type": "paper"
   },
   {
-    "TLDR": "The embodiment of Artificial Intelligence (AI) in everyday use products is raising challenges and opportunities for HCI and design research, such as human understandings of AI\u2019s functions and states, passing back and forth of control, AI ethics, and user experi-ence, among others. There has been progress in those areas, such as works on explainable AI (XAI); fairness, accountability, and transparency (FAccT); human-centered AI; and the development of guidelines for Human-AI interaction design. Similarly, the in-terest in studying interaction modalities and their contributions to understandable and transparent AI has been also growing. How-ever, the tangible and embodied modality of interaction and more broadly studies of the forms of such everyday use products are relatively underexplored. This paper builds upon a larger project on designing graspable AI and it introduces a series of concept cards that aim to aid design researchers\u2019 creative exploration of tangible and understandable AI. We conducted a user study in two parts of online sessions and semi-structured interviews and found out that to envision physicality and tangible interaction with AI felt challenging and \u201ctoo abstract\u201d. Even so, the act of creative exploration of that space not only supported our participants to gain new design perspectives of AI, but also supported them to go beyond anthropomorphic forms of AI.",
-    "UID": "lbw1045",
-    "abstract": "The embodiment of Artificial Intelligence (AI) in everyday use products is raising challenges and opportunities for HCI and design research, such as human understandings of AI\u2019s functions and states, passing back and forth of control, AI ethics, and user experi-ence, among others. There has been progress in those areas, such as works on explainable AI (XAI); fairness, accountability, and transparency (FAccT); human-centered AI; and the development of guidelines for Human-AI interaction design. Similarly, the in-terest in studying interaction modalities and their contributions to understandable and transparent AI has been also growing. How-ever, the tangible and embodied modality of interaction and more broadly studies of the forms of such everyday use products are relatively underexplored. This paper builds upon a larger project on designing graspable AI and it introduces a series of concept cards that aim to aid design researchers\u2019 creative exploration of tangible and understandable AI. We conducted a user study in two parts of online sessions and semi-structured interviews and found out that to envision physicality and tangible interaction with AI felt challenging and \u201ctoo abstract\u201d. Even so, the act of creative exploration of that space not only supported our participants to gain new design perspectives of AI, but also supported them to go beyond anthropomorphic forms of AI.",
+    "TLDR": "Physically active play is essential in early childhood. Yet, many children aged 3 to 5 do not engage in enough physical activity or active play. Consequently, there is a need to increase young children\u2019s engagement in active play and understand the factors that enable them to sustain this play. Tangible, Embedded, and Embodied Interaction (TEI) systems have shown promise to facilitate new opportunities for active play. Few TEIs have been designed to engage children aged 3 to 5 in active play. We ask the question, how can TEIs be better designed to effectively engage young children in active play? This paper begins to answer this question through an exploration into how young children currently engage in active play. We conducted semi-structured interviews with fifteen families and five early childhood teachers. These interviews highlighted activities, contexts, equipment, people, and environmental factors associated with active play engagement.  We found that equipment shapes children\u2019s activities and provides a context for active play. These findings can inform the design of new and innovative TEIs that facilitate new opportunities to engage young children in active play.",
+    "UID": "p1034",
+    "abstract": "Physically active play is essential in early childhood. Yet, many children aged 3 to 5 do not engage in enough physical activity or active play. Consequently, there is a need to increase young children\u2019s engagement in active play and understand the factors that enable them to sustain this play. Tangible, Embedded, and Embodied Interaction (TEI) systems have shown promise to facilitate new opportunities for active play. Few TEIs have been designed to engage children aged 3 to 5 in active play. We ask the question, how can TEIs be better designed to effectively engage young children in active play? This paper begins to answer this question through an exploration into how young children currently engage in active play. We conducted semi-structured interviews with fifteen families and five early childhood teachers. These interviews highlighted activities, contexts, equipment, people, and environmental factors associated with active play engagement.  We found that equipment shapes children\u2019s activities and provides a context for active play. These findings can inform the design of new and innovative TEIs that facilitate new opportunities to engage young children in active play.",
     "authors": [
-      "Maliheh Ghajargar",
-      "Jeffrey Bardzell"
+      "Dannielle Tarlinton",
+      "Nicole E M Vickery",
+      "Yuehao Wang",
+      "Linda Knight",
+      "Alethea Blackler"
     ],
     "bio": "",
     "code_link": "",
-    "forum": "lbw1045",
-    "id": "lbw1045",
+    "forum": "p1034",
+    "id": "p1034",
     "image": "",
     "keywords": [
       ""
@@ -1119,7 +567,559 @@
     "sessions": [
       ""
     ],
-    "title": "Making AI Understandable by Making it Tangible: Exploring the Design Space with Ten Concept Cards",
+    "title": "Identifying Factors of Young Children's Engagement in Active Play to Inform the Design of TEIs",
+    "type": "paper"
+  },
+  {
+    "TLDR": "Many people with intellectual disabilities seek opportunities to develop their self-determination, personal development, interpersonal relationships, and well-being. Emerging technologies, such as augmented reality (AR), present an opportunity for new approaches to supporting inclusion and personal development. This paper presents a scoping review of seventeen studies in the past decade and discusses the benefits highlighted by the authors. Most studies conducted with people with intellectual disabilities have shown that AR performs a positive and effective role as an instructional or assistive tool in the areas of education, daily living, or health. AR provides an opportunity to help people acquire new knowledge (e.g., foreign language and numeracy), form new habits (e.g., teeth brushing technique), and experience environments inclusively (e.g., arrive in the classroom with the support of an AR navigation app). Hence, this paper provides a comprehensive overview of known useful aspects of AR technology in the support and inclusion of people.",
+    "UID": "lbw1036",
+    "abstract": "Many people with intellectual disabilities seek opportunities to develop their self-determination, personal development, interpersonal relationships, and well-being. Emerging technologies, such as augmented reality (AR), present an opportunity for new approaches to supporting inclusion and personal development. This paper presents a scoping review of seventeen studies in the past decade and discusses the benefits highlighted by the authors. Most studies conducted with people with intellectual disabilities have shown that AR performs a positive and effective role as an instructional or assistive tool in the areas of education, daily living, or health. AR provides an opportunity to help people acquire new knowledge (e.g., foreign language and numeracy), form new habits (e.g., teeth brushing technique), and experience environments inclusively (e.g., arrive in the classroom with the support of an AR navigation app). Hence, this paper provides a comprehensive overview of known useful aspects of AR technology in the support and inclusion of people.",
+    "authors": [
+      "Yuankun Zhu",
+      "Sirinthip Roomkham",
+      "Laurianne Sitbon"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "lbw1036",
+    "id": "lbw1036",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Augmented Reality as an Educational Tool and Assistive Technology for People with Intellectual Disabilities: Scoping Review",
+    "type": "lbw"
+  },
+  {
+    "TLDR": "This paper investigates the impact of visualizing the risk of encountering potential accessibility barriers on the route planning behavior of pedestrians with mobility impairments. Using a prototype system, we explored the relationship between the risk of facing possible accessibility barriers and the navigation planning behavior of the mobility impaired users. We found that mobility impaired users\u2019 had a very strong inclination towards longer but accessible barrier-free routes instead of shorter potentially inaccessible routes (being willing to travel over 900 minutes to avoid barriers), suggesting a degree of risk aversion that goes beyond the literature. However, we have also observed users\u2019 varying risk attitudes towards obstacles based on the type of impairments, mobility aids, and individual perceptions and mobility preferences. Our investigation also underscored the importance of presenting risk information, which is currently overlooked in accessible navigation systems.",
+    "UID": "lbw1017",
+    "abstract": "This paper investigates the impact of visualizing the risk of encountering potential accessibility barriers on the route planning behavior of pedestrians with mobility impairments. Using a prototype system, we explored the relationship between the risk of facing possible accessibility barriers and the navigation planning behavior of the mobility impaired users. We found that mobility impaired users\u2019 had a very strong inclination towards longer but accessible barrier-free routes instead of shorter potentially inaccessible routes (being willing to travel over 900 minutes to avoid barriers), suggesting a degree of risk aversion that goes beyond the literature. However, we have also observed users\u2019 varying risk attitudes towards obstacles based on the type of impairments, mobility aids, and individual perceptions and mobility preferences. Our investigation also underscored the importance of presenting risk information, which is currently overlooked in accessible navigation systems.",
+    "authors": [
+      "Sadia Azmin Anisha",
+      "Reuben Kirkham"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "lbw1017",
+    "id": "lbw1017",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Investigating User Risk Attitudes in Navigation Systems to Support People with Mobility Impairments",
+    "type": "lbw"
+  },
+  {
+    "TLDR": "Increasing numbers of people have turned to playing boardgames with physically distant friends and family via technological tools, particularly since the start of the COVID-19 pandemic. However, commercial hybrid digital boardgames (HDBs) are designed for co-located, rather than distanced, play and there is a need for more specific tools to support hybrid game design. This paper introduces the SMeFT Decks, a set of card decks to aid in the design of HDBs for distanced play, which support Story, Mechanism, Function and Technology. We describe the use of these cards for design ideation and demonstrate four game concepts for distanced play stemming from the use of these decks in participatory workshops. We report evaluative feedback from a pilot study and from 46 participants who used these cards across nine design workshops and reflect on what we learned from observing this process. Results suggest that the SMeFT Decks are a productive ideation tool for aiding in the design of HDBs for distanced play in collaborative workshop settings.",
+    "UID": "p1002",
+    "abstract": "Increasing numbers of people have turned to playing boardgames with physically distant friends and family via technological tools, particularly since the start of the COVID-19 pandemic. However, commercial hybrid digital boardgames (HDBs) are designed for co-located, rather than distanced, play and there is a need for more specific tools to support hybrid game design. This paper introduces the SMeFT Decks, a set of card decks to aid in the design of HDBs for distanced play, which support Story, Mechanism, Function and Technology. We describe the use of these cards for design ideation and demonstrate four game concepts for distanced play stemming from the use of these decks in participatory workshops. We report evaluative feedback from a pilot study and from 46 participants who used these cards across nine design workshops and reflect on what we learned from observing this process. Results suggest that the SMeFT Decks are a productive ideation tool for aiding in the design of HDBs for distanced play in collaborative workshop settings.",
+    "authors": [
+      "Melissa J Rogerson",
+      "Lucy A Sparrow",
+      "Sophie O Freeman"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "p1002",
+    "id": "p1002",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "The SMeFT Decks: A Card-Based Ideation Tool for Designing Hybrid Digital Boardgames for Distanced Play",
+    "type": "paper"
+  },
+  {
+    "TLDR": "Against a backdrop of algorithms that disempower, dehumanise, disenfranchise and discriminate, there are increasing calls to centre the human in AI development processes and to humanise AI development in practice; centring dignity in AI development could provide a way forward. Despite the inclusion of dignity in many Artificial Intelligence (AI) ethics frameworks, like many other AI ethics principles, there is little operational understanding of what dignity can look like in practice when it comes to the development of algorithms. Drawing on cybernetics and a model of dignity developed in the field of international conflict resolution, this paper presents our work-in-progress tool - the Dignity Lens - for considering dignity throughout the AI development lifecycle, and practitioner reflections from using the tool. This work is an initial step towards articulating what dignity-centred AI development could look like in practice, assisting practitioners designing and developing algorithms to actively consider dignity.",
+    "UID": "lbw1020",
+    "abstract": "Against a backdrop of algorithms that disempower, dehumanise, disenfranchise and discriminate, there are increasing calls to centre the human in AI development processes and to humanise AI development in practice; centring dignity in AI development could provide a way forward. Despite the inclusion of dignity in many Artificial Intelligence (AI) ethics frameworks, like many other AI ethics principles, there is little operational understanding of what dignity can look like in practice when it comes to the development of algorithms. Drawing on cybernetics and a model of dignity developed in the field of international conflict resolution, this paper presents our work-in-progress tool - the Dignity Lens - for considering dignity throughout the AI development lifecycle, and practitioner reflections from using the tool. This work is an initial step towards articulating what dignity-centred AI development could look like in practice, assisting practitioners designing and developing algorithms to actively consider dignity.",
+    "authors": [
+      "Lorenn P Ruster",
+      "Paola Oliva-Altamirano",
+      "Katherine A Daniell"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "lbw1020",
+    "id": "lbw1020",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Centring dignity in algorithm development: testing a Dignity Lens",
+    "type": "lbw"
+  },
+  {
+    "TLDR": "Minecraft has given rise to diverse gameplay, including public servers that provide survival gameplay combined with Massively Multiplayer Online Role-Playing Game elements. In these servers, gameplay includes many players fighting mobs (non-player enemies) together. However, it often happens that some players are experienced, while others are not. This leads to a problem where some players enjoy the level of challenge and consequently the game, while others can feel bored or discouraged. This paper proposes an approach to Dynamic Difficulty Adjustment (DDA) that adjusts mobs in multiplayer Minecraft so that the difficulty level accommodates all players involved. We present a new Multiplayer Minecraft DDA Framework, a game design to populate our framework, and a user evaluation study to test our framework. Our work contributes to understanding DDA in multiplayer contexts and to creating better multiplayer experiences for Minecraft and other multiplayer games.",
+    "UID": "lbw1023",
+    "abstract": "Minecraft has given rise to diverse gameplay, including public servers that provide survival gameplay combined with Massively Multiplayer Online Role-Playing Game elements. In these servers, gameplay includes many players fighting mobs (non-player enemies) together. However, it often happens that some players are experienced, while others are not. This leads to a problem where some players enjoy the level of challenge and consequently the game, while others can feel bored or discouraged. This paper proposes an approach to Dynamic Difficulty Adjustment (DDA) that adjusts mobs in multiplayer Minecraft so that the difficulty level accommodates all players involved. We present a new Multiplayer Minecraft DDA Framework, a game design to populate our framework, and a user evaluation study to test our framework. Our work contributes to understanding DDA in multiplayer contexts and to creating better multiplayer experiences for Minecraft and other multiplayer games.",
+    "authors": [
+      "Zheyin Zeng",
+      "Penny Sweetser"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "lbw1023",
+    "id": "lbw1023",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Dynamic Difficulty Adjustment in a Multiplayer Minecraft Server",
+    "type": "lbw"
+  },
+  {
+    "TLDR": "Engaging in creative activities can be valuable in later life, especially for those who want to enhance their social connections or who have experienced reduced opportunities to engage in meaningful activities due to health and care needs. As well as being beneficial for older adults, we argue that creativity can be an important component of psychosocial caregiving. This has implications for how we design and use technology to support care in later life. In this paper, we draw on our combined experiences with three programs of research that each focused on psychosocial caregiving in different care settings. Further, each program involved different creative endeavours, including group singing; music therapy in family dementia care; and the creative use of immersive virtual reality for personalised enrichment. Drawing on these examples, we argue that any design and deployment of technology to support psychosocial caregiving needs to allow for and support creativity in care.",
+    "UID": "p1072",
+    "abstract": "Engaging in creative activities can be valuable in later life, especially for those who want to enhance their social connections or who have experienced reduced opportunities to engage in meaningful activities due to health and care needs. As well as being beneficial for older adults, we argue that creativity can be an important component of psychosocial caregiving. This has implications for how we design and use technology to support care in later life. In this paper, we draw on our combined experiences with three programs of research that each focused on psychosocial caregiving in different care settings. Further, each program involved different creative endeavours, including group singing; music therapy in family dementia care; and the creative use of immersive virtual reality for personalised enrichment. Drawing on these examples, we argue that any design and deployment of technology to support psychosocial caregiving needs to allow for and support creativity in care.",
+    "authors": [
+      "Jenny Waycott",
+      "Jane W Davidson",
+      "Felicity Baker",
+      "Shuai Yuan"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "p1072",
+    "id": "p1072",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Supporting Creativity in Care: Lessons from Group Singing, Music Therapy, and Immersive Virtual Reality Programs",
+    "type": "paper"
+  },
+  {
+    "TLDR": "Plugging a cable or peripheral into a device is an integral aspect of daily use of computing devices for most users. Yet, in low-light or constrained-visibility conditions the simple act of finding the receptacle to connect a cable to can be challenging and lead to user frustration. To alleviate this frustration we present LitPorts, a technology that illuminates receptacles in low-light conditions when a compatible plug is in proximity, making plugging a cable in substantially easier and leading to a better all-around user experience. We also present user feedback from our prototype testing demonstrating the broad appeal and applicability of LitPorts.",
+    "UID": "lbw1027",
+    "abstract": "Plugging a cable or peripheral into a device is an integral aspect of daily use of computing devices for most users. Yet, in low-light or constrained-visibility conditions the simple act of finding the receptacle to connect a cable to can be challenging and lead to user frustration. To alleviate this frustration we present LitPorts, a technology that illuminates receptacles in low-light conditions when a compatible plug is in proximity, making plugging a cable in substantially easier and leading to a better all-around user experience. We also present user feedback from our prototype testing demonstrating the broad appeal and applicability of LitPorts.",
+    "authors": [
+      "Tiffany E Taylor",
+      "Wolfgang Stuerzlinger"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "lbw1027",
+    "id": "lbw1027",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "LitPorts: On-demand Illuminated Ports to Facilitate Inter-device Connections in Low-light Conditions",
+    "type": "lbw"
+  },
+  {
+    "TLDR": "We report on results from a pilot study that used Augmented Reality (AR) to explore gender and power dynamics in STEM Higher Education. The so called \u201cleaky pipeline\u201d, affecting retention and recruitment of women in higher education fields of Science, Technology, Engineering and Mathematics (STEM) is a well-documented issue. We conducted a co-design workshop with six academics, asking to reflect on an AR storyboard prototype, discuss aspects of personal and professional identity, and imagine alternative endings for the storyboard. The storyboard depicted a hypothetical workplace conflict involving an episode of gender-based discrimination. Participants collaboratively imagined possible responses to the situation depicted using a combination of paper-prototyping and open discussions. The found themes were that 1) reflecting on personal identities can drive empathy and understanding for others; 2) co-creating the AR experiences was an engaging way of scaff\u00ac\u00acolding these reflections, and 3) the co-created AR prototypes offered constructive and community-centred approaches to supporting diversity. We contribute a preliminary format for an identity-based AR co-creation workshop and opportunities for applying AR to support dialogue on gender and power dynamics.",
+    "UID": "p1020",
+    "abstract": "We report on results from a pilot study that used Augmented Reality (AR) to explore gender and power dynamics in STEM Higher Education. The so called \u201cleaky pipeline\u201d, affecting retention and recruitment of women in higher education fields of Science, Technology, Engineering and Mathematics (STEM) is a well-documented issue. We conducted a co-design workshop with six academics, asking to reflect on an AR storyboard prototype, discuss aspects of personal and professional identity, and imagine alternative endings for the storyboard. The storyboard depicted a hypothetical workplace conflict involving an episode of gender-based discrimination. Participants collaboratively imagined possible responses to the situation depicted using a combination of paper-prototyping and open discussions. The found themes were that 1) reflecting on personal identities can drive empathy and understanding for others; 2) co-creating the AR experiences was an engaging way of scaff\u00ac\u00acolding these reflections, and 3) the co-created AR prototypes offered constructive and community-centred approaches to supporting diversity. We contribute a preliminary format for an identity-based AR co-creation workshop and opportunities for applying AR to support dialogue on gender and power dynamics.",
+    "authors": [
+      "Nelli Holopainen",
+      "Alessandro Soro",
+      "Margot Brereton"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "p1020",
+    "id": "p1020",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Using Augmented Reality to Explore Gender and Power Dynamics in STEM Higher Education",
+    "type": "paper"
+  },
+  {
+    "TLDR": "Previous Participatory design (PD) and HCI work have discussed the outcomes of research and design projects, their processes, technology innovations, methods, and users. Researchers have also examined the phases of collaborative research projects, including the \u2018before\u2019, \u2018during\u2019 and \u2018after\u2019 stages. There are however substantially more papers describing aspects of participation and collaboration in the during and after stages of a design research project compared with papers discussing collaborative activities before the formal project starts, during the pre-project activities where a project is negotiated, and its finances secured. This paper uses two municipal co-design research projects to explore participatory and collaborative processes as they unfolded before the actual projects started. By mainly considering the before-stage of these projects, this paper sheds light on a less studied aspect of many co-design projects, and research projects in general \u2013 how they came into being and the role of participation in designing the project-to-be.",
+    "UID": "p1073",
+    "abstract": "Previous Participatory design (PD) and HCI work have discussed the outcomes of research and design projects, their processes, technology innovations, methods, and users. Researchers have also examined the phases of collaborative research projects, including the \u2018before\u2019, \u2018during\u2019 and \u2018after\u2019 stages. There are however substantially more papers describing aspects of participation and collaboration in the during and after stages of a design research project compared with papers discussing collaborative activities before the formal project starts, during the pre-project activities where a project is negotiated, and its finances secured. This paper uses two municipal co-design research projects to explore participatory and collaborative processes as they unfolded before the actual projects started. By mainly considering the before-stage of these projects, this paper sheds light on a less studied aspect of many co-design projects, and research projects in general \u2013 how they came into being and the role of participation in designing the project-to-be.",
+    "authors": [
+      "Erik Gr\u00f6nvall",
+      "Stefan Lundberg"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "p1073",
+    "id": "p1073",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Exploring participatory pre-project processes: Making research work in municipality organizations",
+    "type": "paper"
+  },
+  {
+    "TLDR": "Workplace training in design methods and frameworks is a consistent area of practice for many designers. While many large organisations find increasing value in design they also struggle to recruit designers. Training existing staff bridges that gap. This presentation examines the questions people asked in more than 120 hours of design and design thinking training delivered to professionals in a large organisation in October and November 2022. Implications for design training, for explaining design and for design practice as discussed. ",
+    "UID": "ind03",
+    "abstract": "Workplace training in design methods and frameworks is a consistent area of practice for many designers. While many large organisations find increasing value in design they also struggle to recruit designers. Training existing staff bridges that gap. This presentation examines the questions people asked in more than 120 hours of design and design thinking training delivered to professionals in a large organisation in October and November 2022. Implications for design training, for explaining design and for design practice as discussed. ",
+    "authors": [
+      "Ben Krall"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "ind03",
+    "id": "ind03",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Burning questions: What professionals ask in design training",
+    "type": "industry"
+  },
+  {
+    "TLDR": "Most organisations are now constantly undergoing transformation programs, but consensus is that roughly two-thirds of them still underperform. The financial and human cost of each failure is untenable. It doesn\u2019t have to be this way. EY and the University of Oxford\u2019s Sa\u00efd Business School conducted research to help demystify transformation and understand the key factors that truly make a difference between failure and success. We found that treating change as a mere workstream and not addressing the human factors as a top priority is a key indicator of underperformance. Our predictive analytics identified six drivers of human behaviour that, when invested in appropriately, can increase the likelihood of transformation success by more than two-and-a-half times. This presentation will discuss the research insights for you to consider when you are planning your next transformation.  ",
+    "UID": "ind01",
+    "abstract": "Most organisations are now constantly undergoing transformation programs, but consensus is that roughly two-thirds of them still underperform. The financial and human cost of each failure is untenable. It doesn\u2019t have to be this way. EY and the University of Oxford\u2019s Sa\u00efd Business School conducted research to help demystify transformation and understand the key factors that truly make a difference between failure and success. We found that treating change as a mere workstream and not addressing the human factors as a top priority is a key indicator of underperformance. Our predictive analytics identified six drivers of human behaviour that, when invested in appropriately, can increase the likelihood of transformation success by more than two-and-a-half times. This presentation will discuss the research insights for you to consider when you are planning your next transformation.  ",
+    "authors": [
+      "Vanessa Domaschenz"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "ind01",
+    "id": "ind01",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Putting humans at the centre in the future of Work",
+    "type": "industry"
+  },
+  {
+    "TLDR": "Hospitals generate large amounts of administrative data from healthcare delivery. Much of this data is for summative quality and safety (Q&S) reporting rather than formative professional learning. Little is known about what clinicians want to learn about their practice from this data and how they want to see that information. To address this, we designed a need finding study, run at a large metropolitan hospital. This paper describes the study design, based on semi-structured interviews which used four static visualisations prototypes. Our participants, nine specialists valued the re-purposing of clinical indicators (CIs) for professional learning. They particularly valued peer comparison and trends for benchmarking and highlighted the need for risk-adjusted results that are carefully selected to ensure fair and meaningful comparisons. Our contributions are: (1) insights and needs from participant free comments, (2) comments around our four visualisation prototypes, and (3) design recommendations when presenting CIs for professional learning.",
+    "UID": "lbw1035",
+    "abstract": "Hospitals generate large amounts of administrative data from healthcare delivery. Much of this data is for summative quality and safety (Q&S) reporting rather than formative professional learning. Little is known about what clinicians want to learn about their practice from this data and how they want to see that information. To address this, we designed a need finding study, run at a large metropolitan hospital. This paper describes the study design, based on semi-structured interviews which used four static visualisations prototypes. Our participants, nine specialists valued the re-purposing of clinical indicators (CIs) for professional learning. They particularly valued peer comparison and trends for benchmarking and highlighted the need for risk-adjusted results that are carefully selected to ensure fair and meaningful comparisons. Our contributions are: (1) insights and needs from participant free comments, (2) comments around our four visualisation prototypes, and (3) design recommendations when presenting CIs for professional learning.",
+    "authors": [
+      "Bernard Bucalon",
+      "Chris Williams",
+      "Jeanette C Conley",
+      "David Rankin",
+      "Martin Veysey",
+      "Tim Shaw",
+      "Judy Kay"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "lbw1035",
+    "id": "lbw1035",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "You can't improve until you measure: A Need Finding Study on Repurposed Clinical Indicators for Professional Learning",
+    "type": "lbw"
+  },
+  {
+    "TLDR": "In this paper we report on co-design with people with a lived experience of stroke and their caregivers as part of an ongoing mobile health project to provide better support in the transition from hospital to home. This project was situated in the context of a publicly funded healthcare service in Australia. Our co-design approach involved creating collages and sharing of personal experiences to reflect on support and information received. We focus on the collage and the narrative account of a young woman that illustrates the experiences of living with stroke during this transition and \u201cinfrastructuring work\u201d to address gaps in information, services, and support. These gaps did not appear within the healthcare service, but rather in the transition between the healthcare service and home, and also in the transition back to work. Based on these insights, we discuss the design directions for a mobile health prototype to better tailor information and to provide timely support.",
+    "UID": "lbw1008",
+    "abstract": "In this paper we report on co-design with people with a lived experience of stroke and their caregivers as part of an ongoing mobile health project to provide better support in the transition from hospital to home. This project was situated in the context of a publicly funded healthcare service in Australia. Our co-design approach involved creating collages and sharing of personal experiences to reflect on support and information received. We focus on the collage and the narrative account of a young woman that illustrates the experiences of living with stroke during this transition and \u201cinfrastructuring work\u201d to address gaps in information, services, and support. These gaps did not appear within the healthcare service, but rather in the transition between the healthcare service and home, and also in the transition back to work. Based on these insights, we discuss the design directions for a mobile health prototype to better tailor information and to provide timely support.",
+    "authors": [
+      "Bernd Ploderer",
+      "Jennifer Muller",
+      "Matthew Busato",
+      "Amina Tariq",
+      "Kevin Clark",
+      "Theresa Green"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "lbw1008",
+    "id": "lbw1008",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Co-Design with People Who Have Had a Stroke to Better Understand the Transition from Hospital to Home: A Narrative Account",
+    "type": "lbw"
+  },
+  {
+    "TLDR": "This paper reviewed 66 commercial digital toys for young children\u2019s (3 to 5 years old) active play, aiming to explore their features, affordances, and play activities they facilitate. Results show active play is invited predominantly through physical affordances. Digital features can act as prompts, provide feedback, and engage attention. For HCI researchers this paper contributes insights into gaps and design opportunities: 1) many digital toys target broader age groups, and more work is needed to consider young children\u2019s developmental abilities and interests in the design; 2) many digital toys do not elicit direct physical/digital responses from children\u2019s physical and embodied inputs; and 3) future research can design play sequences through providing age-appropriate affordances, prompts, and feedback that encourage active play, without restricting children\u2019s imagination and free play. The outcomes of this study can inform the design of new digital toys for children\u2019s active play, to benefit their motor skills development.",
+    "UID": "p1047",
+    "abstract": "This paper reviewed 66 commercial digital toys for young children\u2019s (3 to 5 years old) active play, aiming to explore their features, affordances, and play activities they facilitate. Results show active play is invited predominantly through physical affordances. Digital features can act as prompts, provide feedback, and engage attention. For HCI researchers this paper contributes insights into gaps and design opportunities: 1) many digital toys target broader age groups, and more work is needed to consider young children\u2019s developmental abilities and interests in the design; 2) many digital toys do not elicit direct physical/digital responses from children\u2019s physical and embodied inputs; and 3) future research can design play sequences through providing age-appropriate affordances, prompts, and feedback that encourage active play, without restricting children\u2019s imagination and free play. The outcomes of this study can inform the design of new digital toys for children\u2019s active play, to benefit their motor skills development.",
+    "authors": [
+      "Yuehao Wang",
+      "Nicole E M Vickery",
+      "Dannielle Tarlinton",
+      "Bernd Ploderer",
+      "Linda Knight",
+      "Alethea Blackler",
+      "Peta Wyeth"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "p1047",
+    "id": "p1047",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Exploring the Affordances of Digital Toys for Young Children's Active Play",
+    "type": "paper"
+  },
+  {
+    "TLDR": "Understanding and relating with nature is increasingly important in design as we aim to address the risks posed by anthropogenic climate change. Design methods are often human-centered and provide us with opportunities to reshape existing methods to foreground nature. Inspired by phenology, the study of cyclic biological events, this paper presents phenology probes: a method to study the multifaceted relations between humans and nature and how they are manifested in a particular time and place. Our phenology probe kit consisted of 3 activities: spatial mapping, phenology snapshotting, and phenology wheels. In deploying these probes with 20 gardeners we identified key relations with nature: Personal historic, multisensory, emotional, global, and climate activist relations. We discuss how these relations help to bring nonhuman stakeholders and cyclic biological events to the design process and directions for future work to further enhance the agency of nonhumans in interaction design.",
+    "UID": "p1061",
+    "abstract": "Understanding and relating with nature is increasingly important in design as we aim to address the risks posed by anthropogenic climate change. Design methods are often human-centered and provide us with opportunities to reshape existing methods to foreground nature. Inspired by phenology, the study of cyclic biological events, this paper presents phenology probes: a method to study the multifaceted relations between humans and nature and how they are manifested in a particular time and place. Our phenology probe kit consisted of 3 activities: spatial mapping, phenology snapshotting, and phenology wheels. In deploying these probes with 20 gardeners we identified key relations with nature: Personal historic, multisensory, emotional, global, and climate activist relations. We discuss how these relations help to bring nonhuman stakeholders and cyclic biological events to the design process and directions for future work to further enhance the agency of nonhumans in interaction design.",
+    "authors": [
+      "Shannon Rodgers",
+      "Bernd Ploderer",
+      "Kellie Vella",
+      "Margot Brereton"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "p1061",
+    "id": "p1061",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Phenology Probes: Exploring Human-Nature Relations for Designing Sustainable Futures",
+    "type": "paper"
+  },
+  {
+    "TLDR": "Shift planning plays a key role for the health and well-being of healthcare workers. It determines when they work and when they can take time off to recover or engage in social activities. Current computer-support in shift planning is typically designed from a managerial perspective and focuses on process efficiency, with the long-term goal of full automation. This implies automatic resolutions of emotionally charged scheduling conflicts. In the present study, we measured the effects of such a fully automated process on workers' well-being, fairness, and team spirit, and compared them with a more interactive process that directly involves workers in the decision-making. In our experimental online study (n = 94), we found positive effects of the more interactive process on all measures. Our findings indicate that full automation may not be desirable from the worker perspective. We close with concrete suggestions to design more worker-centered, hybrid shift planning systems by optimizing worker control, considering the worker experience, and embedding shift planning in the broader work context.",
+    "UID": "p1009",
+    "abstract": "Shift planning plays a key role for the health and well-being of healthcare workers. It determines when they work and when they can take time off to recover or engage in social activities. Current computer-support in shift planning is typically designed from a managerial perspective and focuses on process efficiency, with the long-term goal of full automation. This implies automatic resolutions of emotionally charged scheduling conflicts. In the present study, we measured the effects of such a fully automated process on workers' well-being, fairness, and team spirit, and compared them with a more interactive process that directly involves workers in the decision-making. In our experimental online study (n = 94), we found positive effects of the more interactive process on all measures. Our findings indicate that full automation may not be desirable from the worker perspective. We close with concrete suggestions to design more worker-centered, hybrid shift planning systems by optimizing worker control, considering the worker experience, and embedding shift planning in the broader work context.",
+    "authors": [
+      "Alarith Uhde",
+      "Matthias Laschke",
+      "Marc Hassenzahl"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "p1009",
+    "id": "p1009",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Experiential Benefits of Interactive Conflict Negotiation Practices in Computer-Supported Shift Planning",
+    "type": "paper"
+  },
+  {
+    "TLDR": "The market for (intelligent) support systems for nursing of an increasingly aging population has grown rapidly in recent years. Nevertheless, only a few of these systems have found their way into the care of the elderly. An important point, in addition to the lack of refinancing structures in the health care system, is the reservations of those in need of care and those caring for them. With our study, we tried to get an insight into the everyday care work and to better understand the attitudes of caregivers towards the use of technology in elderly care, especially with a focus on artificial intelligence. In our paper, we present the results from a contextual inquiry, interviews, and a workshop for this purpose.",
+    "UID": "lbw1024",
+    "abstract": "The market for (intelligent) support systems for nursing of an increasingly aging population has grown rapidly in recent years. Nevertheless, only a few of these systems have found their way into the care of the elderly. An important point, in addition to the lack of refinancing structures in the health care system, is the reservations of those in need of care and those caring for them. With our study, we tried to get an insight into the everyday care work and to better understand the attitudes of caregivers towards the use of technology in elderly care, especially with a focus on artificial intelligence. In our paper, we present the results from a contextual inquiry, interviews, and a workshop for this purpose.",
+    "authors": [
+      "Julia Hermann",
+      "Aiden Danny M\u00e4der",
+      "Ann-Kathrin Kubullek",
+      "Celine-Chiara Hey",
+      "Ayseg\u00fcl Dogang\u00fcn"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "lbw1024",
+    "id": "lbw1024",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Intelligent Systems in Elderly Care: The Caregivers perspective",
+    "type": "lbw"
+  },
+  {
+    "TLDR": "Inclusion is about making sure that people of all backgrounds, abilities and perspectives not only have equal access, but also feel a sense of belonging in our place of work. When starting a new job, the onboarding experience is pivotal to making sure we demonstrate a culture of inclusion. \u202fCreating this experience is not just the right thing to do. In a world with increasingly complex problems to solve, welcoming different people with different voices to the table is critical to driving solutions.\u202fThis presentation will describe PwC's journey to identify and remove inherent bias in its onboarding process by challenging some of the time-honoured design practices of Experience Design. ",
+    "UID": "ind02",
+    "abstract": "Inclusion is about making sure that people of all backgrounds, abilities and perspectives not only have equal access, but also feel a sense of belonging in our place of work. When starting a new job, the onboarding experience is pivotal to making sure we demonstrate a culture of inclusion. \u202fCreating this experience is not just the right thing to do. In a world with increasingly complex problems to solve, welcoming different people with different voices to the table is critical to driving solutions.\u202fThis presentation will describe PwC's journey to identify and remove inherent bias in its onboarding process by challenging some of the time-honoured design practices of Experience Design. ",
+    "authors": [
+      "Simon Lillis "
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "ind02",
+    "id": "ind02",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "There is no such thing as an average user'. How designing for the extremes makes the world accessible to everyone",
+    "type": "industry"
+  },
+  {
+    "TLDR": "Virtual reality (VR) can offer many advantages as an adjunct of care when end-user involvement and practical integration in clinical workflows are considered from the start. This paper describes open innovation approaches that can help the integration and sharing of knowledge between multiple stakeholder groups, creating a platform for meaningful engagement towards the design and integration of VR technology as a routine part of the patient care pathway. This paper presents two cases of VR design and use on a large Australian health precinct. Through the two cases, this paper addresses the question: how can open innovation approaches facilitate meaningful stakeholder engagement for VR design in healthcare? Four portable principles are identified that summarise key learnings and may contribute to open innovation approaches for the design of VR for health services and human computer interaction practitioners engaging stakeholders at the ecosystem, health service, hospital department and patient level.",
+    "UID": "p1039",
+    "abstract": "Virtual reality (VR) can offer many advantages as an adjunct of care when end-user involvement and practical integration in clinical workflows are considered from the start. This paper describes open innovation approaches that can help the integration and sharing of knowledge between multiple stakeholder groups, creating a platform for meaningful engagement towards the design and integration of VR technology as a routine part of the patient care pathway. This paper presents two cases of VR design and use on a large Australian health precinct. Through the two cases, this paper addresses the question: how can open innovation approaches facilitate meaningful stakeholder engagement for VR design in healthcare? Four portable principles are identified that summarise key learnings and may contribute to open innovation approaches for the design of VR for health services and human computer interaction practitioners engaging stakeholders at the ecosystem, health service, hospital department and patient level.",
+    "authors": [
+      "Mathilde R Desselle",
+      "Andrea McKittrick",
+      "jason brown brown",
+      "Marianella Ivonne Chamorro-Koc",
+      "Glenda Amayo Caldwell"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "p1039",
+    "id": "p1039",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Open innovation voices and choices: case studies of designing interactive virtual reality experiences in Australian public hospitals",
+    "type": "paper"
+  },
+  {
+    "TLDR": "Many organisations now have up to 5 generations\u00a0(Traditionalists to Generation Z) participating in the workplace.  Each generation has differing\u00a0expectations, points of view and creative perspectives.  How can Human Centred Design and Design Thinking Practices help give everyone a voice and for that voice to be heard?  Cathy will discuss various examples where Design Thinking has been applied to allow all the voices across her team and across the organisation to be Creatively Connected.",
+    "UID": "ind06",
+    "abstract": "Many organisations now have up to 5 generations\u00a0(Traditionalists to Generation Z) participating in the workplace.  Each generation has differing\u00a0expectations, points of view and creative perspectives.  How can Human Centred Design and Design Thinking Practices help give everyone a voice and for that voice to be heard?  Cathy will discuss various examples where Design Thinking has been applied to allow all the voices across her team and across the organisation to be Creatively Connected.",
+    "authors": [
+      "Cathy McGurk"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "ind06",
+    "id": "ind06",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Giving Everyone a Voice",
+    "type": "industry"
+  },
+  {
+    "TLDR": "This paper presents a scoping review of intergenerational active play to provide an overview of current research in HCI and related disciplines. Play has been widely perceived as a common activity among people of all ages. Physical activity and active play are essential to positive developmental outcomes, especially of those in preschool years. Intergenerational play can be beneficial to people of different generations by promoting meaningful interactions and healthy relationships. Finally, intergenerational active play shows great potential in fostering early childhood development and positive ageing for older adults. Digital technology provides opportunities for promoting intergenerational active play in new ways, such as digital games, exergames, and tangible embodied embedded interaction (TEIs). Based on the review, we present a framework for intergenerational active play which encapsulates the key concepts, challenges, and opportunities for future research and design.",
+    "UID": "lbw1040",
+    "abstract": "This paper presents a scoping review of intergenerational active play to provide an overview of current research in HCI and related disciplines. Play has been widely perceived as a common activity among people of all ages. Physical activity and active play are essential to positive developmental outcomes, especially of those in preschool years. Intergenerational play can be beneficial to people of different generations by promoting meaningful interactions and healthy relationships. Finally, intergenerational active play shows great potential in fostering early childhood development and positive ageing for older adults. Digital technology provides opportunities for promoting intergenerational active play in new ways, such as digital games, exergames, and tangible embodied embedded interaction (TEIs). Based on the review, we present a framework for intergenerational active play which encapsulates the key concepts, challenges, and opportunities for future research and design.",
+    "authors": [
+      "Khoa Dang Tran",
+      "Alethea Blackler",
+      "Bernd Ploderer",
+      "Nicole E M Vickery"
+    ],
+    "bio": "",
+    "code_link": "",
+    "forum": "lbw1040",
+    "id": "lbw1040",
+    "image": "",
+    "keywords": [
+      ""
+    ],
+    "link": "",
+    "pdf_url": "",
+    "recs": [],
+    "sessions": [
+      ""
+    ],
+    "title": "Intergenerational active play: a scoping review",
     "type": "lbw"
   }
 ]
