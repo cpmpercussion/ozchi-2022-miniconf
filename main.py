@@ -4,6 +4,7 @@ import csv
 import glob
 import json
 import os
+import random
 
 import yaml
 from flask import Flask, jsonify, redirect, render_template, send_from_directory
@@ -35,7 +36,7 @@ def main(site_data_path):
         for p in site_data[typ]:
             by_uid[typ][p["UID"]] = p
 
-    print(site_data["main_calendar"])
+    # print(site_data["papers"])
     print("Data Successfully Loaded")
     return extra_files
 
@@ -117,7 +118,8 @@ def papers():
 @app.route("/papers2.html")
 def papers2():
     data = _data()
-    data["papers"] = site_data["papers"]
+    data["papers"] = site_data["papers"] # fix this
+    random.shuffle(data["papers"])
     return render_template("papers2.html", **data)
 
 @app.route("/creativity.html")
