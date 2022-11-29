@@ -1,7 +1,7 @@
 
 - UID: S1
   title: Dignity and Emerging Systems
-  chair:
+  chair: Dana McKay
   date: Wednesday 2022-11-30 11:00-12:20 AEDT
   location: "Shine Dome: Ian Wark Theatre"
   type: papers
@@ -10,7 +10,7 @@
 
 - UID: S2
   title: Tangibles and AI
-  chair:
+  chair: Anne Ozdowska
   date: Wednesday 2022-11-30 14:00-15:30 AEDT
   location: "Shine Dome: Ian Wark Theatre"
   type: papers
@@ -19,7 +19,7 @@
 
 - UID: S3
   title: Design and the Design Process
-  chair:
+  chair: Jessica Sharmin Rahman
   date: Wednesday 2022-11-30 16:00-17:30 AEDT
   location: "Shine Dome: Ian Wark Theatre"
   type: papers
@@ -28,7 +28,7 @@
 
 - UID: S4
   title: HCI at Work
-  chair:
+  chair: Brett Fyfield
   date: Thursday 2022-12-01 09:30-10:30 AEDT
   location: "Shine Dome: Ian Wark Theatre"
   type: papers
@@ -47,7 +47,7 @@
 
 - UID: S5
   title: Nature and the Home
-  chair:
+  chair: Stine Johansen
   date: Thursday 2022-12-01 13:30-15:00 AEDT
   location: "Shine Dome: Ian Wark Theatre"
   type: papers
@@ -56,7 +56,7 @@
 
 - UID: S6
   title: Care-ful Design
-  chair:
+  chair: Mathilde Desselle
   date: Thursday 2022-12-01 15:30-16:20 AEDT
   location: "Shine Dome: Ian Wark Theatre"
   type: papers
@@ -65,7 +65,7 @@
 
 - UID: S7
   title: Games and Play
-  chair:
+  chair: Michelle Adiwangsa
   date: Friday 2022-12-02 09:30-11:00 AEDT
   location: "Shine Dome: Ian Wark Theatre"
   type: papers
