@@ -1,3 +1,9 @@
+## Code of Conduct
+
+We adhere to the [OzCHI code of conduct](
+http://www.ozchi.org/2018/docs/OZCHI_CodeOfConduct2018.pdf) throughout the conference.
+
+
 ## Attending
 
 ### Dinner Crawl
