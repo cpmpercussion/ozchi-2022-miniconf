@@ -1,10 +1,13 @@
 ## Attending
 
-### Dinner Crawl
+### Dinner Crawl on Thursday
 
-There are [a variety of dinner locations](https://www.google.com/maps/d/viewer?hl=en&mid=1espGV2rrNW2Ig2erhLgN3mzSQcL4MLg&ll=-35.27768181362172%2C149.13163682554307&z=16) around the way from the main conference venue to The Connected Creativity Algorave gig, which you can check out.
+On Thursday 1/12/2022, we have no formal plans for dinner but encourage attendees to walk to Ainslie Arts Centre from the Shine Dome (30 minutes) and find somewhere to eat on the way.
+
+Here is a map of some of the [dinner locations](https://www.google.com/maps/d/viewer?hl=en&mid=1espGV2rrNW2Ig2erhLgN3mzSQcL4MLg&ll=-35.27768181362172%2C149.13163682554307&z=16) on the way from the main conference venue to The Connected Creativity Algorave gig.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1espGV2rrNW2Ig2erhLgN3mzSQcL4MLg&ehbc=2E312F" height="500" width="800"></iframe>
+
 
 #### How do I register for OzCHI2022?
 
@@ -27,6 +30,33 @@ Here is a list of accommodation options aligning to our [low carbon goal](https:
 - [Ovolo Nishi](https://www.greengetaways.com.au/property/ovolo-nishi/) (walking distance to ANU campus) 
 - [Novotel Canberra](https://novotelcanberra.com.au/Novotel-Canberra/Sustainability/) and [Peppers Gallery](https://www.peppers.com.au/gallery/) both addressed on the website, but did not provide detailed information in terms of sustainability. 
 
+## Presenting and Participating
+
+#### How long are talks?
+
+- Full Papers: 15 minutes + 5 minutes questions.
+- LBW/Case Studeies: 7 minutes + 3 minutes questions.
+
+Please prepare a talk of the correct length, talks that are overtime will be cut off to ennsure fair use of time.
+
+#### I'm a remote presenter, what do I do?
+
+- Remote presentation for OzCHI will take place through Restream.io, an in-browser streaming system.
+- Restream allows us to connect the in-person auditorium to remote guests and simultaneously stream to our remote attendees.
+- Please join us on slack at [ozchi2022.slack.com](https://ozchi2022.slack.com/) where you will be able to find the Restream Studio link for your session.
+
+The remote presentation instructions are [here](https://docs.google.com/document/d/1x9h_8vRnq5X3MQ1EpF-SAT5YKZSEFeGy8bg41skzzow/edit?usp=sharing).
+
+#### I'm a remote attendee, what do I do?
+
+- Remote viewing for OzCHI will take place on YouTube.
+- Please join us on slack at [ozchi2022.slack.com](https://ozchi2022.slack.com/) where you will be able to find the YouTube event links for each session.
+
+#### How do remote presenters and attendess engage and ask questions?
+
+Through slack at [ozchi2022.slack.com](https://ozchi2022.slack.com/).
+
+There is a channel for each session, please ask and answer questions there.
 
 
 ## Accessibility
@@ -92,7 +122,5 @@ Please indicate this on your registration form if you have any food allergies or
 Yes, ANU is [smoke-free](https://services.anu.edu.au/human-resources/wellbeing/smoke-free-campus).
 
 
-<!-- # Will there be a designated quiet space at the conference?
 
-Yes, we are planning to arrange one. -->
 
