@@ -88,22 +88,22 @@ All times are in Anywhere on Earth (AoE) time zone. When the deadline is day D, 
 The call for submissions can be [found here](call.html).
 
 ###### Papers
-- <strike>17 June 2022</strike> **24 June 2022:** Papers due
-- **8 August 2022**: Papers notifications
-- **2 September 2022:** Papers publication ready
+- <strike>17 June 2022 **24 June 2022:** Papers due</strike>
+- <strike> **8 August 2022** : Papers notifications</strike>
+-  <strike> **2 September 2022:** Papers publication ready</strike> 
 
 ###### LBW, Case Studies and Creativity Track
 
-- <strike>12 August 2022</strike> **19 August 2022:** LBW, Case Studies and Creativity Track due
-- **26 September 2022:** LBW and Case Studies notifications
-- **10 October 2022:** LBW and Case Studies publication ready
+- <strike>12 August 2022**19 August 2022:** LBW, Case Studies and Creativity Track due</strike> 
+-  <strike> **26 September 2022:**  LBW and Case Studies notifications</strike>
+-  <strike> **10 October 2022:**  LBW and Case Studies publication ready</strike>
 
 ###### Workshops
-- <strike>15 July 2022</strike> **22 July 2022:** Workshop proposals due
-- **12 August 2022:** Workshop proposals notifications
-- **2 September 2022:** Workshop website to be published
-- **10 October 2022:** Workshop position papers due
-- **31 October 2022:** Notification to participants on acceptance to workshop <br/> (Organisers must notify participants of acceptance at least seven days before the conference Early Registration Deadline)
+- <strike>15 July 2022 **22 July 2022:** Workshop proposals due</strike>
+-  <strike> **12 August 2022:** Workshop proposals notifications</strike>
+-  <strike> **2 September 2022:** Workshop website to be published </strike> 
+-  <strike> **10 October 2022:**  Workshop position papers due</strike>
+-  <strike> **31 October 2022:** Notification to participants on acceptance to workshop <br/> (Organisers must notify participants of acceptance at least seven days before the conference Early Registration Deadline)</strike> 
 
 ###### Conference Dates Venue
 
