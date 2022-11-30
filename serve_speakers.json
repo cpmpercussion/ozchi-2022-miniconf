@@ -17,7 +17,7 @@
   },
   {
     "UID": "aaron-quigley",
-    "abstract": null,
+    "abstract": "\"Research impact is the contribution that research makes to the economy, society, environment or culture, beyond the contribution to academic research.\" In the ACRA statement we say \"the UK Research Excellence Framework (REF) proposes consideration of the importance of the research problem solved, the approach taken and properties of the solution, the output describing such an approach, and how the approach in the research output has been built on or applied, including concrete evidence of impact.\" \n\nIn this talk, we will take a journey back in time to see what impact Research in Human-Computer Interaction has had on the world. In this journey, we will travel back through examples in the digital computing and predigital computing space. We will then explore yesterday's tomorrow before exploring today's tomorrow and finally tomorrow's tomorrow. \n\nAlong the way, we will discover the dimensions of impact and how you may plan your own research journey to maximise the potential for the impact of your own work. We will see examples of HCI research from falls Prediction to text prediction, from sensory substitution to sense making, from Data Visualization to Discreet Computing, or visualisation to core values, and Radar to recommender systems. \n\nWe will end with a call to Extend Our Capabilities  by Augmenting Interactions with the world around our bodies and the impact this can have for the 8 billion people alive today and the unborn generations to come.\n",
     "bio": "Professor Aaron Quigley is Head of School in Computer Science and Engineering at the University of New South Wales (UNSW) in Australia and is an ACM Distinguished Member and a Senior Member of IEEE. He is the technical program chair for the ACM EICS conference in 2022 and he co-chaired the ACM CHI Conference in 2021. He is a member of the ACM CHI conference steering committee and the ACM Europe Council Conferences Working Group.\n",
     "date": "Friday 2022-12-02 11:30AEDT",
     "im": "static/images/people/aaron-quigley.webp",
@@ -26,7 +26,7 @@
     "location": "Shine Dome: Ian Wark Theatre",
     "session": "keynote-2",
     "speaker": "Aaron Quigley",
-    "talktitle": null,
+    "talktitle": "The Impact of HCI",
     "title": "Aaron Quigley",
     "web": "https://aaronquigley.org/",
     "youtube_link": null
