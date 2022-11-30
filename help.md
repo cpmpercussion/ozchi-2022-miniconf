@@ -5,7 +5,7 @@ http://www.ozchi.org/2018/docs/OZCHI_CodeOfConduct2018.pdf) throughout the confe
 
 ## Attending
 
-### Conference Dinner
+### Conference Dinner on Wednesday
 
 Our conference dinner will be held at the National Library of Australia. Here are a few [transport options](https://www.nla.gov.au/visit-us/getting-to-the-library):
 
