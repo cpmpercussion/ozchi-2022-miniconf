@@ -3,8 +3,17 @@
 We adhere to the [OzCHI code of conduct](
 http://www.ozchi.org/2018/docs/OZCHI_CodeOfConduct2018.pdf) throughout the conference.
 
-
 ## Attending
+
+### Conference Dinner
+
+Our conference dinner will be held at the National Library of Australia. Here are a few [transport options](https://www.nla.gov.au/visit-us/getting-to-the-library):
+
+- Walk (takes ~30mins)
+- Shared taxi/Uber/driving
+- E-scooter which you can find around ANU campus. There are two different brands/apps that you can download from App Store. The app is pretty helpful showing where is the nearest scooter based on your location. More info here: https://www.transport.act.gov.au/travel-options/e-scooters/shared-e-scooters.
+
+
 
 ### Dinner Crawl on Thursday
 
