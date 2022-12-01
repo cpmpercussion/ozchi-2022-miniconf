@@ -55,4 +55,6 @@ The details for the gig are:
   Centre (30 Elouera St, Braddon: [link](https://goo.gl/maps/3xnts63n9WyjMxjj7))
 - **Cost**: Entry is free with OzCHI registration. For those not attending OzCHI tickets are $25/$15 concession available through [Eventbrite](https://www.eventbrite.com.au/e/connected-creativity-algorave-tickets-452218446547).
 
+Looking for dinner? Walk and get it [on the way](https://www.google.com/maps/d/viewer?hl=en&mid=1espGV2rrNW2Ig2erhLgN3mzSQcL4MLg&ll=-35.27768181362172%2C149.13163682554307&z=16)
+
 ### Line-up
