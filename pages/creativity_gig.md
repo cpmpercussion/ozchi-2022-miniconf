@@ -13,7 +13,7 @@ may be standalone.
 
 ## OzCHI 2022 Dinner Crawl
 
-On the way to our gig venue at Ainslie, you can grab some food with your friends/conference attendees with [a variety of dinner options](../help.md).
+On the way to our gig venue at Ainslie, you can grab some food with your friends/conference attendees with [a variety of dinner options](../help.html).
 
 ## The _Connected Creativity Algorave_ **gig**
 
