@@ -11,11 +11,14 @@ conference organisers.
 Creativity submissions may be related to submissions in another track, or they
 may be standalone.
 
-## OzCHI 2022 Dinner Crawl
+## The _Connected Creativity Algorave_ **gig**
+
+- **Time**: 7:30pm--10:00pm (doors at 7pm)
+- **Venue**: Main Hall, **Ainslie** Arts
+  Centre (30 Elouera St, Braddon: [link](https://goo.gl/maps/3xnts63n9WyjMxjj7))
 
 On the way to our gig venue at Ainslie, you can grab some food with your friends/conference attendees with [a variety of dinner options](./help.html).
 
-## The _Connected Creativity Algorave_ **gig**
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/770997042?h=3f79e9ce8f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Connected Creativity Algorave (promo video)"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
